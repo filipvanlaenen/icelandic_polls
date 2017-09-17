@@ -23,8 +23,8 @@ Last result: **10** seats (General Election of 29 October 2016)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
-| [10–30 August 2017](2017-08-30-Gallup.html) | Gallup | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
+| [10–30 August 2017](2017-08-30-Gallup.html) | Gallup | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [15–18 August 2017](2017-08-18-MMR.html) | MMR | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 
 ### Probability Mass Function
@@ -34,11 +34,11 @@ The following table shows the probability mass function for the [poll average](a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.1% | 100% |  |
-| 7 | 1.1% | 99.9% |  |
-| 8 | 15% | 98.8% |  |
-| 9 | 60% | 83% | Median |
-| 10 | 20% | 23% | Last Result |
-| 11 | 3% | 3% |  |
+| 7 | 0.9% | 99.9% |  |
+| 8 | 18% | 98.9% |  |
+| 9 | 60% | 81% | Median |
+| 10 | 20% | 22% | Last Result |
+| 11 | 2% | 2% |  |
 | 12 | 0% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
