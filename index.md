@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Pollster/Media   | D | V | P | B | C | A | S | F |
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 October 2016 | General Election | 29.0% <br> 21 | 15.9% <br> 10 | 14.5% <br> 10 | 11.5% <br> 8 | 10.5% <br> 7 | 7.2% <br> 4 | 5.7% <br> 3 | 3.5% <br> 0 |
-| N/A | [Poll Average](average.html) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| [15–18 August 2017](2017-08-18-MMR.html) | MMR | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 15–20 | 12–17 | 8–11 | 5–8 | 0–5 | 0–3 | 6–8 | 3–6 |
+| [15–18 August 2017](2017-08-18-MMR.html) | MMR | 22–27% <br> 15–20 | 18–23% <br> 12–17 | 11–16% <br> 8–11 | 8–12% <br> 5–8 | 5–8% <br> 0–5 | 3–5% <br> 0–3 | 9–13% <br> 6–8 | 5–8% <br> 3–6 |
 | 29 October 2016 | General Election | 29.0% <br> 21 | 15.9% <br> 10 | 14.5% <br> 10 | 11.5% <br> 8 | 10.5% <br> 7 | 7.2% <br> 4 | 5.7% <br> 3 | 3.5% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
