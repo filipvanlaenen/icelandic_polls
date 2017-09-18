@@ -10,7 +10,7 @@ The following resources have been consulted in order to create this site:
 
 The following websites provide similar information to this website:
 
-+ [Electograph – Norway](http://www.electograph.com/search/label/Iceland)
++ [Electograph – Iceland](http://www.electograph.com/search/label/Iceland)
 
 ## Other Resources
 
