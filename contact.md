@@ -12,7 +12,7 @@ If you
 
 you can contact me through any of the following channels:
 
-+ Create a [GitHub issue](https://github.com/filipvanlaenen/norwegian_polls/issues)
++ Create a [GitHub issue](https://github.com/filipvanlaenen/icelandic_polls/issues)
   on this site's GitHub project
 + Send me a notification on Twitter at [@norpolls](https://twitter.com/norpolls)
 + Send me an e-mail at [f.a.vanlaenen@ieee.org](mailto:f.a.vanlaenen@ieee.org)
