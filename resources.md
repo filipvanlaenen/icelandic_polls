@@ -4,7 +4,10 @@
 
 The following resources have been consulted in order to create this site:
 
-+ TBD
++ Wikipedia page about the 2016 parliamentary elections in Iceland: "[Icelandic parliamentary election, 2016](https://en.wikipedia.org/wiki/Icelandic_parliamentary_election,_2016)"
++ Wikipedia page about the 2017 parliamentary elections in Iceland: "[Icelandic parliamentary election, 2017](https://en.wikipedia.org/wiki/Icelandic_parliamentary_election,_2017)"
++ Detailed 2016 election results by Iceland Monitor: "[General Elections 2016 in Iceland](http://icelandmonitor.mbl.is/elections2016/)"
++ Detailed information about the Icelandic electoral system in the IPU PARLINE Database: "[ICELAND (Althingi), Electoral system](http://www.ipu.org/parline-e/reports/2143_B.htm)"
 
 ## Similar Websites
 
