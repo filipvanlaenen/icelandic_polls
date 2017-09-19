@@ -10,6 +10,8 @@ Last result: **11.5%** (General Election of 29 October 2016)
 
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| [15–18 September 2017](2017-09-18-Zenter.html) | Zenter | 10.5% | N/A | N/A | N/A | N/A |
+| [18 September 2017](2017-09-18-Frettabladid.html) | Fréttablaðið | 10.4% | N/A | N/A | N/A | N/A |
 | [10–30 August 2017](2017-08-30-Gallup.html) | Gallup | 10.8% | 10.0–11.7% | 9.8–12.0% | 9.6–12.2% | 9.2–12.6% |
 | [15–18 August 2017](2017-08-18-MMR.html) | MMR | 10.1% | 8.9–11.4% | 8.6–11.8% | 8.3–12.1% | 7.8–12.8% |
 
@@ -24,6 +26,8 @@ Last result: **8** seats (General Election of 29 October 2016)
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
+| [15–18 September 2017](2017-09-18-Zenter.html) | Zenter |  |  |  |  |  |
+| [18 September 2017](2017-09-18-Frettabladid.html) | Fréttablaðið |  |  |  |  |  |
 | [10–30 August 2017](2017-08-30-Gallup.html) | Gallup | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | [15–18 August 2017](2017-08-18-MMR.html) | MMR | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 
@@ -35,10 +39,10 @@ The following table shows the probability mass function for the [poll average](a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.1% | 100% |  |
 | 5 | 3% | 99.9% |  |
-| 6 | 20% | 97% |  |
-| 7 | 51% | 77% | Median |
-| 8 | 25% | 26% | Last Result |
-| 9 | 0.9% | 1.0% |  |
+| 6 | 18% | 97% |  |
+| 7 | 52% | 79% | Median |
+| 8 | 26% | 27% | Last Result |
+| 9 | 1.0% | 1.1% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 

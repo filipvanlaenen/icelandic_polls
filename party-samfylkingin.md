@@ -10,6 +10,8 @@ Last result: **5.7%** (General Election of 29 October 2016)
 
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| [15–18 September 2017](2017-09-18-Zenter.html) | Zenter | 9.0% | N/A | N/A | N/A | N/A |
+| [18 September 2017](2017-09-18-Frettabladid.html) | Fréttablaðið | 5.1% | N/A | N/A | N/A | N/A |
 | [10–30 August 2017](2017-08-30-Gallup.html) | Gallup | 9.7% | 8.9–10.6% | 8.7–10.8% | 8.5–11.0% | 8.2–11.4% |
 | [15–18 August 2017](2017-08-18-MMR.html) | MMR | 10.6% | 9.4–12.0% | 9.1–12.4% | 8.8–12.7% | 8.3–13.4% |
 
@@ -24,8 +26,10 @@ Last result: **3** seats (General Election of 29 October 2016)
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [15–18 September 2017](2017-09-18-Zenter.html) | Zenter |  |  |  |  |  |
+| [18 September 2017](2017-09-18-Frettabladid.html) | Fréttablaðið |  |  |  |  |  |
 | [10–30 August 2017](2017-08-30-Gallup.html) | Gallup | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
-| [15–18 August 2017](2017-08-18-MMR.html) | MMR | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
+| [15–18 August 2017](2017-08-18-MMR.html) | MMR | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 
 ### Probability Mass Function
 
@@ -35,11 +39,11 @@ The following table shows the probability mass function for the [poll average](a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
-| 5 | 1.1% | 100% |  |
-| 6 | 33% | 98.9% |  |
-| 7 | 50% | 66% | Median |
-| 8 | 15% | 16% |  |
-| 9 | 1.4% | 1.4% |  |
+| 5 | 0.9% | 100% |  |
+| 6 | 32% | 99.1% |  |
+| 7 | 54% | 68% | Median |
+| 8 | 12% | 13% |  |
+| 9 | 1.2% | 1.2% |  |
 | 10 | 0% | 0% |  |
 
 
