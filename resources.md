@@ -14,7 +14,7 @@ The following websites provide similar information to this website:
 
 ## Other Resources
 
-+ The Twitter feed for this site: [@norpolls](https://twitter.com/norpolls)
++ The Twitter feed for this site: [@norpolls](https://twitter.com/is_polls)
 + The GitHub project for this site: [filipvanlaenen/icelandic_polls](https://github.com/filipvanlaenen/icelandic_polls)
 
 ## Sister Websites
