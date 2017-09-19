@@ -25,7 +25,7 @@ Last result: **4** seats (General Election of 29 October 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–3 |
 | [10–30 August 2017](2017-08-30-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
-| [15–18 August 2017](2017-08-18-MMR.html) | MMR | 0 | 0 | 0 | 0–3 | 0–3 |
+| [15–18 August 2017](2017-08-18-MMR.html) | MMR | 0 | 0 | 0 | 0–1 | 0–3 |
 
 ### Probability Mass Function
 
@@ -33,10 +33,10 @@ The following table shows the probability mass function for the [poll average](a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.7% | 100% | Median |
-| 1 | 0% | 1.3% |  |
-| 2 | 0% | 1.3% |  |
-| 3 | 1.2% | 1.3% |  |
+| 0 | 98.5% | 100% | Median |
+| 1 | 0.7% | 1.5% |  |
+| 2 | 0% | 0.8% |  |
+| 3 | 0.8% | 0.8% |  |
 | 4 | 0% | 0% | Last Result |
 
 
