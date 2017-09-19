@@ -23,8 +23,6 @@
    the hatched areas and the red line
 1. Add a legend to the graph with the seat projections for coalitions explaining
    the filled and the hatched areas and the red line
-1. Mark the last election's result and the median in the seat probabilities
-   table in a column named "special marks"
 1. Add an overview page for each pollster
 1. Add an overview page for each medium
 1. Better sorting in the overview tables: first by end date, then by start date,
