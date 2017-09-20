@@ -25,11 +25,11 @@ Last result: **3** seats (General Election of 29 October 2016)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 3–7 | 0–8 | 0–8 | 0–9 |
+| N/A | [Poll Average](average.html) | 6 | 0–7 | 0–8 | 0–8 | 0–9 |
 | [15–18 September 2017](2017-09-18-Zenter.html) | Zenter | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| [18 September 2017](2017-09-18-Frettabladid.html) | Fréttablaðið | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [18 September 2017](2017-09-18-Frettabladid.html) | Fréttablaðið | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [10–30 August 2017](2017-08-30-Gallup.html) | Gallup | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
-| [15–18 August 2017](2017-08-18-MMR.html) | MMR | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| [15–18 August 2017](2017-08-18-MMR.html) | MMR | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 
 ### Probability Mass Function
 
@@ -37,16 +37,16 @@ The following table shows the probability mass function for the [poll average](a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% |  |
-| 1 | 0% | 92% |  |
-| 2 | 0.1% | 92% |  |
-| 3 | 15% | 91% | Last Result |
-| 4 | 2% | 77% |  |
-| 5 | 9% | 74% |  |
-| 6 | 30% | 66% | Median |
-| 7 | 27% | 36% |  |
-| 8 | 7% | 9% |  |
-| 9 | 2% | 2% |  |
+| 0 | 11% | 100% |  |
+| 1 | 0% | 89% |  |
+| 2 | 0% | 89% |  |
+| 3 | 10% | 89% | Last Result |
+| 4 | 5% | 79% |  |
+| 5 | 9% | 75% |  |
+| 6 | 29% | 66% | Median |
+| 7 | 30% | 37% |  |
+| 8 | 6% | 7% |  |
+| 9 | 0.6% | 0.6% |  |
 | 10 | 0% | 0% |  |
 
 
