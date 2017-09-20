@@ -27,7 +27,7 @@ Last result: **4** seats (General Election of 29 October 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [15–18 September 2017](2017-09-18-Zenter.html) | Zenter | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [18 September 2017](2017-09-18-Frettabladid.html) | Fréttablaðið | 4 | 4–5 | 3–6 | 3–6 | 1–6 |
+| [18 September 2017](2017-09-18-Frettabladid.html) | Fréttablaðið | 4 | 4–5 | 3–6 | 3–6 | 3–6 |
 | [10–30 August 2017](2017-08-30-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [15–18 August 2017](2017-08-18-MMR.html) | MMR | 0 | 0 | 0 | 0–1 | 0–3 |
 
@@ -42,7 +42,7 @@ The following table shows the probability mass function for the [poll average](a
 | 2 | 0% | 44% |  |
 | 3 | 12% | 44% |  |
 | 4 | 20% | 32% | Last Result |
-| 5 | 11% | 12% |  |
+| 5 | 10% | 12% |  |
 | 6 | 2% | 2% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
