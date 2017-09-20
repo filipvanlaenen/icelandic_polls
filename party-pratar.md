@@ -40,9 +40,9 @@ The following table shows the probability mass function for the [poll average](a
 | 6 | 0.5% | 100% |  |
 | 7 | 6% | 99.5% |  |
 | 8 | 21% | 93% |  |
-| 9 | 58% | 72% | Median |
+| 9 | 57% | 72% | Median |
 | 10 | 13% | 14% | Last Result |
-| 11 | 1.1% | 1.4% |  |
+| 11 | 1.2% | 2% |  |
 | 12 | 0.3% | 0.3% |  |
 | 13 | 0% | 0% |  |
 
