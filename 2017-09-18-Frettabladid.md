@@ -1,4 +1,4 @@
-# Opinion Poll by Fréttablaðið, 18 September 2017
+# Opinion Poll by Fréttablaðið for Fréttablaðið, 18 September 2017
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
@@ -379,7 +379,7 @@
 ### Opinion Poll
 
 + **Pollster:** Fréttablaðið
-+ **Media:** —
++ **Media:** Fréttablaðið
 + **Fieldwork period:** 18 September 2017
 
 ### Calculations
