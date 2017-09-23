@@ -9,7 +9,7 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Pollster/Media   | D | V | P | B | C | A | S | F |
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 October 2016 | General Election | 29.0% <br> 21 | 15.9% <br> 10 | 14.5% <br> 10 | 11.5% <br> 8 | 10.5% <br> 7 | 7.2% <br> 4 | 5.7% <br> 3 | 3.5% <br> 0 |
-| N/A | Poll Average | 14–20 | 12–18 | 7–11 | 5–8 | 0–4 | 0–5 | 0–7 | 5–8 |
+| N/A | Poll Average | 21–29% <br> 14–20 | 18–25% <br> 12–18 | 11–16% <br> 7–11 | 9–12% <br> 5–8 | 2–6% <br> 0–4 | 2–9% <br> 0–5 | 4–11% <br> 0–7 | 8–13% <br> 5–8 |
 | [15–18 September 2017](2017-09-18-Zenter.html) | Zenter | 24–29% <br> 16–20 | 20–26% <br> 13–17 | 11–15% <br> 7–10 | 9–13% <br> 5–8 | 2–4% <br> 0 | 4–7% <br> 0–4 | 7–11% <br> 5–7 | 8–12% <br> 5–8 |
 | [18 September 2017](2017-09-18-Frettabladid.html) | Fréttablaðið | 20–26% <br> 14–18 | 20–26% <br> 13–18 | 12–16% <br> 7–11 | 8–13% <br> 5–9 | 4–7% <br> 0–4 | 6–9% <br> 3–6 | 4–7% <br> 0–4 | 9–13% <br> 5–9 |
 | [10–30 August 2017](2017-08-30-Gallup.html) | Gallup | 24–28% <br> 17–20 | 18–21% <br> 12–15 | 12–15% <br> 8–10 | 10–12% <br> 6–8 | 4–6% <br> 0–4 | 2–4% <br> 0 | 9–11% <br> 6–8 | 9–12% <br> 6–8 |
@@ -36,6 +36,168 @@ Only polls for which at least the sample size has been published are included in
 ![Graph with voting intentions not yet produced](average.png "Voting Intentions")
 
 ### Confidence Intervals
+
+| Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| <a href="#sjálfstæðisflokkurinn">Sjálfstæðisflokkurinn</a> | 29.0% | 25.6% | 22.3–27.6% |21.5–28.1% | 20.9–28.6% | 19.9–29.6% |
+| <a href="#vinstrihreyfingin-–-grænt-framboð">Vinstrihreyfingin – grænt framboð</a> | 15.9% | 21.9% | 19.1–24.3% |18.7–24.9% | 18.3–25.4% | 17.7–26.4% |
+| <a href="#píratar">Píratar</a> | 14.5% | 13.1% | 11.8–14.6% |11.3–15.2% | 11.0–15.6% | 10.3–16.6% |
+| <a href="#framsóknarflokkurinn">Framsóknarflokkurinn</a> | 11.5% | 10.6% | 9.4–11.8% |9.0–12.1% | 8.7–12.5% | 8.1–13.2% |
+| <a href="#viðreisn">Viðreisn</a> | 10.5% | 4.6% | 2.5–5.8% |2.3–6.2% | 2.1–6.5% | 1.8–7.2% |
+| <a href="#björt-framtíð">Björt framtíð</a> | 7.2% | 5.6% | 2.7–7.7% |2.5–8.2% | 2.4–8.6% | 2.1–9.3% |
+| <a href="#samfylkingin">Samfylkingin</a> | 5.7% | 8.9% | 4.8–10.3% |4.4–10.6% | 4.2–10.9% | 3.7–11.4% |
+| <a href="#flokkur-fólksins">Flokkur fólksins</a> | 3.5% | 10.5% | 9.2–11.8% |8.8–12.2% | 8.5–12.6% | 7.9–13.5% |
+
+### Sjálfstæðisflokkurinn
+
+*For a full overview of the results for this party, see the [Sjálfstæðisflokkurinn](party-sjlfstisflokkurinn.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 18 | 0% | 100% |  |
+| 19 | 0.2% | 100% |  |
+| 20 | 1.2% | 99.8% |  |
+| 21 | 4% | 98.6% |  |
+| 22 | 7% | 95% |  |
+| 23 | 9% | 88% |  |
+| 24 | 10% | 78% |  |
+| 25 | 16% | 68% |  |
+| 26 | 24% | 52% | Median |
+| 27 | 19% | 29% |  |
+| 28 | 7% | 10% |  |
+| 29 | 2% | 3% | Last Result |
+| 30 | 0.4% | 0.5% |  |
+| 31 | 0.1% | 0.1% |  |
+| 32 | 0% | 0% |  |
+
+### Vinstrihreyfingin – grænt framboð
+
+*For a full overview of the results for this party, see the [Vinstrihreyfingin – grænt framboð](party-vinstrihreyfingingrntframbo.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 16 | 0% | 100% | Last Result |
+| 17 | 0.3% | 100% |  |
+| 18 | 4% | 99.7% |  |
+| 19 | 14% | 96% |  |
+| 20 | 15% | 82% |  |
+| 21 | 12% | 67% |  |
+| 22 | 17% | 55% | Median |
+| 23 | 18% | 38% |  |
+| 24 | 13% | 20% |  |
+| 25 | 6% | 8% |  |
+| 26 | 2% | 2% |  |
+| 27 | 0.3% | 0.4% |  |
+| 28 | 0% | 0% |  |
+| 29 | 0% | 0% |  |
+
+### Píratar
+
+*For a full overview of the results for this party, see the [Píratar](party-pratar.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 9 | 0% | 100% |  |
+| 10 | 0.9% | 100% |  |
+| 11 | 6% | 99.0% |  |
+| 12 | 21% | 93% |  |
+| 13 | 37% | 71% | Median |
+| 14 | 24% | 35% | Last Result |
+| 15 | 8% | 11% |  |
+| 16 | 2% | 3% |  |
+| 17 | 0.5% | 0.5% |  |
+| 18 | 0.1% | 0.1% |  |
+| 19 | 0% | 0% |  |
+
+### Framsóknarflokkurinn
+
+*For a full overview of the results for this party, see the [Framsóknarflokkurinn](party-framsknarflokkurinn.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 7 | 0.1% | 100% |  |
+| 8 | 2% | 99.9% |  |
+| 9 | 11% | 98% |  |
+| 10 | 33% | 87% |  |
+| 11 | 39% | 54% | Last Result, Median |
+| 12 | 13% | 15% |  |
+| 13 | 2% | 2% |  |
+| 14 | 0.2% | 0.2% |  |
+| 15 | 0% | 0% |  |
+
+### Viðreisn
+
+*For a full overview of the results for this party, see the [Viðreisn](party-vireisn.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 0.1% | 100% |  |
+| 2 | 11% | 99.9% |  |
+| 3 | 20% | 89% |  |
+| 4 | 17% | 69% |  |
+| 5 | 37% | 52% | Median |
+| 6 | 13% | 15% |  |
+| 7 | 2% | 2% |  |
+| 8 | 0.2% | 0.2% |  |
+| 9 | 0% | 0% |  |
+| 10 | 0% | 0% | Last Result |
+
+### Björt framtíð
+
+*For a full overview of the results for this party, see the [Björt framtíð](party-bjrtframt.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 0% | 100% |  |
+| 2 | 7% | 100% |  |
+| 3 | 26% | 93% |  |
+| 4 | 3% | 68% |  |
+| 5 | 14% | 64% |  |
+| 6 | 21% | 50% | Median |
+| 7 | 17% | 29% | Last Result |
+| 8 | 9% | 12% |  |
+| 9 | 2% | 3% |  |
+| 10 | 0.3% | 0.3% |  |
+| 11 | 0% | 0% |  |
+
+### Samfylkingin
+
+*For a full overview of the results for this party, see the [Samfylkingin](party-samfylkingin.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 2 | 0% | 100% |  |
+| 3 | 0.3% | 100% |  |
+| 4 | 6% | 99.7% |  |
+| 5 | 16% | 93% |  |
+| 6 | 9% | 78% | Last Result |
+| 7 | 3% | 68% |  |
+| 8 | 9% | 65% |  |
+| 9 | 26% | 56% | Median |
+| 10 | 25% | 30% |  |
+| 11 | 5% | 6% |  |
+| 12 | 0.3% | 0.3% |  |
+| 13 | 0% | 0% |  |
+
+### Flokkur fólksins
+
+*For a full overview of the results for this party, see the [Flokkur fólksins](party-flokkurflksins.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 4 | 0% | 100% | Last Result |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 3% | 99.9% |  |
+| 9 | 14% | 97% |  |
+| 10 | 35% | 83% | Median |
+| 11 | 34% | 48% |  |
+| 12 | 11% | 14% |  |
+| 13 | 3% | 3% |  |
+| 14 | 0.4% | 0.4% |  |
+| 15 | 0% | 0% |  |
+
 
 ## Seats
 
