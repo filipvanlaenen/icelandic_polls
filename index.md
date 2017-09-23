@@ -28,3 +28,8 @@ Only polls for which at least the sample size has been published are included in
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
+
+![Graph with voting intentions not yet produced](average.png "Voting Intentions")
+
+![Graph with seats not yet produced](average-seats.png "Seats")
+![Graph with coalitions seats not yet produced](average-coalitions-seats.png "Coalitions Seats")
