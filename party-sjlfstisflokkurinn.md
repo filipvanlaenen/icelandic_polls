@@ -10,7 +10,7 @@ Last result: **29.0%** (General Election of 29 October 2016)
 
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| [19–21 September 2017](2017-09-21-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 22.9% | N/A | N/A | N/A | N/A |
+| [19–21 September 2017](2017-09-21-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 22.9% | 21.2–24.8% | 20.7–25.3% | 20.3–25.8% | 19.5–26.7% |
 | [15–18 September 2017](2017-09-18-Zenter.html) | Zenter | 26.4% | 24.6–28.2% | 24.1–28.8% | 23.7–29.2% | 22.8–30.2% |
 | [18 September 2017](2017-09-18-Frettabladid.html) | Fréttablaðið | 23.0% | 21.2–25.0% | 20.7–25.6% | 20.2–26.0% | 19.4–27.0% |
 | [10–30 August 2017](2017-08-30-Gallup.html) | Gallup | 26.3% | 25.1–27.5% | 24.8–27.9% | 24.5–28.2% | 23.9–28.8% |
@@ -26,8 +26,8 @@ Last result: **21** seats (General Election of 29 October 2016)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–19 | 14–20 | 14–20 | 14–20 |
-| [19–21 September 2017](2017-09-21-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 17 | 14–19 | 14–20 | 14–20 | 13–20 |
+| [19–21 September 2017](2017-09-21-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 15 | 14–17 | 13–17 | 13–17 | 13–18 |
 | [15–18 September 2017](2017-09-18-Zenter.html) | Zenter | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
 | [18 September 2017](2017-09-18-Frettabladid.html) | Fréttablaðið | 15 | 14–17 | 14–18 | 14–18 | 13–20 |
 | [10–30 August 2017](2017-08-30-Gallup.html) | Gallup | 18 | 17–20 | 17–20 | 17–20 | 16–20 |
@@ -39,15 +39,16 @@ The following table shows the probability mass function for the [poll average](a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.2% | 100% |  |
-| 14 | 6% | 99.7% |  |
-| 15 | 13% | 93% |  |
-| 16 | 12% | 80% |  |
-| 17 | 17% | 69% |  |
-| 18 | 26% | 51% | Median |
-| 19 | 18% | 25% |  |
-| 20 | 7% | 7% |  |
-| 21 | 0.3% | 0.3% | Last Result |
+| 12 | 0.1% | 100% |  |
+| 13 | 2% | 99.9% |  |
+| 14 | 11% | 98% |  |
+| 15 | 18% | 87% |  |
+| 16 | 13% | 69% |  |
+| 17 | 17% | 56% | Median |
+| 18 | 20% | 39% |  |
+| 19 | 13% | 19% |  |
+| 20 | 5% | 6% |  |
+| 21 | 0.2% | 0.2% | Last Result |
 | 22 | 0% | 0% |  |
 
 
