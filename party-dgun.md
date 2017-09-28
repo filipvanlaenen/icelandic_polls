@@ -1,0 +1,57 @@
+# Dögun
+
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
+
+## Voting Intentions
+
+Last result: **1.7%** (General Election of 29 October 2016)
+
+### Confidence Intervals
+
+| Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 0.7% | 0.4–1.0% | 0.3–1.2% | 0.3–1.3% | 0.2–1.5% |
+| [26–28 September 2017](2017-09-28-MMR.html) | MMR | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.5% |
+| [19–21 September 2017](2017-09-21-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0.0% | N/A | N/A | N/A | N/A |
+| [15–18 September 2017](2017-09-18-Zenter.html) | Zenter | 0.0% | N/A | N/A | N/A | N/A |
+| [18 September 2017](2017-09-18-Frettabladid.html) | Fréttablaðið | 0.0% | N/A | N/A | N/A | N/A |
+| [10–30 August 2017](2017-08-30-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
+| [15–18 August 2017](2017-08-18-MMR.html) | MMR | 0.0% | N/A | N/A | N/A | N/A |
+
+### Probability Mass Function
+
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Dögun.
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| -0.5–0.5% | 32% | 100% |  |
+| 0.5–1.5% | 67% | 68% | Median |
+| 1.5–2.5% | 0.4% | 0.4% | Last Result |
+| 2.5–3.5% | 0% | 0% |  |
+
+
+## Seats
+
+Last result: **0** seats (General Election of 29 October 2016)
+
+### Confidence Intervals
+
+| Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [26–28 September 2017](2017-09-28-MMR.html) | MMR | 0 | 0 | 0 | 0 | 0 |
+| [19–21 September 2017](2017-09-21-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið |  |  |  |  |  |
+| [15–18 September 2017](2017-09-18-Zenter.html) | Zenter |  |  |  |  |  |
+| [18 September 2017](2017-09-18-Frettabladid.html) | Fréttablaðið |  |  |  |  |  |
+| [10–30 August 2017](2017-08-30-Gallup.html) | Gallup |  |  |  |  |  |
+| [15–18 August 2017](2017-08-18-MMR.html) | MMR |  |  |  |  |  |
+
+### Probability Mass Function
+
+The following table shows the probability mass function per seat for the [poll average](average.html) for Dögun.
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+
