@@ -12,6 +12,7 @@ Last result: **1.7%** (General Election of 29 October 2016)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.7% | 0.4–1.0% | 0.3–1.2% | 0.3–1.3% | 0.2–1.5% |
 | [26–28 September 2017](2017-09-28-MMR.html) | MMR | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.5% |
+| [15–28 September 2017](2017-09-28-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
 | [25–28 September 2017](2017-09-28-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0.0% | N/A | N/A | N/A | N/A |
 | [19–21 September 2017](2017-09-21-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0.0% | N/A | N/A | N/A | N/A |
 | [15–18 September 2017](2017-09-18-Zenter.html) | Zenter | 0.0% | N/A | N/A | N/A | N/A |
@@ -41,6 +42,7 @@ Last result: **0** seats (General Election of 29 October 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [26–28 September 2017](2017-09-28-MMR.html) | MMR | 0 | 0 | 0 | 0 | 0 |
+| [15–28 September 2017](2017-09-28-Gallup.html) | Gallup |  |  |  |  |  |
 | [25–28 September 2017](2017-09-28-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið |  |  |  |  |  |
 | [19–21 September 2017](2017-09-21-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið |  |  |  |  |  |
 | [15–18 September 2017](2017-09-18-Zenter.html) | Zenter |  |  |  |  |  |
