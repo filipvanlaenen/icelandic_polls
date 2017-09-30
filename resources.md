@@ -22,6 +22,7 @@ The following websites provide similar information to this website:
 
 ## Sister Websites
 
++ [Belgian Polls](https://filipvanlaenen.github.io/belgian_polls/)
 + [British Polls](https://filipvanlaenen.github.io/british_polls/)
 + [Flemish Polls](https://filipvanlaenen.github.io/flemish_polls/)
 + [Norwegian Polls](https://filipvanlaenen.github.io/norwegian_polls/)
