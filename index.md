@@ -5,12 +5,12 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Pollster/Media   | D | V | P | B | C | A | S | F | T | M |
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 October 2016 | General Election | 29.0% <br> 21 | 15.9% <br> 10 | 14.5% <br> 10 | 11.5% <br> 8 | 10.5% <br> 7 | 7.2% <br> 4 | 5.7% <br> 3 | 3.5% <br> 0 | 1.7% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 21–28% <br> 14–19 | 21–30% <br> 14–22 | 9–15% <br> 6–10 | 6–12% <br> 3–8 | 2–6% <br> 0–4 | 2–8% <br> 0–5 | 4–12% <br> 0–8 | 6–12% <br> 3–8 | 0–1% <br> 0 | 2–9% <br> 0–6 |
+| N/A | [Poll Average](average.html) | 21–28% <br> 14–19 | 21–31% <br> 14–24 | 9–14% <br> 5–9 | 5–12% <br> 3–8 | 2–6% <br> 0–4 | 2–6% <br> 0–4 | 7–12% <br> 4–8 | 5–11% <br> 0–8 | 0–1% <br> 0 | 2–10% <br> 0–6 |
+| [2–3 October 2017](2017-10-03-Frettabladid.html) | Fréttablaðið | 20–25% <br> 14–18 | 26–32% <br> 19–25 | 9–14% <br> 5–9 | 4–7% <br> 1–5 | 2–4% <br> 0 | 2–4% <br> 0 | 9–13% <br> 6–9 | 4–8% <br> 0–5 | N/A <br> N/A | 7–11% <br> 4–7 |
 | [26–28 September 2017](2017-09-28-MMR.html) | MMR | 21–26% <br> 14–18 | 22–27% <br> 16–21 | 8–12% <br> 5–8 | 5–8% <br> 3–5 | 4–6% <br> 0–4 | 2–4% <br> 0 | 9–12% <br> 6–8 | 7–10% <br> 4–7 | 0–1% <br> 0 | 6–9% <br> 4–6 |
 | [15–28 September 2017](2017-09-28-Gallup.html) | Gallup | 22–25% <br> 15–18 | 24–27% <br> 17–20 | 9–12% <br> 6–8 | 9–11% <br> 6–8 | 3–4% <br> 0 | 4–6% <br> 0–3 | 8–11% <br> 6–7 | 9–11% <br> 6–8 | N/A <br> N/A | 2–3% <br> 0 |
 | [25–28 September 2017](2017-09-28-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 22–27% <br> 14–20 | 26–32% <br> 18–23 | 10–14% <br> 6–9 | 6–9% <br> 3–6 | 4–6% <br> 0–4 | 3–6% <br> 0–3 | 6–9% <br> 3–6 | 5–8% <br> 3–6 | N/A <br> N/A | 3–6% <br> 0–4 |
 | [15–18 September 2017](2017-09-18-Zenter.html) | Zenter | 24–29% <br> 16–20 | 20–26% <br> 14–18 | 11–15% <br> 7–10 | 9–13% <br> 5–8 | 2–4% <br> 0 | 4–7% <br> 0–4 | 7–11% <br> 4–7 | 8–12% <br> 5–8 | N/A <br> N/A | N/A <br> N/A |
-| [18 September 2017](2017-09-18-Frettabladid.html) | Fréttablaðið | 20–26% <br> 14–18 | 20–26% <br> 13–18 | 12–16% <br> 7–11 | 8–13% <br> 5–9 | 4–7% <br> 0–4 | 6–9% <br> 3–6 | 4–7% <br> 0–4 | 9–13% <br> 5–9 | N/A <br> N/A | N/A <br> N/A |
 | 29 October 2016 | General Election | 29.0% <br> 21 | 15.9% <br> 10 | 14.5% <br> 10 | 11.5% <br> 8 | 10.5% <br> 7 | 7.2% <br> 4 | 5.7% <br> 3 | 3.5% <br> 0 | 1.7% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
