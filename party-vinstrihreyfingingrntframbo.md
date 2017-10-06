@@ -57,13 +57,13 @@ Last result: **10** seats (General Election of 29 October 2016)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 15–22 | 15–22 | 14–22 | 14–23 |
+| N/A | [Poll Average](average.html) | 19 | 15–22 | 15–22 | 14–22 | 13–23 |
 | [2–3 October 2017](2017-10-03-Frettabladid.html) | Fréttablaðið | 20 | 19–22 | 18–22 | 18–23 | 17–24 |
 | [26–28 September 2017](2017-09-28-MMR.html) | MMR | 17 | 16–20 | 16–20 | 16–21 | 15–21 |
 | [15–28 September 2017](2017-09-28-Gallup.html) | Gallup | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [25–28 September 2017](2017-09-28-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 21 | 20–22 | 19–23 | 18–23 | 17–25 |
 | [19–21 September 2017](2017-09-21-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 22 | 19–22 | 19–22 | 18–23 | 17–23 |
-| [15–18 September 2017](2017-09-18-Zenter.html) | Zenter | 15 | 14–17 | 14–17 | 14–18 | 13–18 |
+| [15–18 September 2017](2017-09-18-Zenter.html) | Zenter | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
 | [18 September 2017](2017-09-18-Frettabladid.html) | Fréttablaðið | 16 | 15–17 | 14–18 | 13–18 | 12–19 |
 | [10–30 August 2017](2017-08-30-Gallup.html) | Gallup | 14 | 13–14 | 12–15 | 12–15 | 12–15 |
 | [15–18 August 2017](2017-08-18-MMR.html) | MMR | 14 | 13–17 | 13–17 | 12–17 | 12–17 |
@@ -80,8 +80,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.5% | 100% |  |
 | 14 | 4% | 99.5% |  |
 | 15 | 7% | 96% |  |
-| 16 | 11% | 89% |  |
-| 17 | 12% | 78% |  |
+| 16 | 10% | 89% |  |
+| 17 | 13% | 78% |  |
 | 18 | 14% | 66% |  |
 | 19 | 14% | 52% | Median |
 | 20 | 13% | 38% |  |
