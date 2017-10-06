@@ -117,6 +117,33 @@ trying to get their opinion polling results as correct as possible, and
 therefore will have a huge incentive to learn from theire mistakes. House
 factors seem therefore a bit patronizing.
 
+### New Parties
+
+Since the method described above relies on regional data in order to calculate
+the number of seats in parliament, new parties that haven't participated in the
+previous election pose a probleme. However, there are number of strategies that
+can be used to estimate the regional distribution of the new party's voters:
+
+* If party A and party B merge together to form a new party C, the regional data
+  for the parties A and B can simply added together as an estimate for the new
+  party's, even though we know that in politics, 1 + 1 ⋚ 2.
+* If a dissidency in a party A breaks out and forms a new party B, the regional
+  data for party A can simply be divided equally between the old party A and the
+  new party B. Multiplicative uniform regional swing will then scale both
+  parties up or down in all electoral districts, but the size of the parties
+  will off course be the same in all electoral districts.
+* In case an entirely new party has been created, the best estimate will
+  probably be the assumption of a uniform distribution across the entire
+  country. This can be achieved by setting the party's size equal to e.g. one
+  percent of the population in each electoral district. Again, multiplicative
+  uniform swing will then scale the party up or down in all electoral districts,
+  in accordance with the party's result in the poll.
+
+Note however that in the case where more information is known about the newly
+formed party, it is always wise to include it. If it's e.g. known that the new
+party will only participate in the election in a part of the country, the
+regional data for the new party should be adjusted in that way.
+
 ## Holes and Spikes in Probability Mass Functions
 
 ## Calculation of the Error Estimate
