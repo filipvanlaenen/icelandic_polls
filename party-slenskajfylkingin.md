@@ -1,19 +1,19 @@
-# Dögun
+# Íslenska þjóðfylkingin
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
 ## Voting Intentions
 
-Last result: **1.7%** (General Election of 29 October 2016)
+Last result: **0.2%** (General Election of 29 October 2016)
 
 ### Confidence Intervals
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.0–0.9% | 0.0–1.0% | 0.0–1.2% | 0.0–1.4% |
-| [2–6 October 2017](2017-10-06-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0.0% | 0.0–0.2% | 0.0–0.3% | 0.0–0.4% | 0.0–0.6% |
+| N/A | [Poll Average](average.html) | 0.5% | 0.3–0.8% | 0.2–1.0% | 0.2–1.1% | 0.1–1.3% |
+| [2–6 October 2017](2017-10-06-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0.4% | 0.2–0.9% | 0.2–1.0% | 0.2–1.1% | 0.1–1.3% |
 | [2–3 October 2017](2017-10-03-Frettabladid.html) | Fréttablaðið | 0.0% | N/A | N/A | N/A | N/A |
-| [26–28 September 2017](2017-09-28-MMR.html) | MMR | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.5% |
+| [26–28 September 2017](2017-09-28-MMR.html) | MMR | 0.0% | N/A | N/A | N/A | N/A |
 | [15–28 September 2017](2017-09-28-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
 | [25–28 September 2017](2017-09-28-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0.0% | N/A | N/A | N/A | N/A |
 | [19–21 September 2017](2017-09-21-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0.0% | N/A | N/A | N/A | N/A |
@@ -24,13 +24,13 @@ Last result: **1.7%** (General Election of 29 October 2016)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Dögun.
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Íslenska þjóðfylkingin.
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| -0.5–0.5% | 66% | 100% | Median |
-| 0.5–1.5% | 34% | 34% |  |
-| 1.5–2.5% | 0.2% | 0.2% | Last Result |
+| -0.5–0.5% | 59% | 100% | Last Result, Median |
+| 0.5–1.5% | 41% | 41% |  |
+| 1.5–2.5% | 0.1% | 0.1% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -45,7 +45,7 @@ Last result: **0** seats (General Election of 29 October 2016)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [2–6 October 2017](2017-10-06-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0 | 0 | 0 | 0 | 0 |
 | [2–3 October 2017](2017-10-03-Frettabladid.html) | Fréttablaðið |  |  |  |  |  |
-| [26–28 September 2017](2017-09-28-MMR.html) | MMR | 0 | 0 | 0 | 0 | 0 |
+| [26–28 September 2017](2017-09-28-MMR.html) | MMR |  |  |  |  |  |
 | [15–28 September 2017](2017-09-28-Gallup.html) | Gallup |  |  |  |  |  |
 | [25–28 September 2017](2017-09-28-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið |  |  |  |  |  |
 | [19–21 September 2017](2017-09-21-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið |  |  |  |  |  |
@@ -56,10 +56,12 @@ Last result: **0** seats (General Election of 29 October 2016)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Dögun.
+The following table shows the probability mass function per seat for the [poll average](average.html) for Íslenska þjóðfylkingin.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0.2% | 0.2% |  |
+| 2 | 0% | 0% |  |
 
 
