@@ -11,6 +11,8 @@ Last result: **0.2%** (General Election of 29 October 2016)
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.5% | 0.3–0.8% | 0.2–1.0% | 0.2–1.1% | 0.1–1.3% |
+| [6–11 October 2017](2017-10-11-MMR.html) | MMR | 0.0% | N/A | N/A | N/A | N/A |
+| [10 October 2017](2017-10-10-Frettabladid.html) | Fréttablaðið | 0.0% | N/A | N/A | N/A | N/A |
 | [2–6 October 2017](2017-10-06-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0.4% | 0.2–0.9% | 0.2–1.0% | 0.2–1.1% | 0.1–1.3% |
 | [2–3 October 2017](2017-10-03-Frettabladid.html) | Fréttablaðið | 0.0% | N/A | N/A | N/A | N/A |
 | [26–28 September 2017](2017-09-28-MMR.html) | MMR | 0.0% | N/A | N/A | N/A | N/A |
@@ -43,6 +45,8 @@ Last result: **0** seats (General Election of 29 October 2016)
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [6–11 October 2017](2017-10-11-MMR.html) | MMR |  |  |  |  |  |
+| [10 October 2017](2017-10-10-Frettabladid.html) | Fréttablaðið |  |  |  |  |  |
 | [2–6 October 2017](2017-10-06-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0 | 0 | 0 | 0 | 0 |
 | [2–3 October 2017](2017-10-03-Frettabladid.html) | Fréttablaðið |  |  |  |  |  |
 | [26–28 September 2017](2017-09-28-MMR.html) | MMR |  |  |  |  |  |
@@ -60,8 +64,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Last Result, Median |
-| 1 | 0.3% | 0.3% |  |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% |  |
 
 
