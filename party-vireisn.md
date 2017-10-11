@@ -55,7 +55,7 @@ Last result: **7** seats (General Election of 29 October 2016)
 | [10 October 2017](2017-10-10-Frettabladid.html) | Fréttablaðið | 0 | 0 | 0 | 0 | 0–3 |
 | [2–6 October 2017](2017-10-06-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0 | 0 | 0 | 0 | 0 |
 | [2–3 October 2017](2017-10-03-Frettabladid.html) | Fréttablaðið | 0 | 0 | 0 | 0 | 0 |
-| [26–28 September 2017](2017-09-28-MMR.html) | MMR | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [26–28 September 2017](2017-09-28-MMR.html) | MMR | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | [15–28 September 2017](2017-09-28-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [25–28 September 2017](2017-09-28-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [19–21 September 2017](2017-09-21-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 3 | 3–4 | 0–5 | 0–5 | 0–5 |
@@ -70,10 +70,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.1% | 100% | Median |
-| 1 | 0.2% | 0.9% |  |
-| 2 | 0% | 0.7% |  |
-| 3 | 0.6% | 0.7% |  |
+| 0 | 98.8% | 100% | Median |
+| 1 | 0.2% | 1.2% |  |
+| 2 | 0% | 1.0% |  |
+| 3 | 0.9% | 1.0% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |

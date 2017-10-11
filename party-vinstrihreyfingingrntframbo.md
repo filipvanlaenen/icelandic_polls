@@ -61,12 +61,12 @@ Last result: **10** seats (General Election of 29 October 2016)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–22 | 14–23 | 14–23 | 13–25 |
+| N/A | [Poll Average](average.html) | 18 | 15–22 | 14–22 | 14–23 | 13–25 |
 | [6–11 October 2017](2017-10-11-MMR.html) | MMR | 16 | 14–17 | 14–18 | 13–18 | 13–18 |
-| [10 October 2017](2017-10-10-Frettabladid.html) | Fréttablaðið | 22 | 20–23 | 20–24 | 19–25 | 18–25 |
+| [10 October 2017](2017-10-10-Frettabladid.html) | Fréttablaðið | 22 | 20–23 | 20–24 | 20–25 | 19–25 |
 | [2–6 October 2017](2017-10-06-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 20 | 19–21 | 18–22 | 17–22 | 17–23 |
 | [2–3 October 2017](2017-10-03-Frettabladid.html) | Fréttablaðið | 20 | 19–22 | 18–22 | 18–23 | 17–24 |
-| [26–28 September 2017](2017-09-28-MMR.html) | MMR | 17 | 16–20 | 16–20 | 16–21 | 15–21 |
+| [26–28 September 2017](2017-09-28-MMR.html) | MMR | 19 | 15–19 | 15–19 | 15–19 | 15–20 |
 | [15–28 September 2017](2017-09-28-Gallup.html) | Gallup | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [25–28 September 2017](2017-09-28-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 21 | 20–22 | 19–23 | 18–23 | 17–25 |
 | [19–21 September 2017](2017-09-21-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 22 | 19–22 | 19–22 | 18–23 | 17–23 |
@@ -91,13 +91,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 8% | 66% |  |
 | 18 | 11% | 58% | Median |
 | 19 | 14% | 47% |  |
-| 20 | 7% | 33% |  |
-| 21 | 9% | 26% |  |
-| 22 | 10% | 17% |  |
-| 23 | 5% | 7% |  |
-| 24 | 0.2% | 2% |  |
-| 25 | 2% | 2% |  |
-| 26 | 0% | 0.1% |  |
+| 20 | 9% | 33% |  |
+| 21 | 10% | 24% |  |
+| 22 | 10% | 15% |  |
+| 23 | 3% | 4% |  |
+| 24 | 0.4% | 1.2% |  |
+| 25 | 0.7% | 0.8% |  |
+| 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 
 

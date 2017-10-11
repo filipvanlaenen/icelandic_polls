@@ -15,7 +15,7 @@ Last result: **0.3%** (General Election of 29 October 2016)
 | [10 October 2017](2017-10-10-Frettabladid.html) | Fréttablaðið | 0.0% | N/A | N/A | N/A | N/A |
 | [2–6 October 2017](2017-10-06-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.2% |
 | [2–3 October 2017](2017-10-03-Frettabladid.html) | Fréttablaðið | 0.0% | N/A | N/A | N/A | N/A |
-| [26–28 September 2017](2017-09-28-MMR.html) | MMR | 0.4% | N/A | N/A | N/A | N/A |
+| [26–28 September 2017](2017-09-28-MMR.html) | MMR | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
 | [15–28 September 2017](2017-09-28-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
 | [25–28 September 2017](2017-09-28-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0.0% | N/A | N/A | N/A | N/A |
 | [19–21 September 2017](2017-09-21-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0.0% | N/A | N/A | N/A | N/A |
@@ -49,7 +49,7 @@ Last result: **0** seats (General Election of 29 October 2016)
 | [10 October 2017](2017-10-10-Frettabladid.html) | Fréttablaðið |  |  |  |  |  |
 | [2–6 October 2017](2017-10-06-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0 | 0 | 0 | 0 | 0 |
 | [2–3 October 2017](2017-10-03-Frettabladid.html) | Fréttablaðið |  |  |  |  |  |
-| [26–28 September 2017](2017-09-28-MMR.html) | MMR |  |  |  |  |  |
+| [26–28 September 2017](2017-09-28-MMR.html) | MMR | 0 | 0 | 0 | 0 | 0 |
 | [15–28 September 2017](2017-09-28-Gallup.html) | Gallup |  |  |  |  |  |
 | [25–28 September 2017](2017-09-28-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið |  |  |  |  |  |
 | [19–21 September 2017](2017-09-21-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið |  |  |  |  |  |

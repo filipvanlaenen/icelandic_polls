@@ -59,10 +59,10 @@ Last result: **21** seats (General Election of 29 October 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–18 | 13–19 | 13–19 | 12–20 |
 | [6–11 October 2017](2017-10-11-MMR.html) | MMR | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
-| [10 October 2017](2017-10-10-Frettabladid.html) | Fréttablaðið | 15 | 14–17 | 14–17 | 13–18 | 13–19 |
+| [10 October 2017](2017-10-10-Frettabladid.html) | Fréttablaðið | 15 | 14–17 | 14–18 | 13–18 | 13–18 |
 | [2–6 October 2017](2017-10-06-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 14 | 13–16 | 12–16 | 12–17 | 12–17 |
 | [2–3 October 2017](2017-10-03-Frettabladid.html) | Fréttablaðið | 15 | 14–17 | 14–17 | 13–18 | 13–19 |
-| [26–28 September 2017](2017-09-28-MMR.html) | MMR | 17 | 14–18 | 14–18 | 14–18 | 13–19 |
+| [26–28 September 2017](2017-09-28-MMR.html) | MMR | 16 | 16 | 15–17 | 15–17 | 13–17 |
 | [15–28 September 2017](2017-09-28-Gallup.html) | Gallup | 17 | 16–18 | 15–18 | 15–18 | 15–18 |
 | [25–28 September 2017](2017-09-28-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 17 | 15–18 | 15–19 | 14–20 | 14–21 |
 | [19–21 September 2017](2017-09-21-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 15 | 14–16 | 13–17 | 13–17 | 13–18 |
@@ -77,13 +77,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 1.2% | 100% |  |
+| 12 | 1.3% | 100% |  |
 | 13 | 8% | 98.7% |  |
-| 14 | 15% | 91% |  |
-| 15 | 20% | 76% |  |
-| 16 | 16% | 56% | Median |
-| 17 | 25% | 40% |  |
-| 18 | 10% | 16% |  |
+| 14 | 16% | 91% |  |
+| 15 | 25% | 75% |  |
+| 16 | 17% | 50% | Median |
+| 17 | 17% | 34% |  |
+| 18 | 11% | 16% |  |
 | 19 | 4% | 5% |  |
 | 20 | 1.3% | 1.4% |  |
 | 21 | 0.1% | 0.1% | Last Result |
