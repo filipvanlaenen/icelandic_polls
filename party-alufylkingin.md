@@ -22,7 +22,7 @@ Last result: **0.3%** (General Election of 29 October 2016)
 | [15–18 September 2017](2017-09-18-Zenter.html) | Zenter | 0.0% | N/A | N/A | N/A | N/A |
 | [18 September 2017](2017-09-18-Frettabladid.html) | Fréttablaðið | 0.0% | N/A | N/A | N/A | N/A |
 | [10–30 August 2017](2017-08-30-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
-| [15–18 August 2017](2017-08-18-MMR.html) | MMR | 0.4% | N/A | N/A | N/A | N/A |
+| [15–18 August 2017](2017-08-18-MMR.html) | MMR | 0.4% | 0.2–0.8% | 0.2–1.0% | 0.2–1.1% | 0.1–1.3% |
 
 ### Probability Mass Function
 
@@ -56,7 +56,7 @@ Last result: **0** seats (General Election of 29 October 2016)
 | [15–18 September 2017](2017-09-18-Zenter.html) | Zenter |  |  |  |  |  |
 | [18 September 2017](2017-09-18-Frettabladid.html) | Fréttablaðið |  |  |  |  |  |
 | [10–30 August 2017](2017-08-30-Gallup.html) | Gallup |  |  |  |  |  |
-| [15–18 August 2017](2017-08-18-MMR.html) | MMR |  |  |  |  |  |
+| [15–18 August 2017](2017-08-18-MMR.html) | MMR | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
