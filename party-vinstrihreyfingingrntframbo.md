@@ -66,14 +66,14 @@ Last result: **10** seats (General Election of 29 October 2016)
 | [10 October 2017](2017-10-10-Frettabladid.html) | Fréttablaðið | 22 | 20–23 | 20–24 | 20–25 | 19–25 |
 | [2–6 October 2017](2017-10-06-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 20 | 19–21 | 18–22 | 17–22 | 17–23 |
 | [2–3 October 2017](2017-10-03-Frettabladid.html) | Fréttablaðið | 20 | 19–22 | 18–22 | 18–23 | 17–24 |
-| [26–28 September 2017](2017-09-28-MMR.html) | MMR | 17 | 16–19 | 15–20 | 15–20 | 14–21 |
+| [26–28 September 2017](2017-09-28-MMR.html) | MMR | 17 | 16–19 | 16–20 | 16–21 | 15–21 |
 | [15–28 September 2017](2017-09-28-Gallup.html) | Gallup | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [25–28 September 2017](2017-09-28-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 21 | 20–22 | 19–23 | 18–23 | 17–25 |
 | [19–21 September 2017](2017-09-21-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 22 | 19–22 | 19–22 | 18–23 | 17–23 |
 | [15–18 September 2017](2017-09-18-Zenter.html) | Zenter | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
 | [18 September 2017](2017-09-18-Frettabladid.html) | Fréttablaðið | 16 | 15–17 | 14–18 | 13–18 | 12–19 |
 | [10–30 August 2017](2017-08-30-Gallup.html) | Gallup | 14 | 13–14 | 12–15 | 12–15 | 12–15 |
-| [15–18 August 2017](2017-08-18-MMR.html) | MMR | 14 | 13–16 | 13–17 | 13–17 | 12–17 |
+| [15–18 August 2017](2017-08-18-MMR.html) | MMR | 14 | 13–16 | 13–17 | 12–17 | 12–17 |
 
 ### Probability Mass Function
 
