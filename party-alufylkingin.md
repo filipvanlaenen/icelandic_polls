@@ -10,8 +10,9 @@ Last result: **0.3%** (General Election of 29 October 2016)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.2–1.2% | 0.1–1.4% | 0.1–1.5% | 0.1–1.9% |
+| N/A | [Poll Average](average.html) | 0.5% | 0.2–1.3% | 0.1–1.5% | 0.1–1.6% | 0.1–1.9% |
 | [29 September–12 October 2017](2017-10-12-Gallup.html) | Gallup | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
+| [9–12 October 2017](2017-10-12-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0.0% | N/A | N/A | N/A | N/A |
 | [6–11 October 2017](2017-10-11-MMR.html) | MMR | 0.9% | 0.6–1.5% | 0.5–1.6% | 0.5–1.8% | 0.4–2.1% |
 | [10 October 2017](2017-10-10-Frettabladid.html) | Fréttablaðið | 0.0% | N/A | N/A | N/A | N/A |
 | [2–6 October 2017](2017-10-06-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.2% |
@@ -31,9 +32,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| -0.5–0.5% | 60% | 100% | Last Result, Median |
-| 0.5–1.5% | 38% | 40% |  |
-| 1.5–2.5% | 2% | 2% |  |
+| -0.5–0.5% | 52% | 100% | Last Result, Median |
+| 0.5–1.5% | 45% | 48% |  |
+| 1.5–2.5% | 3% | 3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -47,6 +48,7 @@ Last result: **0** seats (General Election of 29 October 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [29 September–12 October 2017](2017-10-12-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
+| [9–12 October 2017](2017-10-12-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið |  |  |  |  |  |
 | [6–11 October 2017](2017-10-11-MMR.html) | MMR | 0 | 0 | 0 | 0 | 0 |
 | [10 October 2017](2017-10-10-Frettabladid.html) | Fréttablaðið |  |  |  |  |  |
 | [2–6 October 2017](2017-10-06-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0 | 0 | 0 | 0 | 0 |

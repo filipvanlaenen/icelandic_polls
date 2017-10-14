@@ -10,8 +10,9 @@ Last result: **15.9%** (General Election of 29 October 2016)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.8% | 21.3–30.2% | 20.7–31.1% | 20.2–31.8% | 19.3–33.2% |
+| N/A | [Poll Average](average.html) | 23.8% | 21.3–30.0% | 20.7–31.0% | 20.2–31.8% | 19.3–33.1% |
 | [29 September–12 October 2017](2017-10-12-Gallup.html) | Gallup | 23.0% | 21.9–24.2% | 21.6–24.5% | 21.3–24.8% | 20.8–25.3% |
+| [9–12 October 2017](2017-10-12-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 27.4% | 25.8–29.1% | 25.4–29.5% | 25.0–29.9% | 24.3–30.7% |
 | [6–11 October 2017](2017-10-11-MMR.html) | MMR | 21.8% | 20.2–23.6% | 19.7–24.1% | 19.3–24.5% | 18.6–25.4% |
 | [10 October 2017](2017-10-10-Frettabladid.html) | Fréttablaðið | 29.9% | 27.9–32.0% | 27.3–32.6% | 26.8–33.1% | 25.9–34.2% |
 | [2–6 October 2017](2017-10-06-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 28.1% | 26.3–30.0% | 25.8–30.6% | 25.3–31.1% | 24.5–32.0% |
@@ -40,13 +41,13 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 16% | 88% |  |
 | 22.5–23.5% | 18% | 72% |  |
 | 23.5–24.5% | 10% | 54% | Median |
-| 24.5–25.5% | 3% | 43% |  |
-| 25.5–26.5% | 3% | 40% |  |
-| 26.5–27.5% | 5% | 37% |  |
-| 27.5–28.5% | 8% | 32% |  |
-| 28.5–29.5% | 9% | 24% |  |
-| 29.5–30.5% | 7% | 15% |  |
-| 30.5–31.5% | 5% | 8% |  |
+| 24.5–25.5% | 4% | 43% |  |
+| 25.5–26.5% | 4% | 39% |  |
+| 26.5–27.5% | 7% | 35% |  |
+| 27.5–28.5% | 8% | 28% |  |
+| 28.5–29.5% | 7% | 20% |  |
+| 29.5–30.5% | 6% | 13% |  |
+| 30.5–31.5% | 4% | 7% |  |
 | 31.5–32.5% | 2% | 3% |  |
 | 32.5–33.5% | 0.8% | 1.1% |  |
 | 33.5–34.5% | 0.2% | 0.3% |  |
@@ -64,11 +65,12 @@ Last result: **10** seats (General Election of 29 October 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–22 | 14–22 | 14–23 | 13–25 |
 | [29 September–12 October 2017](2017-10-12-Gallup.html) | Gallup | 16 | 16–18 | 16–18 | 16–18 | 14–19 |
+| [9–12 October 2017](2017-10-12-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 20 | 18–21 | 18–21 | 17–22 | 17–22 |
 | [6–11 October 2017](2017-10-11-MMR.html) | MMR | 16 | 14–17 | 14–17 | 13–18 | 13–19 |
 | [10 October 2017](2017-10-10-Frettabladid.html) | Fréttablaðið | 22 | 20–23 | 20–24 | 20–25 | 19–25 |
 | [2–6 October 2017](2017-10-06-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 20 | 19–21 | 18–22 | 17–22 | 17–23 |
 | [2–3 October 2017](2017-10-03-Frettabladid.html) | Fréttablaðið | 20 | 19–22 | 18–22 | 18–23 | 17–24 |
-| [26–28 September 2017](2017-09-28-MMR.html) | MMR | 17 | 16–20 | 16–21 | 15–21 | 15–21 |
+| [26–28 September 2017](2017-09-28-MMR.html) | MMR | 17 | 16–19 | 16–20 | 15–21 | 15–21 |
 | [15–28 September 2017](2017-09-28-Gallup.html) | Gallup | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [25–28 September 2017](2017-09-28-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 21 | 20–22 | 19–23 | 18–23 | 17–25 |
 | [19–21 September 2017](2017-09-21-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 22 | 19–22 | 19–22 | 18–23 | 17–23 |
@@ -91,13 +93,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 12% | 93% |  |
 | 16 | 29% | 81% |  |
 | 17 | 10% | 52% | Median |
-| 18 | 4% | 42% |  |
-| 19 | 7% | 38% |  |
-| 20 | 8% | 32% |  |
-| 21 | 9% | 24% |  |
-| 22 | 10% | 15% |  |
+| 18 | 7% | 42% |  |
+| 19 | 5% | 36% |  |
+| 20 | 7% | 31% |  |
+| 21 | 10% | 24% |  |
+| 22 | 10% | 14% |  |
 | 23 | 3% | 4% |  |
-| 24 | 0.4% | 1.2% |  |
+| 24 | 0.4% | 1.1% |  |
 | 25 | 0.7% | 0.8% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
