@@ -59,12 +59,12 @@ Last result: **21** seats (General Election of 29 October 2016)
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–18 | 13–19 | 13–19 | 12–20 |
-| [29 September–12 October 2017](2017-10-12-Gallup.html) | Gallup | 17 | 16–17 | 16–17 | 16–18 | 16–19 |
+| [29 September–12 October 2017](2017-10-12-Gallup.html) | Gallup | 17 | 15–18 | 15–18 | 15–18 | 15–18 |
 | [6–11 October 2017](2017-10-11-MMR.html) | MMR | 15 | 14–16 | 13–16 | 13–17 | 12–18 |
 | [10 October 2017](2017-10-10-Frettabladid.html) | Fréttablaðið | 15 | 14–17 | 14–18 | 13–18 | 13–18 |
 | [2–6 October 2017](2017-10-06-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 14 | 13–16 | 12–16 | 12–17 | 12–17 |
 | [2–3 October 2017](2017-10-03-Frettabladid.html) | Fréttablaðið | 15 | 14–17 | 14–17 | 13–18 | 13–19 |
-| [26–28 September 2017](2017-09-28-MMR.html) | MMR | 17 | 15–18 | 14–18 | 14–19 | 13–19 |
+| [26–28 September 2017](2017-09-28-MMR.html) | MMR | 16 | 14–18 | 14–18 | 14–18 | 13–19 |
 | [15–28 September 2017](2017-09-28-Gallup.html) | Gallup | 17 | 16–18 | 15–18 | 15–18 | 15–18 |
 | [25–28 September 2017](2017-09-28-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 17 | 15–18 | 15–19 | 14–20 | 14–21 |
 | [19–21 September 2017](2017-09-21-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 15 | 14–16 | 13–17 | 13–17 | 13–18 |
@@ -82,10 +82,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 1.3% | 100% |  |
 | 13 | 7% | 98.7% |  |
 | 14 | 16% | 92% |  |
-| 15 | 22% | 76% |  |
-| 16 | 12% | 54% | Median |
-| 17 | 11% | 42% |  |
-| 18 | 26% | 31% |  |
+| 15 | 24% | 76% |  |
+| 16 | 14% | 52% | Median |
+| 17 | 20% | 38% |  |
+| 18 | 13% | 19% |  |
 | 19 | 4% | 5% |  |
 | 20 | 1.3% | 1.4% |  |
 | 21 | 0.1% | 0.1% | Last Result |
