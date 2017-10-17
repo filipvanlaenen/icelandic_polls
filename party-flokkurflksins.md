@@ -10,7 +10,8 @@ Last result: **3.5%** (General Election of 29 October 2016)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.7% | 5.4–9.9% | 5.2–10.6% | 5.0–11.0% | 4.6–11.9% |
+| N/A | [Poll Average](average.html) | 6.4% | 3.8–9.9% | 3.4–10.6% | 3.1–11.0% | 2.6–11.9% |
+| [16 October 2017](2017-10-16-Frettabladid.html) | Fréttablaðið | 3.7% | 3.0–4.7% | 2.8–5.0% | 2.6–5.3% | 2.3–5.8% |
 | [29 September–12 October 2017](2017-10-12-Gallup.html) | Gallup | 5.7% | 5.1–6.4% | 5.0–6.6% | 4.8–6.7% | 4.6–7.1% |
 | [9–12 October 2017](2017-10-12-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 6.5% | 5.7–7.5% | 5.4–7.7% | 5.2–8.0% | 4.9–8.5% |
 | [6–11 October 2017](2017-10-11-MMR.html) | MMR | 7.3% | 6.4–8.5% | 6.1–8.9% | 5.9–9.2% | 5.4–9.8% |
@@ -32,12 +33,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.5% | 100% | Last Result |
-| 4.5–5.5% | 13% | 99.5% |  |
-| 5.5–6.5% | 33% | 87% |  |
-| 6.5–7.5% | 23% | 54% | Median |
-| 7.5–8.5% | 11% | 31% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.3% | 100% |  |
+| 2.5–3.5% | 7% | 99.7% |  |
+| 3.5–4.5% | 10% | 93% | Last Result |
+| 4.5–5.5% | 11% | 83% |  |
+| 5.5–6.5% | 24% | 72% | Median |
+| 6.5–7.5% | 18% | 48% |  |
+| 7.5–8.5% | 10% | 30% |  |
 | 8.5–9.5% | 8% | 21% |  |
 | 9.5–10.5% | 8% | 13% |  |
 | 10.5–11.5% | 4% | 5% |  |
@@ -54,7 +57,8 @@ Last result: **0** seats (General Election of 29 October 2016)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–6 | 3–7 | 0–7 | 0–8 |
+| N/A | [Poll Average](average.html) | 4 | 0–6 | 0–7 | 0–7 | 0–8 |
+| [16 October 2017](2017-10-16-Frettabladid.html) | Fréttablaðið | 0 | 0 | 0 | 0–3 | 0–3 |
 | [29 September–12 October 2017](2017-10-12-Gallup.html) | Gallup | 4 | 3–4 | 0–4 | 0–4 | 0–5 |
 | [9–12 October 2017](2017-10-12-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
 | [6–11 October 2017](2017-10-11-MMR.html) | MMR | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
@@ -76,12 +80,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 0% | 97% |  |
-| 2 | 0% | 97% |  |
-| 3 | 14% | 97% |  |
-| 4 | 40% | 84% | Median |
-| 5 | 22% | 43% |  |
+| 0 | 21% | 100% | Last Result |
+| 1 | 0% | 79% |  |
+| 2 | 0% | 79% |  |
+| 3 | 10% | 79% |  |
+| 4 | 30% | 69% | Median |
+| 5 | 19% | 40% |  |
 | 6 | 13% | 21% |  |
 | 7 | 7% | 8% |  |
 | 8 | 1.0% | 1.0% |  |
