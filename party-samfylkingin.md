@@ -58,7 +58,7 @@ Last result: **3** seats (General Election of 29 October 2016)
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–10 | 5–11 | 5–12 | 5–12 |
-| [16 October 2017](2017-10-16-Frettabladid.html) | Fréttablaðið | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [16 October 2017](2017-10-16-Frettabladid.html) | Fréttablaðið | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [29 September–12 October 2017](2017-10-12-Gallup.html) | Gallup | 9 | 8–9 | 8–10 | 8–11 | 7–11 |
 | [9–12 October 2017](2017-10-12-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [6–11 October 2017](2017-10-11-MMR.html) | MMR | 9 | 8–10 | 8–10 | 7–11 | 7–12 |
