@@ -11,6 +11,7 @@ Last result: **0.2%** (General Election of 29 October 2016)
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.1% | 0.1–0.2% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% |
+| [17–18 October 2017](2017-10-18-MMR.html) | MMR | 0.0% | N/A | N/A | N/A | N/A |
 | [16 October 2017](2017-10-16-Frettabladid.html) | Fréttablaðið | 0.0% | N/A | N/A | N/A | N/A |
 | [29 September–12 October 2017](2017-10-12-Gallup.html) | Gallup | 0.1% | 0.0–0.2% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% |
 | [9–12 October 2017](2017-10-12-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0.0% | N/A | N/A | N/A | N/A |
@@ -47,6 +48,7 @@ Last result: **0** seats (General Election of 29 October 2016)
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [17–18 October 2017](2017-10-18-MMR.html) | MMR |  |  |  |  |  |
 | [16 October 2017](2017-10-16-Frettabladid.html) | Fréttablaðið |  |  |  |  |  |
 | [29 September–12 October 2017](2017-10-12-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [9–12 October 2017](2017-10-12-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið |  |  |  |  |  |
