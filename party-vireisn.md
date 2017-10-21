@@ -8,7 +8,7 @@ Last result: **10.5%** (General Election of 29 October 2016)
 
 ### Confidence Intervals
 
-| Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+| Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.8% | 4.8–7.0% | 4.4–7.4% | 4.1–7.8% | 3.6–8.5% |
 | [13–19 October 2017](2017-10-19-Gallup.html) | Gallup | 5.8% | 5.2–6.6% | 5.0–6.8% | 4.8–7.0% | 4.5–7.4% |
@@ -53,7 +53,7 @@ Last result: **7** seats (General Election of 29 October 2016)
 
 ### Confidence Intervals
 
-| Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+| Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [13–19 October 2017](2017-10-19-Gallup.html) | Gallup | 3 | 3–4 | 0–4 | 0–4 | 0–4 |

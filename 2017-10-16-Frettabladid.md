@@ -644,8 +644,8 @@
 
 ### Opinion Poll
 
-+ **Pollster:** Fréttablaðið
-+ **Media:** —
++ **Polling firm:** Fréttablaðið
++ **Commissioner(s):** —
 + **Fieldwork period:** 16 October 2017
 
 ### Calculations

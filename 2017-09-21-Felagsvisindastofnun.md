@@ -458,8 +458,8 @@
 
 ### Opinion Poll
 
-+ **Pollster:** Félagsvísindastofnun
-+ **Media:** Morgunblaðið
++ **Polling firm:** Félagsvísindastofnun
++ **Commissioner(s):** Morgunblaðið
 + **Fieldwork period:** 19–21 September 2017
 
 ### Calculations
