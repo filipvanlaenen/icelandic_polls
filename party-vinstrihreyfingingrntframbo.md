@@ -67,7 +67,7 @@ Last result: **10** seats (General Election of 29 October 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 12–20 | 12–21 | 12–21 | 11–22 |
 | [13–19 October 2017](2017-10-19-Gallup.html) | Gallup | 16 | 16–17 | 15–18 | 15–18 | 14–19 |
-| [16–19 October 2017](2017-10-19-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 15 | 15–17 | 15–17 | 14–17 | 14–17 |
+| [16–19 October 2017](2017-10-19-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 15 | 15–17 | 15–17 | 14–17 | 14–19 |
 | [17–18 October 2017](2017-10-18-MMR.html) | MMR | 13 | 12–14 | 11–14 | 11–15 | 10–15 |
 | [16 October 2017](2017-10-16-Frettabladid.html) | Fréttablaðið | 20 | 18–21 | 17–22 | 17–22 | 16–23 |
 | [29 September–12 October 2017](2017-10-12-Gallup.html) | Gallup | 16 | 16–18 | 16–18 | 16–18 | 14–19 |
@@ -96,11 +96,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 10% | 98% |  |
 | 13 | 8% | 88% |  |
 | 14 | 5% | 80% |  |
-| 15 | 20% | 75% |  |
-| 16 | 16% | 54% | Median |
-| 17 | 14% | 38% |  |
-| 18 | 4% | 24% |  |
-| 19 | 7% | 20% |  |
+| 15 | 19% | 75% |  |
+| 16 | 18% | 56% | Median |
+| 17 | 14% | 39% |  |
+| 18 | 4% | 25% |  |
+| 19 | 7% | 21% |  |
 | 20 | 8% | 14% |  |
 | 21 | 4% | 6% |  |
 | 22 | 1.0% | 1.4% |  |
