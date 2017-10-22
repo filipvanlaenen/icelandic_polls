@@ -44,6 +44,8 @@
 
 *For a full overview of the results for this party, see the [Vinstrihreyfingin – grænt framboð](party-vinstrihreyfingingrntframbo.html) page.*
 
+![Graph with seats probability mass function not yet produced](2017-10-16-Frettabladid-seats-pmf-vinstrihreyfingingrntframbo.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0% | 100% | Last Result |
@@ -66,6 +68,8 @@
 
 *For a full overview of the results for this party, see the [Sjálfstæðisflokkurinn](party-sjlfstisflokkurinn.html) page.*
 
+![Graph with seats probability mass function not yet produced](2017-10-16-Frettabladid-seats-pmf-sjlfstisflokkurinn.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.4% | 100% |  |
@@ -82,6 +86,8 @@
 ### Miðflokkurinn
 
 *For a full overview of the results for this party, see the [Miðflokkurinn](party-miflokkurinn.html) page.*
+
+![Graph with seats probability mass function not yet produced](2017-10-16-Frettabladid-seats-pmf-miflokkurinn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -102,6 +108,8 @@
 
 *For a full overview of the results for this party, see the [Samfylkingin](party-samfylkingin.html) page.*
 
+![Graph with seats probability mass function not yet produced](2017-10-16-Frettabladid-seats-pmf-samfylkingin.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
@@ -118,6 +126,8 @@
 
 *For a full overview of the results for this party, see the [Píratar](party-pratar.html) page.*
 
+![Graph with seats probability mass function not yet produced](2017-10-16-Frettabladid-seats-pmf-pratar.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.1% | 100% |  |
@@ -132,6 +142,8 @@
 ### Framsóknarflokkurinn
 
 *For a full overview of the results for this party, see the [Framsóknarflokkurinn](party-framsknarflokkurinn.html) page.*
+
+![Graph with seats probability mass function not yet produced](2017-10-16-Frettabladid-seats-pmf-framsknarflokkurinn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -149,6 +161,8 @@
 
 *For a full overview of the results for this party, see the [Viðreisn](party-vireisn.html) page.*
 
+![Graph with seats probability mass function not yet produced](2017-10-16-Frettabladid-seats-pmf-vireisn.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 48% | 100% |  |
@@ -164,6 +178,8 @@
 
 *For a full overview of the results for this party, see the [Flokkur fólksins](party-flokkurflksins.html) page.*
 
+![Graph with seats probability mass function not yet produced](2017-10-16-Frettabladid-seats-pmf-flokkurflksins.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 96% | 100% | Last Result, Median |
@@ -176,6 +192,8 @@
 ### Björt framtíð
 
 *For a full overview of the results for this party, see the [Björt framtíð](party-bjrtframt.html) page.*
+
+![Graph with seats probability mass function not yet produced](2017-10-16-Frettabladid-seats-pmf-bjrtframt.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

@@ -44,6 +44,8 @@
 
 *For a full overview of the results for this party, see the [Vinstrihreyfingin – grænt framboð](party-vinstrihreyfingingrntframbo.html) page.*
 
+![Graph with seats probability mass function not yet produced](2017-09-28-Felagsvisindastofnun-seats-pmf-vinstrihreyfingingrntframbo.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0% | 100% | Last Result |
@@ -69,6 +71,8 @@
 
 *For a full overview of the results for this party, see the [Sjálfstæðisflokkurinn](party-sjlfstisflokkurinn.html) page.*
 
+![Graph with seats probability mass function not yet produced](2017-09-28-Felagsvisindastofnun-seats-pmf-sjlfstisflokkurinn.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.1% | 100% |  |
@@ -86,6 +90,8 @@
 
 *For a full overview of the results for this party, see the [Píratar](party-pratar.html) page.*
 
+![Graph with seats probability mass function not yet produced](2017-09-28-Felagsvisindastofnun-seats-pmf-pratar.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 2% | 100% |  |
@@ -101,6 +107,8 @@
 
 *For a full overview of the results for this party, see the [Samfylkingin](party-samfylkingin.html) page.*
 
+![Graph with seats probability mass function not yet produced](2017-09-28-Felagsvisindastofnun-seats-pmf-samfylkingin.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 4% | 100% | Last Result |
@@ -114,6 +122,8 @@
 
 *For a full overview of the results for this party, see the [Framsóknarflokkurinn](party-framsknarflokkurinn.html) page.*
 
+![Graph with seats probability mass function not yet produced](2017-09-28-Felagsvisindastofnun-seats-pmf-framsknarflokkurinn.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 6% | 100% |  |
@@ -126,6 +136,8 @@
 ### Flokkur fólksins
 
 *For a full overview of the results for this party, see the [Flokkur fólksins](party-flokkurflksins.html) page.*
+
+![Graph with seats probability mass function not yet produced](2017-09-28-Felagsvisindastofnun-seats-pmf-flokkurflksins.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -142,6 +154,8 @@
 
 *For a full overview of the results for this party, see the [Viðreisn](party-vireisn.html) page.*
 
+![Graph with seats probability mass function not yet produced](2017-09-28-Felagsvisindastofnun-seats-pmf-vireisn.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 60% | 100% | Median |
@@ -157,6 +171,8 @@
 
 *For a full overview of the results for this party, see the [Miðflokkurinn](party-miflokkurinn.html) page.*
 
+![Graph with seats probability mass function not yet produced](2017-09-28-Felagsvisindastofnun-seats-pmf-miflokkurinn.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 21% | 100% | Last Result |
@@ -169,6 +185,8 @@
 ### Björt framtíð
 
 *For a full overview of the results for this party, see the [Björt framtíð](party-bjrtframt.html) page.*
+
+![Graph with seats probability mass function not yet produced](2017-09-28-Felagsvisindastofnun-seats-pmf-bjrtframt.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
