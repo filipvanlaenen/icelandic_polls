@@ -77,16 +77,3 @@ Last result: **0** seats (General Election of 29 October 2016)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Flokkur fólksins.
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 61% | 100% | Last Result, Median |
-| 1 | 0% | 39% |  |
-| 2 | 0% | 39% |  |
-| 3 | 30% | 39% |  |
-| 4 | 8% | 9% |  |
-| 5 | 0.2% | 0.2% |  |
-| 6 | 0% | 0% |  |
-
-

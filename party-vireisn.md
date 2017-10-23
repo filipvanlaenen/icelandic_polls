@@ -55,9 +55,9 @@ Last result: **7** seats (General Election of 29 October 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [13–19 October 2017](2017-10-19-Gallup.html) | Gallup | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
-| [16–19 October 2017](2017-10-19-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 4 | 3–4 | 3–4 | 3–4 | 0–5 |
+| [16–19 October 2017](2017-10-19-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 3 | 3–4 | 0–4 | 0–4 | 0–5 |
 | [17–18 October 2017](2017-10-18-MMR.html) | MMR | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
 | [16 October 2017](2017-10-16-Frettabladid.html) | Fréttablaðið | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [29 September–12 October 2017](2017-10-12-Gallup.html) | Gallup | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
@@ -76,18 +76,4 @@ Last result: **7** seats (General Election of 29 October 2016)
 | [15–18 August 2017](2017-08-18-MMR.html) | MMR | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
 
 ### Probability Mass Function
-
-The following table shows the probability mass function per seat for the [poll average](average.html) for Viðreisn.
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 15% | 100% |  |
-| 1 | 0% | 85% |  |
-| 2 | 0% | 85% |  |
-| 3 | 31% | 85% |  |
-| 4 | 48% | 55% | Median |
-| 5 | 7% | 7% |  |
-| 6 | 0.3% | 0.3% |  |
-| 7 | 0% | 0% | Last Result |
-
 

@@ -71,10 +71,3 @@ Last result: **0** seats (General Election of 29 October 2016)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Alþýðufylkingin.
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
-

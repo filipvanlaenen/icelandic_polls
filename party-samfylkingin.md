@@ -63,7 +63,7 @@ Last result: **3** seats (General Election of 29 October 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 7–11 | 6–12 | 6–12 | 6–13 |
 | [13–19 October 2017](2017-10-19-Gallup.html) | Gallup | 9 | 8–9 | 7–10 | 7–10 | 7–11 |
-| [16–19 October 2017](2017-10-19-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 11 | 10–11 | 10–12 | 10–12 | 9–12 |
+| [16–19 October 2017](2017-10-19-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 10 | 10–11 | 10–12 | 10–12 | 9–12 |
 | [17–18 October 2017](2017-10-18-MMR.html) | MMR | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [16 October 2017](2017-10-16-Frettabladid.html) | Fréttablaðið | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [29 September–12 October 2017](2017-10-12-Gallup.html) | Gallup | 9 | 8–9 | 8–10 | 8–11 | 7–11 |
@@ -82,22 +82,4 @@ Last result: **3** seats (General Election of 29 October 2016)
 | [15–18 August 2017](2017-08-18-MMR.html) | MMR | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 
 ### Probability Mass Function
-
-The following table shows the probability mass function per seat for the [poll average](average.html) for Samfylkingin.
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0% | 100% | Last Result |
-| 4 | 0% | 100% |  |
-| 5 | 0.3% | 100% |  |
-| 6 | 7% | 99.7% |  |
-| 7 | 13% | 93% |  |
-| 8 | 16% | 80% |  |
-| 9 | 16% | 64% | Median |
-| 10 | 14% | 48% |  |
-| 11 | 26% | 34% |  |
-| 12 | 7% | 8% |  |
-| 13 | 0.6% | 0.6% |  |
-| 14 | 0% | 0% |  |
-
 

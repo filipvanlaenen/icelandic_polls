@@ -76,14 +76,3 @@ Last result: **4** seats (General Election of 29 October 2016)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Björt framtíð.
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% |  |
-| 2 | 0% | 0% |  |
-| 3 | 0% | 0% |  |
-| 4 | 0% | 0% | Last Result |
-
-
