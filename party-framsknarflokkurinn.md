@@ -77,3 +77,18 @@ Last result: **8** seats (General Election of 29 October 2016)
 
 ### Probability Mass Function
 
+![Graph with seats probability mass function not yet produced](average-seats-pmf-framsknarflokkurinn.png "Seats Probability Mass Function")
+
+The following table shows the probability mass function per seat for the [poll average](average.html) for Framsóknarflokkurinn.
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 3 | 0.8% | 100% |  |
+| 4 | 43% | 99.2% |  |
+| 5 | 46% | 56% | Median |
+| 6 | 10% | 10% |  |
+| 7 | 0.6% | 0.7% |  |
+| 8 | 0.1% | 0.1% | Last Result |
+| 9 | 0% | 0% |  |
+
+

@@ -79,3 +79,19 @@ Last result: **10** seats (General Election of 29 October 2016)
 
 ### Probability Mass Function
 
+![Graph with seats probability mass function not yet produced](average-seats-pmf-pratar.png "Seats Probability Mass Function")
+
+The following table shows the probability mass function per seat for the [poll average](average.html) for Píratar.
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 4 | 0.8% | 100% |  |
+| 5 | 21% | 99.2% |  |
+| 6 | 27% | 79% |  |
+| 7 | 31% | 52% | Median |
+| 8 | 16% | 21% |  |
+| 9 | 5% | 5% |  |
+| 10 | 0.3% | 0.3% | Last Result |
+| 11 | 0% | 0% |  |
+
+

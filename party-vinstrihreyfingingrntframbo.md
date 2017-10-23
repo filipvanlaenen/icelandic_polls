@@ -87,3 +87,26 @@ Last result: **10** seats (General Election of 29 October 2016)
 
 ### Probability Mass Function
 
+![Graph with seats probability mass function not yet produced](average-seats-pmf-vinstrihreyfingingrntframbo.png "Seats Probability Mass Function")
+
+The following table shows the probability mass function per seat for the [poll average](average.html) for Vinstrihreyfingin – grænt framboð.
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 10 | 0.1% | 100% | Last Result |
+| 11 | 2% | 99.9% |  |
+| 12 | 8% | 98% |  |
+| 13 | 10% | 90% |  |
+| 14 | 5% | 80% |  |
+| 15 | 10% | 75% |  |
+| 16 | 18% | 64% | Median |
+| 17 | 21% | 46% |  |
+| 18 | 4% | 25% |  |
+| 19 | 7% | 20% |  |
+| 20 | 8% | 14% |  |
+| 21 | 4% | 6% |  |
+| 22 | 1.0% | 1.4% |  |
+| 23 | 0.3% | 0.4% |  |
+| 24 | 0% | 0% |  |
+
+

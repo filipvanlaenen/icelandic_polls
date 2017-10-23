@@ -83,3 +83,23 @@ Last result: **3** seats (General Election of 29 October 2016)
 
 ### Probability Mass Function
 
+![Graph with seats probability mass function not yet produced](average-seats-pmf-samfylkingin.png "Seats Probability Mass Function")
+
+The following table shows the probability mass function per seat for the [poll average](average.html) for Samfylkingin.
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 3 | 0% | 100% | Last Result |
+| 4 | 0% | 100% |  |
+| 5 | 0.3% | 100% |  |
+| 6 | 7% | 99.7% |  |
+| 7 | 13% | 93% |  |
+| 8 | 16% | 80% |  |
+| 9 | 16% | 64% | Median |
+| 10 | 23% | 48% |  |
+| 11 | 17% | 25% |  |
+| 12 | 6% | 7% |  |
+| 13 | 0.6% | 0.6% |  |
+| 14 | 0% | 0% |  |
+
+

@@ -82,3 +82,23 @@ Last result: **21** seats (General Election of 29 October 2016)
 
 ### Probability Mass Function
 
+![Graph with seats probability mass function not yet produced](average-seats-pmf-sjlfstisflokkurinn.png "Seats Probability Mass Function")
+
+The following table shows the probability mass function per seat for the [poll average](average.html) for Sjálfstæðisflokkurinn.
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 10 | 0.1% | 100% |  |
+| 11 | 0.5% | 99.9% |  |
+| 12 | 3% | 99.5% |  |
+| 13 | 14% | 96% |  |
+| 14 | 14% | 83% |  |
+| 15 | 26% | 68% | Median |
+| 16 | 14% | 43% |  |
+| 17 | 15% | 29% |  |
+| 18 | 13% | 14% |  |
+| 19 | 1.2% | 1.3% |  |
+| 20 | 0% | 0% |  |
+| 21 | 0% | 0% | Last Result |
+
+
