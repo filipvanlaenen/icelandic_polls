@@ -11,7 +11,7 @@ Last result: **1.7%** (General Election of 29 October 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
-| [20–23 October 2017](2017-10-23-MMR.html) |  | 0.0% | N/A | N/A | N/A | N/A |
+| [20–23 October 2017](2017-10-23-MMR.html) | MMR | 0.0% | N/A | N/A | N/A | N/A |
 | [13–19 October 2017](2017-10-19-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
 | [16–19 October 2017](2017-10-19-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
 | [17–18 October 2017](2017-10-18-MMR.html) | MMR | 0.0% | N/A | N/A | N/A | N/A |
@@ -51,7 +51,7 @@ Last result: **0** seats (General Election of 29 October 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [20–23 October 2017](2017-10-23-MMR.html) |  |  |  |  |  |  |
+| [20–23 October 2017](2017-10-23-MMR.html) | MMR |  |  |  |  |  |
 | [13–19 October 2017](2017-10-19-Gallup.html) | Gallup |  |  |  |  |  |
 | [16–19 October 2017](2017-10-19-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0 | 0 | 0 | 0 | 0 |
 | [17–18 October 2017](2017-10-18-MMR.html) | MMR |  |  |  |  |  |
