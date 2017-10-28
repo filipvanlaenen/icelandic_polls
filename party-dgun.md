@@ -10,7 +10,8 @@ Last result: **1.7%** (General Election of 29 October 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.1% | 0.1–0.3% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.0–0.8% | 0.0–1.0% |
+| [23–27 October 2017](2017-10-27-Zenter.html) | Zenter | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [26–27 October 2017](2017-10-27-MMR.html) | MMR | 0.0% | N/A | N/A | N/A | N/A |
 | [23–27 October 2017](2017-10-27-Gallup.html) | Gallup | 0.1% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% | 0.0–0.4% |
 | [22–25 October 2017](2017-10-25-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 0.0% | N/A | N/A | N/A | N/A |
@@ -41,8 +42,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 99.9% | 100% | Median |
-| 0.5–1.5% | 0.1% | 0.1% |  |
+| 0.0–0.5% | 89% | 100% | Median |
+| 0.5–1.5% | 11% | 11% |  |
 | 1.5–2.5% | 0% | 0% | Last Result |
 
 
@@ -55,6 +56,7 @@ Last result: **0** seats (General Election of 29 October 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [23–27 October 2017](2017-10-27-Zenter.html) | Zenter | 0 | 0 | 0 | 0 | 0 |
 | [26–27 October 2017](2017-10-27-MMR.html) | MMR |  |  |  |  |  |
 | [23–27 October 2017](2017-10-27-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [22–25 October 2017](2017-10-25-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið |  |  |  |  |  |

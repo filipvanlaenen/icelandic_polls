@@ -10,7 +10,8 @@ Last result: **29.0%** (General Election of 29 October 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.2% | 21.0–25.8% | 20.3–26.3% | 19.7–26.6% | 18.8–27.3% |
+| N/A | [Poll Average](average.html) | 23.8% | 20.9–25.7% | 20.3–26.1% | 19.8–26.5% | 18.8–27.2% |
+| [23–27 October 2017](2017-10-27-Zenter.html) | Zenter | 22.5% | 20.8–24.2% | 20.3–24.8% | 19.9–25.2% | 19.2–26.1% |
 | [26–27 October 2017](2017-10-27-MMR.html) | MMR | 21.3% | 19.7–23.1% | 19.3–23.6% | 18.9–24.0% | 18.1–24.9% |
 | [23–27 October 2017](2017-10-27-Gallup.html) | Gallup | 25.2% | 24.1–26.5% | 23.7–26.8% | 23.4–27.1% | 22.9–27.7% |
 | [22–25 October 2017](2017-10-25-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 24.5% | 23.4–25.7% | 23.0–26.0% | 22.8–26.3% | 22.2–26.9% |
@@ -45,13 +46,13 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0.3% | 100% |  |
 | 18.5–19.5% | 2% | 99.7% |  |
 | 19.5–20.5% | 5% | 98% |  |
-| 20.5–21.5% | 8% | 93% |  |
-| 21.5–22.5% | 8% | 86% |  |
-| 22.5–23.5% | 13% | 78% |  |
-| 23.5–24.5% | 24% | 65% | Median |
-| 24.5–25.5% | 25% | 40% |  |
-| 25.5–26.5% | 12% | 15% |  |
-| 26.5–27.5% | 3% | 3% |  |
+| 20.5–21.5% | 9% | 93% |  |
+| 21.5–22.5% | 12% | 84% |  |
+| 22.5–23.5% | 16% | 72% |  |
+| 23.5–24.5% | 23% | 56% | Median |
+| 24.5–25.5% | 21% | 33% |  |
+| 25.5–26.5% | 10% | 12% |  |
+| 26.5–27.5% | 2% | 2% |  |
 | 27.5–28.5% | 0.2% | 0.2% |  |
 | 28.5–29.5% | 0% | 0% | Last Result |
 
@@ -64,9 +65,10 @@ Last result: **21** seats (General Election of 29 October 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–18 | 14–18 | 13–19 | 13–19 |
+| N/A | [Poll Average](average.html) | 16 | 14–18 | 14–18 | 13–19 | 13–19 |
+| [23–27 October 2017](2017-10-27-Zenter.html) | Zenter | 16 | 15–16 | 14–16 | 14–16 | 14–19 |
 | [26–27 October 2017](2017-10-27-MMR.html) | MMR | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
-| [23–27 October 2017](2017-10-27-Gallup.html) | Gallup | 18 | 17–19 | 16–19 | 16–19 | 15–20 |
+| [23–27 October 2017](2017-10-27-Gallup.html) | Gallup | 18 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [22–25 October 2017](2017-10-25-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [23–24 October 2017](2017-10-24-Frettabladid.html) | Fréttablaðið | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
 | [20–23 October 2017](2017-10-23-MMR.html) | MMR | 16 | 14–18 | 14–18 | 14–18 | 13–19 |
@@ -97,15 +99,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.5% | 100% |  |
-| 13 | 3% | 99.5% |  |
-| 14 | 9% | 96% |  |
-| 15 | 13% | 87% |  |
-| 16 | 14% | 75% |  |
-| 17 | 23% | 60% | Median |
-| 18 | 33% | 37% |  |
-| 19 | 4% | 4% |  |
-| 20 | 0.3% | 0.3% |  |
+| 12 | 0.4% | 100% |  |
+| 13 | 3% | 99.6% |  |
+| 14 | 8% | 97% |  |
+| 15 | 15% | 89% |  |
+| 16 | 27% | 74% | Median |
+| 17 | 18% | 47% |  |
+| 18 | 27% | 30% |  |
+| 19 | 3% | 3% |  |
+| 20 | 0.4% | 0.4% |  |
 | 21 | 0% | 0% | Last Result |
 
 
