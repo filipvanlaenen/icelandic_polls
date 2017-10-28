@@ -10,7 +10,9 @@ Last result: **29.0%** (General Election of 29 October 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.6% | 21.8–25.3% | 21.3–25.7% | 20.9–26.0% | 20.2–26.7% |
+| N/A | [Poll Average](average.html) | 24.2% | 21.0–25.8% | 20.3–26.3% | 19.7–26.6% | 18.8–27.3% |
+| [26–27 October 2017](2017-10-27-MMR.html) | MMR | 21.3% | 19.7–23.1% | 19.3–23.6% | 18.9–24.0% | 18.1–24.9% |
+| [23–27 October 2017](2017-10-27-Gallup.html) | Gallup | 25.2% | 24.1–26.5% | 23.7–26.8% | 23.4–27.1% | 22.9–27.7% |
 | [22–25 October 2017](2017-10-25-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 24.5% | 23.4–25.7% | 23.0–26.0% | 22.8–26.3% | 22.2–26.9% |
 | [23–24 October 2017](2017-10-24-Frettabladid.html) | Fréttablaðið | 24.1% | 22.8–25.5% | 22.4–25.9% | 22.1–26.2% | 21.4–26.9% |
 | [20–23 October 2017](2017-10-23-MMR.html) | MMR | 23.0% | 21.3–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
@@ -39,17 +41,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 1.1% | 99.9% |  |
-| 20.5–21.5% | 6% | 98.8% |  |
-| 21.5–22.5% | 16% | 93% |  |
-| 22.5–23.5% | 25% | 77% |  |
-| 23.5–24.5% | 28% | 52% | Median |
-| 24.5–25.5% | 18% | 24% |  |
-| 25.5–26.5% | 6% | 6% |  |
-| 26.5–27.5% | 0.7% | 0.8% |  |
-| 27.5–28.5% | 0% | 0% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.3% | 100% |  |
+| 18.5–19.5% | 2% | 99.7% |  |
+| 19.5–20.5% | 5% | 98% |  |
+| 20.5–21.5% | 8% | 93% |  |
+| 21.5–22.5% | 8% | 86% |  |
+| 22.5–23.5% | 13% | 78% |  |
+| 23.5–24.5% | 24% | 65% | Median |
+| 24.5–25.5% | 25% | 40% |  |
+| 25.5–26.5% | 12% | 15% |  |
+| 26.5–27.5% | 3% | 3% |  |
+| 27.5–28.5% | 0.2% | 0.2% |  |
 | 28.5–29.5% | 0% | 0% | Last Result |
 
 
@@ -61,8 +64,10 @@ Last result: **21** seats (General Election of 29 October 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
-| [22–25 October 2017](2017-10-25-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 17 | 15–18 | 15–18 | 15–18 | 15–19 |
+| N/A | [Poll Average](average.html) | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
+| [26–27 October 2017](2017-10-27-MMR.html) | MMR | 16 | 16 | 16 | 16 | 14–16 |
+| [23–27 October 2017](2017-10-27-Gallup.html) | Gallup | 17 | 16–18 | 16–18 | 16–18 | 16–19 |
+| [22–25 October 2017](2017-10-25-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [23–24 October 2017](2017-10-24-Frettabladid.html) | Fréttablaðið | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
 | [20–23 October 2017](2017-10-23-MMR.html) | MMR | 16 | 14–18 | 14–18 | 14–18 | 13–19 |
 | [13–19 October 2017](2017-10-19-Gallup.html) | Gallup | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
@@ -92,12 +97,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 2% | 100% |  |
-| 14 | 7% | 98% |  |
-| 15 | 24% | 92% |  |
-| 16 | 20% | 68% | Median |
-| 17 | 22% | 48% |  |
-| 18 | 24% | 26% |  |
+| 14 | 0.4% | 100% |  |
+| 15 | 3% | 99.6% |  |
+| 16 | 37% | 96% |  |
+| 17 | 27% | 59% | Median |
+| 18 | 30% | 32% |  |
 | 19 | 2% | 2% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% | Last Result |
