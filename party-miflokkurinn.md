@@ -68,9 +68,9 @@ Last result: **0** seats (General Election of 29 October 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
-| [26–27 October 2017](2017-10-27-MMR.html) | MMR | 8 | 8 | 8 | 8 | 7–10 |
-| [23–27 October 2017](2017-10-27-Gallup.html) | Gallup | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
+| N/A | [Poll Average](average.html) | 6 | 6–8 | 5–8 | 5–9 | 5–9 |
+| [26–27 October 2017](2017-10-27-MMR.html) | MMR | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
+| [23–27 October 2017](2017-10-27-Gallup.html) | Gallup | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [22–25 October 2017](2017-10-25-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [23–24 October 2017](2017-10-24-Frettabladid.html) | Fréttablaðið | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [20–23 October 2017](2017-10-23-MMR.html) | MMR | 8 | 8–10 | 7–10 | 7–11 | 6–12 |
@@ -105,13 +105,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.1% | 100% |  |
-| 5 | 6% | 99.9% |  |
-| 6 | 39% | 94% |  |
-| 7 | 27% | 55% | Median |
-| 8 | 27% | 28% |  |
-| 9 | 0% | 0.1% |  |
-| 10 | 0.1% | 0.1% |  |
+| 4 | 0% | 100% |  |
+| 5 | 6% | 100% |  |
+| 6 | 51% | 94% | Median |
+| 7 | 22% | 43% |  |
+| 8 | 17% | 20% |  |
+| 9 | 3% | 3% |  |
+| 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% |  |
 
 
