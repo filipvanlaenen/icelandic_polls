@@ -66,7 +66,7 @@ Last result: **8** seats (General Election of 29 October 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 4–8 | 4–8 | 4–9 | 3–9 |
-| [23–27 October 2017](2017-10-27-Zenter.html) | Zenter | 6 | 6–8 | 6–8 | 5–8 | 5–8 |
+| [23–27 October 2017](2017-10-27-Zenter.html) | Zenter | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
 | [26–27 October 2017](2017-10-27-MMR.html) | MMR | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [23–27 October 2017](2017-10-27-Gallup.html) | Gallup | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [22–25 October 2017](2017-10-25-Felagsvisindastofnun.html) | Félagsvísindastofnun <br> Morgunblaðið | 5 | 5 | 4–6 | 4–6 | 4–6 |
@@ -103,9 +103,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 2% | 99.9% |  |
 | 4 | 17% | 98% |  |
 | 5 | 26% | 80% |  |
-| 6 | 31% | 55% | Median |
-| 7 | 5% | 23% |  |
-| 8 | 15% | 18% | Last Result |
+| 6 | 30% | 54% | Median |
+| 7 | 6% | 24% |  |
+| 8 | 14% | 18% | Last Result |
 | 9 | 3% | 4% |  |
 | 10 | 0.3% | 0.4% |  |
 | 11 | 0% | 0% |  |
