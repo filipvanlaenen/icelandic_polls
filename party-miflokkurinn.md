@@ -69,7 +69,7 @@ Last result: **0** seats (General Election of 29 October 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
+| N/A | [Poll Average](average.html) | 6 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [23–27 October 2017](2017-10-27-Zenter.html) | Zenter | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [26–27 October 2017](2017-10-27-MMR.html) | MMR | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [23–27 October 2017](2017-10-27-Gallup.html) | Gallup | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
@@ -109,11 +109,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 6% | 100% |  |
-| 6 | 44% | 94% |  |
-| 7 | 32% | 51% | Median |
-| 8 | 16% | 19% |  |
+| 6 | 45% | 94% | Median |
+| 7 | 29% | 49% |  |
+| 8 | 18% | 20% |  |
 | 9 | 2% | 2% |  |
-| 10 | 0.1% | 0.2% |  |
+| 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
 
