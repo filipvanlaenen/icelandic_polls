@@ -4,9 +4,9 @@
 
 The following resources have been consulted in order to create this site:
 
-+ Wikipedia page about the 2016 parliamentary elections in Iceland: "[Icelandic parliamentary election, 2016](https://en.wikipedia.org/wiki/Icelandic_parliamentary_election,_2016)"
-+ Wikipedia page about the 2017 parliamentary elections in Iceland: "[Icelandic parliamentary election, 2017](https://en.wikipedia.org/wiki/Icelandic_parliamentary_election,_2017)"
-+ Detailed 2016 election results by Iceland Monitor: "[General Elections 2016 in Iceland](http://icelandmonitor.mbl.is/elections2016/)"
++ Wikipedia page about the 2017 parliamentary election in Iceland: "[Icelandic parliamentary election, 2017](https://en.wikipedia.org/wiki/Icelandic_parliamentary_election,_2017)"
++ Wikipedia page about the next parliamentary election in Iceland: "[Next Icelandic parliamentary election](https://en.wikipedia.org/wiki/Next_Icelandic_parliamentary_election)"
++ Detailed 2017 election results by Iceland Monitor: "[General Elections 2017 in Iceland](http://icelandmonitor.mbl.is/elections2017/)"
 + Detailed information about the Icelandic electoral system in the IPU PARLINE Database: "[ICELAND (Althingi), Electoral system](http://www.ipu.org/parline-e/reports/2143_B.htm)"
 
 ## Similar Websites
@@ -31,3 +31,6 @@ The following websites provide similar information to this website:
 + [Norwegian Polls](https://filipvanlaenen.github.io/norwegian_polls/)
 + [Walloon Polls](https://filipvanlaenen.github.io/walloon_polls/)
 
+## Previous Elections
+
++ [28 October 2017](20171028/index.html)
