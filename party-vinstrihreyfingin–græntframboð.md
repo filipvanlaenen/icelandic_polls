@@ -10,8 +10,8 @@ Last result: **16.9%** (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.1% | 11.7–14.5% | 11.4–14.9% | 11.0–15.3% | 10.4–16.1% |
-| [14–17 November 2017](2017-11-17-MMR.html) | MMR | 13.0% | 11.7–14.5% | 11.3–15.0% | 11.0–15.4% | 10.4–16.1% |
+| N/A | [Poll Average](average.html) | 13.1% | 11.7–14.5% | 11.3–14.9% | 11.0–15.3% | 10.4–16.1% |
+| [14–17 November 2017](2017-11-17-MMR.html) | MMR | 13.0% | 11.7–14.5% | 11.3–15.0% | 11.0–15.3% | 10.4–16.1% |
 
 ### Probability Mass Function
 
@@ -22,8 +22,8 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.7% | 100% |  |
 | 10.5–11.5% | 7% | 99.3% |  |
-| 11.5–12.5% | 23% | 92% |  |
-| 12.5–13.5% | 35% | 70% | Median |
+| 11.5–12.5% | 24% | 93% |  |
+| 12.5–13.5% | 35% | 69% | Median |
 | 13.5–14.5% | 24% | 34% |  |
 | 14.5–15.5% | 8% | 10% |  |
 | 15.5–16.5% | 1.4% | 2% |  |
@@ -39,8 +39,8 @@ Last result: **11** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 10 | 10 | 10 | 10 |
-| [14–17 November 2017](2017-11-17-MMR.html) | MMR | 10 | 10 | 10 | 10 | 10 |
+| N/A | [Poll Average](average.html) | 8 | 7–10 | 7–10 | 7–10 | 6–10 |
+| [14–17 November 2017](2017-11-17-MMR.html) | MMR | 8 | 7–10 | 7–10 | 7–10 | 6–10 |
 
 ### Probability Mass Function
 
@@ -50,7 +50,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 100% | 100% | Median |
-| 11 | 0% | 0% | Last Result |
+| 6 | 0.6% | 100% |  |
+| 7 | 11% | 99.4% |  |
+| 8 | 42% | 89% | Median |
+| 9 | 25% | 46% |  |
+| 10 | 21% | 21% |  |
+| 11 | 0.3% | 0.3% | Last Result |
+| 12 | 0% | 0% |  |
 
 
