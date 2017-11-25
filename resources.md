@@ -18,7 +18,8 @@ The following websites provide similar information to this website:
 ## Other Resources
 
 + The Twitter feed for this site: [@islpolls](https://twitter.com/islpolls)
-+ The Atom feed for this site: [atom.xml](https://filipvanlaenen.github.io/icelandic_polls/atom.xml)
++ The RSS 2.0 feed for this site: [rss.xml](rss.xml)
++ The Atom feed for this site: [atom.xml](atom.xml)
 + The GitHub project for this site: [filipvanlaenen/icelandic_polls](https://github.com/filipvanlaenen/icelandic_polls)
 
 ## Sister Websites
