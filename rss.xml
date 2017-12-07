@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Sat, 25 Nov 2017 15:40:57 +0100</pubDate>
+    <pubDate>Thu, 07 Dec 2017 16:34:09 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Fréttablaðið, Stöð 2 and Vísir, 4 December 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2017-12-04-Fréttablaðið-Stöð2-Vísir.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 23.4–29.5%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 20.7–26.6%&lt;/li&gt;&lt;li&gt;Samfylkingin: 11.2–16.0%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 5.7–9.4%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 9.3–13.7%&lt;/li&gt;&lt;li&gt;Píratar: 6.1–9.8%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 2.8–5.6%&lt;/li&gt;&lt;li&gt;Viðreisn: 3.6–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2017-12-04-Fréttablaðið-Stöð2-Vísir.png"
+        length="213139"
+        type="image/png"/>
+      <pubDate>Thu, 07 Dec 2017 16:34:09 +0100</pubDate>
+      <dc:date>2017-12-07T16:34:09.60256+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 8–30 November 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2017-11-30-Gallup.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 22.3–25.8%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 14.6–17.6%&lt;/li&gt;&lt;li&gt;Samfylkingin: 15.2–18.3%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 5.9–7.9%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 9.2–11.7%&lt;/li&gt;&lt;li&gt;Píratar: 9.2–11.7%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 5.5–7.5%&lt;/li&gt;&lt;li&gt;Viðreisn: 6.1–8.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2017-11-30-Gallup.png"
+        length="190548"
+        type="image/png"/>
+      <pubDate>Thu, 07 Dec 2017 14:38:19 +0100</pubDate>
+      <dc:date>2017-12-07T14:38:19.883335+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MMR, 14–17 November 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2017-11-17-MMR.html#seats</link>
@@ -29,6 +49,6 @@
       <pubDate>Sat, 25 Nov 2017 15:40:57 +0100</pubDate>
       <dc:date>2017-11-25T15:40:57.139413+01:00</dc:date>
     </item>
-    <dc:date>2017-11-25T15:40:57.139413+01:00</dc:date>
+    <dc:date>2017-12-07T16:34:09.60256+01:00</dc:date>
   </channel>
 </rss>
