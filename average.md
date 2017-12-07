@@ -10,6 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 |
 | N/A | Poll Average | 22–27% <br> 14–18 | 11–15% <br> 7–10 | 14–18% <br> 9–12 | 9–13% <br> 5–9 | 8–12% <br> 5–8 | 8–12% <br> 5–8 | 7–10% <br> 4–6 | 5–8% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–30 November 2017](2017-11-30-Gallup.html) | Gallup | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [14–17 November 2017](2017-11-17-MMR.html) | MMR | 22–27% <br> 14–18 | 11–15% <br> 7–10 | 14–18% <br> 9–12 | 9–13% <br> 5–9 | 8–12% <br> 5–8 | 8–12% <br> 5–8 | 7–10% <br> 4–6 | 5–8% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 |
 
