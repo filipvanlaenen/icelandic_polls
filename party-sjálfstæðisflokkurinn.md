@@ -11,6 +11,7 @@ Last result: **25.2%** (General Election of 28 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.4% | 22.6–26.2% | 22.2–26.7% | 21.7–27.2% | 20.9–28.1% |
+| [8–30 November 2017](2017-11-30-Gallup.html) | Gallup | 24.0% | N/A | N/A | N/A | N/A |
 | [14–17 November 2017](2017-11-17-MMR.html) | MMR | 24.4% | 22.6–26.2% | 22.1–26.7% | 21.7–27.2% | 20.9–28.1% |
 
 ### Probability Mass Function
@@ -42,6 +43,7 @@ Last result: **16** seats (General Election of 28 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
+| [8–30 November 2017](2017-11-30-Gallup.html) | Gallup |  |  |  |  |  |
 | [14–17 November 2017](2017-11-17-MMR.html) | MMR | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
 
 ### Probability Mass Function
