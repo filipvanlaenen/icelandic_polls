@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Thu, 07 Dec 2017 17:59:50 +0100</pubDate>
+    <pubDate>Mon, 25 Dec 2017 09:40:03 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by MMR, 12–15 December 2017 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2017-12-15-MMR.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 14–18 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 10–13 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 10–13 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 4–7 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 4–7 seats&lt;/li&gt;&lt;li&gt;Píratar: 8–11 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–3 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2017-12-15-MMR-seats.png"
+        length="225380"
+        type="image/png"/>
+      <pubDate>Mon, 25 Dec 2017 09:40:03 +0100</pubDate>
+      <dc:date>2017-12-25T09:40:03.109805+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MMR, 12–15 December 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2017-12-15-MMR.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 20.6–26.0%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 14.4–19.2%&lt;/li&gt;&lt;li&gt;Samfylkingin: 14.5–19.3%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 7.0–10.7%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 6.9–10.5%&lt;/li&gt;&lt;li&gt;Píratar: 12.0–16.5%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 2.7–5.1%&lt;/li&gt;&lt;li&gt;Viðreisn: 4.4–7.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2017-12-15-MMR.png"
+        length="215563"
+        type="image/png"/>
+      <pubDate>Mon, 25 Dec 2017 09:40:03 +0100</pubDate>
+      <dc:date>2017-12-25T09:40:03.109805+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Fréttablaðið, Stöð 2 and Vísir, 4 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2017-12-04-Fréttablaðið-Stöð2-Vísir.html#seats</link>
@@ -69,6 +89,6 @@
       <pubDate>Sat, 25 Nov 2017 15:40:57 +0100</pubDate>
       <dc:date>2017-11-25T15:40:57.139413+01:00</dc:date>
     </item>
-    <dc:date>2017-12-07T17:59:50.938541+01:00</dc:date>
+    <dc:date>2017-12-25T09:40:03.109805+01:00</dc:date>
   </channel>
 </rss>
