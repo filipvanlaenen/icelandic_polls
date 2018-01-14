@@ -11,7 +11,7 @@ Last result: **6.9%** (General Election of 28 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.4% | 3.2–5.6% | 3.0–5.8% | 2.8–6.0% | 2.5–6.3% |
-| [30 November–28 December 2017](2017-12-28-Gallup.html) | Gallup | 5.4% | 4.9–5.9% | 4.8–6.0% | 4.7–6.2% | 4.5–6.4% |
+| [30 November–28 December 2017](2017-12-28-Gallup.html) | Gallup | 5.4% | 5.0–5.9% | 4.8–6.1% | 4.7–6.2% | 4.5–6.4% |
 | [12–15 December 2017](2017-12-15-MMR.html) | MMR | 3.7% | 3.0–4.6% | 2.8–4.9% | 2.7–5.1% | 2.3–5.6% |
 | [4 December 2017](2017-12-04-Fréttablaðið-Stöð2-Vísir.html) | Fréttablaðið, Stöð 2 and Vísir | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.8–5.6% | 2.5–6.1% |
 | [8–30 November 2017](2017-11-30-Gallup.html) | Gallup | 6.4% | 5.8–7.1% | 5.6–7.3% | 5.5–7.5% | 5.2–7.8% |
@@ -27,8 +27,8 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0.7% | 100% |  |
 | 2.5–3.5% | 19% | 99.3% |  |
 | 3.5–4.5% | 35% | 80% | Median |
-| 4.5–5.5% | 31% | 45% |  |
-| 5.5–6.5% | 14% | 14% |  |
+| 4.5–5.5% | 32% | 45% |  |
+| 5.5–6.5% | 13% | 13% |  |
 | 6.5–7.5% | 0.1% | 0.1% | Last Result |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -41,8 +41,8 @@ Last result: **4** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [30 November–28 December 2017](2017-12-28-Gallup.html) | Gallup | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [30 November–28 December 2017](2017-12-28-Gallup.html) | Gallup | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [12–15 December 2017](2017-12-15-MMR.html) | MMR | 0 | 0 | 0 | 0–3 | 0–3 |
 | [4 December 2017](2017-12-04-Fréttablaðið-Stöð2-Vísir.html) | Fréttablaðið, Stöð 2 and Vísir | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [8–30 November 2017](2017-11-30-Gallup.html) | Gallup | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -56,11 +56,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 71% | 100% | Median |
-| 1 | 0% | 29% |  |
-| 2 | 0% | 29% |  |
-| 3 | 28% | 29% |  |
-| 4 | 1.4% | 1.4% | Last Result |
+| 0 | 67% | 100% | Median |
+| 1 | 0% | 33% |  |
+| 2 | 0% | 33% |  |
+| 3 | 29% | 33% |  |
+| 4 | 3% | 3% | Last Result |
 | 5 | 0% | 0% |  |
 
 
