@@ -13,14 +13,14 @@
     <section class="page-header">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      <a href="index.html" class="btn">Home</a>
-      <a href="average.html" class="btn">Current Average</a>
-      <a href="all.html" class="btn">All Polls</a>
-      <a href="methodology.html" class="btn">Methodology</a>
-      <a href="resources.html" class="btn">Resources</a>
+      <a href="{{ site.github.repository_url }}index.html" class="btn">Home</a>
+      <a href="{{ site.github.repository_url }}average.html" class="btn">Current Average</a>
+      <a href="{{ site.github.repository_url }}all.html" class="btn">All Polls</a>
+      <a href="{{ site.github.repository_url }}methodology.html" class="btn">Methodology</a>
+      <a href="{{ site.github.repository_url }}resources.html" class="btn">Resources</a>
       <a href="https://twitter.com/islpolls" class="btn">Twitter Feed</a>
-      <a href="rss.xml" class="btn">RSS Feed</a>
-      <a href="contact.html" class="btn">Contact</a>
+      <a href="{{ site.github.repository_url }}rss.xml" class="btn">RSS Feed</a>
+      <a href="{{ site.github.repository_url }}contact.html" class="btn">Contact</a>
     </section>
 
     <section class="main-content">
