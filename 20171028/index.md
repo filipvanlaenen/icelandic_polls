@@ -1,6 +1,6 @@
 # Overview
 
-The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
+The table below lists the last polls (less than 30 days old) before the 28 October 2017 election. The full list can be reviewed [here](all.html).
 
 | Period                                                     | Polling firm/Commissioner(s)           | D                                  | V                                                   | P              | B                                                | C              | A           | S                                                  | F                                               | T            | R            | E            | M               | PERF             |
 |:----------------------------------------------------------:|:--------------------------------------:|:----------------------------------:|:---------------------------------------------------:|:--------------:|:------------------------------------------------:|:--------------:|:-----------:|:--------------------------------------------------:|:-----------------------------------------------:|:------------:|:------------:|:------------:|:---------------:|:----------------:|
