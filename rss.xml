@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Thu, 15 Feb 2018 17:25:00 +0100</pubDate>
+    <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
     <item>
       <title>Opinion Poll by Gallup, 30 November–28 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2017-12-28-Gallup.html#seats</link>
@@ -136,18 +136,18 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2017-11-17-MMR-seats.png"
         length="203650"
         type="image/png"/>
-      <pubDate>Sat, 25 Nov 2017 15:40:57 +0100</pubDate>
-      <dc:date>2017-11-25T15:40:57.139413+01:00</dc:date>
+      <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
+      <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MMR, 14–17 November 2017 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2017-11-17-MMR.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2017-11-17-MMR-coalitions-seats.png"
-        length="499077"
+        length="521256"
         type="image/png"/>
-      <pubDate>Sat, 25 Nov 2017 15:40:57 +0100</pubDate>
-      <dc:date>2017-11-25T15:40:57.139413+01:00</dc:date>
+      <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
+      <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MMR, 14–17 November 2017 – Voting Intentions</title>
@@ -156,9 +156,9 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2017-11-17-MMR.png"
         length="215374"
         type="image/png"/>
-      <pubDate>Sat, 25 Nov 2017 15:40:57 +0100</pubDate>
-      <dc:date>2017-11-25T15:40:57.139413+01:00</dc:date>
+      <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
+      <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2018-02-15T17:25:00.622893+01:00</dc:date>
+    <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
   </channel>
 </rss>
