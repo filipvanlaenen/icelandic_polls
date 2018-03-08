@@ -48,10 +48,10 @@ Last result: **7** seats (General Election of 28 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–12 | 8–12 | 8–13 | 7–13 |
-| [30 November–28 December 2017](2017-12-28-Gallup.html) | Gallup | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
+| [30 November–28 December 2017](2017-12-28-Gallup.html) | Gallup | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
 | [12–15 December 2017](2017-12-15-MMR.html) | MMR | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
 | [4 December 2017](2017-12-04-Fréttablaðið-Stöð2-Vísir.html) | Fréttablaðið, Stöð 2 and Vísir | 9 | 8–10 | 8–11 | 7–11 | 7–12 |
-| [8–30 November 2017](2017-11-30-Gallup.html) | Gallup | 11 | 10–11 | 10–12 | 10–12 | 10–12 |
+| [8–30 November 2017](2017-11-30-Gallup.html) | Gallup | 11 | 10–11 | 10–12 | 10–12 | 9–12 |
 | [14–17 November 2017](2017-11-17-MMR.html) | MMR | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
 
 ### Probability Mass Function
@@ -66,8 +66,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 1.3% | 99.9% | Last Result |
 | 8 | 8% | 98.7% |  |
 | 9 | 16% | 91% |  |
-| 10 | 36% | 75% | Median |
-| 11 | 23% | 39% |  |
+| 10 | 36% | 74% | Median |
+| 11 | 22% | 39% |  |
 | 12 | 13% | 16% |  |
 | 13 | 3% | 3% |  |
 | 14 | 0.4% | 0.4% |  |

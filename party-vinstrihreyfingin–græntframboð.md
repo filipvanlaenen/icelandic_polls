@@ -55,7 +55,7 @@ Last result: **11** seats (General Election of 28 October 2017)
 | [30 November–28 December 2017](2017-12-28-Gallup.html) | Gallup | 11 | 11–12 | 11–12 | 10–12 | 10–13 |
 | [12–15 December 2017](2017-12-15-MMR.html) | MMR | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | [4 December 2017](2017-12-04-Fréttablaðið-Stöð2-Vísir.html) | Fréttablaðið, Stöð 2 and Vísir | 17 | 15–18 | 15–18 | 14–19 | 14–20 |
-| [8–30 November 2017](2017-11-30-Gallup.html) | Gallup | 10 | 10–11 | 10–11 | 9–12 | 9–12 |
+| [8–30 November 2017](2017-11-30-Gallup.html) | Gallup | 10 | 10–11 | 10–11 | 10–12 | 9–12 |
 | [14–17 November 2017](2017-11-17-MMR.html) | MMR | 8 | 7–10 | 7–10 | 7–10 | 6–10 |
 
 ### Probability Mass Function
@@ -68,8 +68,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.4% | 100% |  |
 | 10 | 6% | 99.6% |  |
-| 11 | 32% | 94% | Last Result |
-| 12 | 24% | 61% | Median |
+| 11 | 34% | 93% | Last Result |
+| 12 | 22% | 60% | Median |
 | 13 | 4% | 38% |  |
 | 14 | 2% | 34% |  |
 | 15 | 6% | 32% |  |
