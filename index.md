@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | D | V | S | M | B | P | F | C | A | R | T |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 |
-| N/A | [Poll Average](average.html) | 22–27% <br> 15–19 | 12–16% <br> 8–11 | 12–19% <br> 7–13 | 7–10% <br> 4–7 | 6–10% <br> 4–8 | 10–17% <br> 6–11 | 4–8% <br> 0–5 | 6–9% <br> 3–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [27 March–29 April 2018](2018-04-29-Gallup.html) | Gallup | 24–27% <br> 16–19 | 13–15% <br> 9–10 | 17–19% <br> 11–13 | 7–9% <br> 4–6 | 9–11% <br> 6–8 | 10–12% <br> 6–8 | 4–5% <br> 0–3 | 7–9% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 22–27% <br> 15–19 | 12–16% <br> 8–11 | 12–19% <br> 7–13 | 7–10% <br> 4–7 | 6–10% <br> 4–7 | 10–17% <br> 7–11 | 4–8% <br> 0–5 | 6–9% <br> 3–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [27 March–29 April 2018](2018-04-29-Gallup.html) | Gallup | 24–27% <br> 16–19 | 13–15% <br> 9–10 | 17–19% <br> 11–13 | 7–9% <br> 5–6 | 9–11% <br> 6–8 | 10–12% <br> 7–8 | 4–5% <br> 0 | 7–9% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–19 April 2018](2018-04-19-MMR.html) | MMR | 21–27% <br> 14–18 | 12–17% <br> 8–11 | 12–16% <br> 7–10 | 7–11% <br> 4–7 | 6–9% <br> 3–6 | 13–18% <br> 8–12 | 5–9% <br> 3–5 | 6–9% <br> 3–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 |
 
