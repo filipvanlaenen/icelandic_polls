@@ -56,10 +56,10 @@ Last result: **7** seats (General Election of 28 October 2017)
 | N/A | [Poll Average](average.html) | 11 | 8–12 | 8–13 | 7–13 | 7–13 |
 | [27 March–29 April 2018](2018-04-29-Gallup.html) | Gallup | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
 | [13–19 April 2018](2018-04-19-MMR.html) | MMR | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
-| [1–26 March 2018](2018-03-26-Gallup.html) | Gallup | 11 | 10–11 | 10–12 | 10–12 | 10–12 |
-| [1–28 February 2018](2018-02-28-Gallup.html) | Gallup | 10 | 10 | 9–11 | 9–11 | 9–11 |
+| [1–26 March 2018](2018-03-26-Gallup.html) | Gallup | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
+| [1–28 February 2018](2018-02-28-Gallup.html) | Gallup | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
 | [4–31 January 2018](2018-01-31-Gallup.html) | Gallup | 10 | 10–11 | 10–11 | 10–11 | 9–12 |
-| [25–30 January 2018](2018-01-30-MMR.html) | MMR | 10 | 9–11 | 9–12 | 8–12 | 8–12 |
+| [25–30 January 2018](2018-01-30-MMR.html) | MMR | 10 | 9–11 | 9–11 | 8–12 | 8–12 |
 | [9–17 January 2018](2018-01-17-MMR.html) | MMR | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [30 November–28 December 2017](2017-12-28-Gallup.html) | Gallup | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
 | [12–15 December 2017](2017-12-15-MMR.html) | MMR | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
@@ -79,9 +79,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 16% | 97% |  |
 | 9 | 20% | 81% |  |
 | 10 | 10% | 61% |  |
-| 11 | 9% | 51% | Median |
-| 12 | 35% | 42% |  |
-| 13 | 6% | 7% |  |
+| 11 | 6% | 51% | Median |
+| 12 | 37% | 45% |  |
+| 13 | 7% | 8% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 

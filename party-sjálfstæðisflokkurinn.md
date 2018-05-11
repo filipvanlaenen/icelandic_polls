@@ -52,14 +52,14 @@ Last result: **16** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–18 | 15–19 | 15–19 | 14–19 |
-| [27 March–29 April 2018](2018-04-29-Gallup.html) | Gallup | 18 | 17–19 | 16–19 | 16–19 | 16–19 |
+| N/A | [Poll Average](average.html) | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
+| [27 March–29 April 2018](2018-04-29-Gallup.html) | Gallup | 18 | 17–18 | 17–19 | 16–19 | 16–19 |
 | [13–19 April 2018](2018-04-19-MMR.html) | MMR | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
-| [1–26 March 2018](2018-03-26-Gallup.html) | Gallup | 16 | 16–17 | 15–17 | 15–18 | 15–18 |
-| [1–28 February 2018](2018-02-28-Gallup.html) | Gallup | 16 | 15–16 | 15–16 | 15–17 | 14–17 |
-| [4–31 January 2018](2018-01-31-Gallup.html) | Gallup | 18 | 17–19 | 16–19 | 16–19 | 16–19 |
-| [25–30 January 2018](2018-01-30-MMR.html) | MMR | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
-| [9–17 January 2018](2018-01-17-MMR.html) | MMR | 17 | 16–19 | 16–19 | 16–19 | 15–19 |
+| [1–26 March 2018](2018-03-26-Gallup.html) | Gallup | 17 | 16–17 | 15–18 | 15–18 | 15–18 |
+| [1–28 February 2018](2018-02-28-Gallup.html) | Gallup | 16 | 15–16 | 15–17 | 15–17 | 14–18 |
+| [4–31 January 2018](2018-01-31-Gallup.html) | Gallup | 17 | 16–19 | 16–19 | 16–19 | 15–19 |
+| [25–30 January 2018](2018-01-30-MMR.html) | MMR | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
+| [9–17 January 2018](2018-01-17-MMR.html) | MMR | 18 | 16–19 | 16–19 | 16–19 | 15–19 |
 | [30 November–28 December 2017](2017-12-28-Gallup.html) | Gallup | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [12–15 December 2017](2017-12-15-MMR.html) | MMR | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
 | [4 December 2017](2017-12-04-Fréttablaðið-Stöð2-Vísir.html) | Fréttablaðið, Stöð 2 and Vísir | 18 | 17–20 | 16–20 | 16–21 | 15–22 |
@@ -77,10 +77,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.2% | 100% |  |
 | 14 | 1.3% | 99.8% |  |
 | 15 | 14% | 98.5% |  |
-| 16 | 22% | 85% | Last Result |
-| 17 | 29% | 63% | Median |
-| 18 | 29% | 35% |  |
-| 19 | 6% | 6% |  |
+| 16 | 21% | 85% | Last Result |
+| 17 | 32% | 64% | Median |
+| 18 | 28% | 32% |  |
+| 19 | 4% | 4% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
