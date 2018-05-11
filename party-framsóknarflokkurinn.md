@@ -10,7 +10,14 @@ Last result: **10.7%** (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.2% | 8.1–12.5% | 7.7–12.8% | 7.4–13.1% | 6.8–14.0% |
+| N/A | [Poll Average](average.html) | 8.8% | 6.6–10.0% | 6.3–10.2% | 6.0–10.4% | 5.5–10.8% |
+| [27 March–29 April 2018](2018-04-29-Gallup.html) | Gallup | 9.6% | 9.0–10.2% | 8.9–10.4% | 8.7–10.6% | 8.4–10.9% |
+| [13–19 April 2018](2018-04-19-MMR.html) | MMR | 7.3% | 6.2–8.5% | 6.0–8.8% | 5.7–9.1% | 5.3–9.7% |
+| [1–26 March 2018](2018-03-26-Gallup.html) | Gallup | 9.2% | 8.6–9.9% | 8.4–10.1% | 8.2–10.3% | 7.9–10.6% |
+| [1–28 February 2018](2018-02-28-Gallup.html) | Gallup | 9.3% | 8.7–10.0% | 8.5–10.2% | 8.3–10.4% | 8.0–10.7% |
+| [4–31 January 2018](2018-01-31-Gallup.html) | Gallup | 9.5% | 8.9–10.2% | 8.7–10.4% | 8.5–10.6% | 8.2–11.0% |
+| [25–30 January 2018](2018-01-30-MMR.html) | MMR | 11.2% | 10.0–12.6% | 9.6–13.0% | 9.3–13.4% | 8.8–14.1% |
+| [9–17 January 2018](2018-01-17-MMR.html) | MMR | 11.2% | 10.3–12.3% | 10.0–12.6% | 9.8–12.9% | 9.3–13.4% |
 | [30 November–28 December 2017](2017-12-28-Gallup.html) | Gallup | 11.9% | 11.3–12.6% | 11.1–12.8% | 10.9–13.0% | 10.6–13.3% |
 | [12–15 December 2017](2017-12-15-MMR.html) | MMR | 8.6% | 7.5–9.9% | 7.2–10.2% | 6.9–10.5% | 6.4–11.2% |
 | [4 December 2017](2017-12-04-Fréttablaðið-Stöð2-Vísir.html) | Fréttablaðið, Stöð 2 and Vísir | 11.3% | 10.0–12.9% | 9.6–13.3% | 9.3–13.7% | 8.7–14.5% |
@@ -23,18 +30,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.2% | 100% |  |
-| 6.5–7.5% | 3% | 99.8% |  |
-| 7.5–8.5% | 12% | 96% |  |
-| 8.5–9.5% | 14% | 84% |  |
-| 9.5–10.5% | 11% | 71% |  |
-| 10.5–11.5% | 20% | 60% | Last Result, Median |
-| 11.5–12.5% | 31% | 40% |  |
-| 12.5–13.5% | 8% | 9% |  |
-| 13.5–14.5% | 1.0% | 1.1% |  |
-| 14.5–15.5% | 0.1% | 0.1% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.6% | 100% |  |
+| 5.5–6.5% | 8% | 99.4% |  |
+| 6.5–7.5% | 21% | 91% |  |
+| 7.5–8.5% | 16% | 70% |  |
+| 8.5–9.5% | 26% | 54% | Median |
+| 9.5–10.5% | 27% | 28% |  |
+| 10.5–11.5% | 1.4% | 1.5% | Last Result |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -45,7 +49,14 @@ Last result: **8** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 5–8 | 5–9 | 5–9 | 4–10 |
+| N/A | [Poll Average](average.html) | 6 | 4–7 | 4–7 | 4–8 | 3–8 |
+| [27 March–29 April 2018](2018-04-29-Gallup.html) | Gallup | 6 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [13–19 April 2018](2018-04-19-MMR.html) | MMR | 4 | 4–5 | 4–6 | 3–6 | 3–6 |
+| [1–26 March 2018](2018-03-26-Gallup.html) | Gallup | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [1–28 February 2018](2018-02-28-Gallup.html) | Gallup | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [4–31 January 2018](2018-01-31-Gallup.html) | Gallup | 6 | 5–6 | 5–6 | 5–7 | 5–8 |
+| [25–30 January 2018](2018-01-30-MMR.html) | MMR | 7 | 7–8 | 6–9 | 6–9 | 6–10 |
+| [9–17 January 2018](2018-01-17-MMR.html) | MMR | 8 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [30 November–28 December 2017](2017-12-28-Gallup.html) | Gallup | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [12–15 December 2017](2017-12-15-MMR.html) | MMR | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [4 December 2017](2017-12-04-Fréttablaðið-Stöð2-Vísir.html) | Fréttablaðið, Stöð 2 and Vísir | 8 | 7–9 | 6–9 | 6–9 | 5–10 |
@@ -60,14 +71,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 1.3% | 100% |  |
-| 5 | 14% | 98.7% |  |
-| 6 | 17% | 85% |  |
-| 7 | 15% | 68% |  |
-| 8 | 44% | 52% | Last Result, Median |
-| 9 | 7% | 8% |  |
-| 10 | 1.3% | 1.4% |  |
-| 11 | 0.1% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 2 | 0.1% | 100% |  |
+| 3 | 2% | 99.9% |  |
+| 4 | 26% | 98% |  |
+| 5 | 20% | 72% |  |
+| 6 | 32% | 52% | Median |
+| 7 | 17% | 20% |  |
+| 8 | 3% | 3% | Last Result |
+| 9 | 0% | 0% |  |
 
 
