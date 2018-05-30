@@ -8,9 +8,19 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Fri, 11 May 2018 15:35:58 +0200</pubDate>
+    <pubDate>Wed, 30 May 2018 19:49:27 +0200</pubDate>
     <item>
-      <title>Opinion Poll by Gallup, 27 March–29 April 2018 – Seat Projections</title>
+      <title>Opinion Poll by MMR, 16–22 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2018-05-22-MMR.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 21.1–26.5%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 10.0–14.2%&lt;/li&gt;&lt;li&gt;Samfylkingin: 12.5–17.1%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 8.0–11.9%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 8.3–12.2%&lt;/li&gt;&lt;li&gt;Píratar: 12.0–16.5%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 4.3–7.3%&lt;/li&gt;&lt;li&gt;Viðreisn: 5.6–8.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-05-22-MMR.png"
+        length="225935"
+        type="image/png"/>
+      <pubDate>Wed, 30 May 2018 19:49:27 +0200</pubDate>
+      <dc:date>2018-05-30T19:49:27.522418+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 27 March–29 April 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2018-04-29-Gallup.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 16–19 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 9–10 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 11–13 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 5–6 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 6–8 seats&lt;/li&gt;&lt;li&gt;Píratar: 7–8 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-04-29-Gallup-seats.png"
@@ -24,7 +34,7 @@
       <link>https://filipvanlaenen.github.io/icelandic_polls/2018-04-29-Gallup.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-04-29-Gallup-coalitions-seats.png"
-        length="379429"
+        length="375677"
         type="image/png"/>
       <pubDate>Fri, 11 May 2018 13:40:56 +0200</pubDate>
       <dc:date>2018-05-11T13:40:56.109159+02:00</dc:date>
@@ -40,7 +50,7 @@
       <dc:date>2018-05-11T13:40:56.109159+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by MMR, 13–19 April 2018 – Seat Projections</title>
+      <title>Opinion Poll by MMR, 13–19 April 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2018-04-19-MMR.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 14–18 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 8–11 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 7–10 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 4–7 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 3–6 seats&lt;/li&gt;&lt;li&gt;Píratar: 8–12 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 3–5 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 3–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-04-19-MMR-seats.png"
@@ -54,7 +64,7 @@
       <link>https://filipvanlaenen.github.io/icelandic_polls/2018-04-19-MMR.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-04-19-MMR-coalitions-seats.png"
-        length="511587"
+        length="506200"
         type="image/png"/>
       <pubDate>Fri, 11 May 2018 10:01:58 +0200</pubDate>
       <dc:date>2018-05-11T10:01:58.629114+02:00</dc:date>
@@ -70,7 +80,7 @@
       <dc:date>2018-05-11T10:01:58.629114+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Gallup, 1–26 March 2018 – Seat Projections</title>
+      <title>Opinion Poll by Gallup, 1–26 March 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2018-03-26-Gallup.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 15–18 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 8–10 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 10–12 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 5–6 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 5–7 seats&lt;/li&gt;&lt;li&gt;Píratar: 7–9 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–3 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 5–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-03-26-Gallup-seats.png"
@@ -84,7 +94,7 @@
       <link>https://filipvanlaenen.github.io/icelandic_polls/2018-03-26-Gallup.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-03-26-Gallup-coalitions-seats.png"
-        length="432347"
+        length="427942"
         type="image/png"/>
       <pubDate>Fri, 11 May 2018 12:54:11 +0200</pubDate>
       <dc:date>2018-05-11T12:54:11.135135+02:00</dc:date>
@@ -100,7 +110,7 @@
       <dc:date>2018-05-11T12:54:11.135135+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Gallup, 1–28 February 2018 – Seat Projections</title>
+      <title>Opinion Poll by Gallup, 1–28 February 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2018-02-28-Gallup.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 15–17 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 10–12 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 9–11 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 5–6 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 5–7 seats&lt;/li&gt;&lt;li&gt;Píratar: 7–8 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 3–4 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-02-28-Gallup-seats.png"
@@ -114,7 +124,7 @@
       <link>https://filipvanlaenen.github.io/icelandic_polls/2018-02-28-Gallup.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-02-28-Gallup-coalitions-seats.png"
-        length="389657"
+        length="385676"
         type="image/png"/>
       <pubDate>Fri, 11 May 2018 14:35:52 +0200</pubDate>
       <dc:date>2018-05-11T14:35:52.07259+02:00</dc:date>
@@ -130,7 +140,7 @@
       <dc:date>2018-05-11T14:35:52.07259+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Gallup, 4–31 January 2018 – Seat Projections</title>
+      <title>Opinion Poll by Gallup, 4–31 January 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2018-01-31-Gallup.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 16–19 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 10–12 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 10–11 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 3–5 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 5–8 seats&lt;/li&gt;&lt;li&gt;Píratar: 6–8 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–4 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-01-31-Gallup-seats.png"
@@ -144,7 +154,7 @@
       <link>https://filipvanlaenen.github.io/icelandic_polls/2018-01-31-Gallup.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-01-31-Gallup-coalitions-seats.png"
-        length="426479"
+        length="422215"
         type="image/png"/>
       <pubDate>Fri, 11 May 2018 15:35:58 +0200</pubDate>
       <dc:date>2018-05-11T15:35:58.468928+02:00</dc:date>
@@ -160,7 +170,7 @@
       <dc:date>2018-05-11T15:35:58.468928+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by MMR, 25–30 January 2018 – Seat Projections</title>
+      <title>Opinion Poll by MMR, 25–30 January 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2018-01-30-MMR.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 13–17 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 11–15 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 8–12 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 4–6 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 6–9 seats&lt;/li&gt;&lt;li&gt;Píratar: 7–10 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–3 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-01-30-MMR-seats.png"
@@ -174,7 +184,7 @@
       <link>https://filipvanlaenen.github.io/icelandic_polls/2018-01-30-MMR.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-01-30-MMR-coalitions-seats.png"
-        length="524819"
+        length="519444"
         type="image/png"/>
       <pubDate>Fri, 11 May 2018 12:02:42 +0200</pubDate>
       <dc:date>2018-05-11T12:02:42.865239+02:00</dc:date>
@@ -190,7 +200,7 @@
       <dc:date>2018-05-11T12:02:42.865239+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by MMR, 9–17 January 2018 – Seat Projections</title>
+      <title>Opinion Poll by MMR, 9–17 January 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2018-01-17-MMR.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 16–19 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 9–11 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 8–10 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 3–5 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 6–8 seats&lt;/li&gt;&lt;li&gt;Píratar: 7–9 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–4 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-01-17-MMR-seats.png"
@@ -204,7 +214,7 @@
       <link>https://filipvanlaenen.github.io/icelandic_polls/2018-01-17-MMR.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-01-17-MMR-coalitions-seats.png"
-        length="455485"
+        length="450910"
         type="image/png"/>
       <pubDate>Fri, 11 May 2018 11:11:25 +0200</pubDate>
       <dc:date>2018-05-11T11:11:25.190899+02:00</dc:date>
@@ -220,7 +230,7 @@
       <dc:date>2018-05-11T11:11:25.190899+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Gallup, 30 November–28 December 2017 – Seat Projections</title>
+      <title>Opinion Poll by Gallup, 30 November–28 December 2017 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2017-12-28-Gallup.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 16–18 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 10–12 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 9–11 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 3–4 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 8–9 seats&lt;/li&gt;&lt;li&gt;Píratar: 6–7 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–4 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2017-12-28-Gallup-seats.png"
@@ -234,7 +244,7 @@
       <link>https://filipvanlaenen.github.io/icelandic_polls/2017-12-28-Gallup.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2017-12-28-Gallup-coalitions-seats.png"
-        length="395518"
+        length="390902"
         type="image/png"/>
       <pubDate>Thu, 08 Mar 2018 17:22:17 +0100</pubDate>
       <dc:date>2018-03-08T17:22:17.327354+01:00</dc:date>
@@ -250,7 +260,7 @@
       <dc:date>2018-03-08T17:22:17.327354+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by MMR, 12–15 December 2017 – Seat Projections</title>
+      <title>Opinion Poll by MMR, 12–15 December 2017 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2017-12-15-MMR.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 14–18 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 10–13 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 10–13 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 4–7 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 4–7 seats&lt;/li&gt;&lt;li&gt;Píratar: 8–11 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–3 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2017-12-15-MMR-seats.png"
@@ -264,7 +274,7 @@
       <link>https://filipvanlaenen.github.io/icelandic_polls/2017-12-15-MMR.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2017-12-15-MMR-coalitions-seats.png"
-        length="507881"
+        length="503079"
         type="image/png"/>
       <pubDate>Thu, 15 Feb 2018 10:44:42 +0100</pubDate>
       <dc:date>2018-02-15T10:44:42.695262+01:00</dc:date>
@@ -280,7 +290,7 @@
       <dc:date>2018-02-15T10:44:42.695262+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Fréttablaðið, Stöð 2 and Vísir, 4 December 2017 – Seat Projections</title>
+      <title>Opinion Poll by Fréttablaðið, Stöð 2 and Vísir, 4 December 2017 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2017-12-04-Fréttablaðið-Stöð2-Vísir.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 16–21 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 14–19 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 7–11 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 3–6 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 6–9 seats&lt;/li&gt;&lt;li&gt;Píratar: 4–6 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–3 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2017-12-04-Fréttablaðið-Stöð2-Vísir-seats.png"
@@ -294,7 +304,7 @@
       <link>https://filipvanlaenen.github.io/icelandic_polls/2017-12-04-Fréttablaðið-Stöð2-Vísir.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2017-12-04-Fréttablaðið-Stöð2-Vísir-coalitions-seats.png"
-        length="517306"
+        length="511652"
         type="image/png"/>
       <pubDate>Thu, 15 Feb 2018 17:25:00 +0100</pubDate>
       <dc:date>2018-02-15T17:25:00.622893+01:00</dc:date>
@@ -310,7 +320,7 @@
       <dc:date>2018-02-15T17:25:00.622893+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Gallup, 8–30 November 2017 – Seat Projections</title>
+      <title>Opinion Poll by Gallup, 8–30 November 2017 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2017-11-30-Gallup.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 15–18 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 10–12 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 10–12 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 3–5 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 6–8 seats&lt;/li&gt;&lt;li&gt;Píratar: 6–8 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 3–5 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2017-11-30-Gallup-seats.png"
@@ -324,7 +334,7 @@
       <link>https://filipvanlaenen.github.io/icelandic_polls/2017-11-30-Gallup.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2017-11-30-Gallup-coalitions-seats.png"
-        length="442936"
+        length="438291"
         type="image/png"/>
       <pubDate>Thu, 08 Mar 2018 19:41:11 +0100</pubDate>
       <dc:date>2018-03-08T19:41:11.724159+01:00</dc:date>
@@ -340,7 +350,7 @@
       <dc:date>2018-03-08T19:41:11.724159+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by MMR, 14–17 November 2017 – Seat Projections</title>
+      <title>Opinion Poll by MMR, 14–17 November 2017 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2017-11-17-MMR.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 14–18 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 7–10 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 9–12 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 5–9 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 5–8 seats&lt;/li&gt;&lt;li&gt;Píratar: 5–8 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 4–6 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2017-11-17-MMR-seats.png"
@@ -354,7 +364,7 @@
       <link>https://filipvanlaenen.github.io/icelandic_polls/2017-11-17-MMR.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2017-11-17-MMR-coalitions-seats.png"
-        length="529752"
+        length="524757"
         type="image/png"/>
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
@@ -369,6 +379,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2018-05-11T15:35:58.468928+02:00</dc:date>
+    <dc:date>2018-05-30T19:49:27.522418+02:00</dc:date>
   </channel>
 </rss>
