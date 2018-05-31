@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Wed, 30 May 2018 19:49:27 +0200</pubDate>
+    <pubDate>Thu, 31 May 2018 19:01:57 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by MMR, 16–22 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2018-05-22-MMR.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 14–18 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 6–10 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 8–11 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 5–8 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 5–8 seats&lt;/li&gt;&lt;li&gt;Píratar: 8–11 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–4 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 3–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-05-22-MMR-seats.png"
+        length="243075"
+        type="image/png"/>
+      <pubDate>Thu, 31 May 2018 19:01:57 +0200</pubDate>
+      <dc:date>2018-05-31T19:01:57.102973+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MMR, 16–22 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2018-05-22-MMR.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-05-22-MMR-coalitions-seats.png"
+        length="546598"
+        type="image/png"/>
+      <pubDate>Thu, 31 May 2018 19:01:57 +0200</pubDate>
+      <dc:date>2018-05-31T19:01:57.102973+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MMR, 16–22 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2018-05-22-MMR.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-05-22-MMR.png"
         length="225935"
         type="image/png"/>
-      <pubDate>Wed, 30 May 2018 19:49:27 +0200</pubDate>
-      <dc:date>2018-05-30T19:49:27.522418+02:00</dc:date>
+      <pubDate>Thu, 31 May 2018 19:01:57 +0200</pubDate>
+      <dc:date>2018-05-31T19:01:57.102973+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Gallup, 27 March–29 April 2018 – Seat Projections for the Parties</title>
@@ -379,6 +399,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2018-05-30T19:49:27.522418+02:00</dc:date>
+    <dc:date>2018-05-31T19:01:57.102973+02:00</dc:date>
   </channel>
 </rss>
