@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Sat, 09 Jun 2018 22:55:11 +0200</pubDate>
+    <pubDate>Sat, 30 Jun 2018 12:20:00 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by MMR, 12–18 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2018-06-18-MMR.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 19.1–24.4%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 10.7–15.0%&lt;/li&gt;&lt;li&gt;Samfylkingin: 13.0–17.6%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 8.8–12.7%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 7.8–11.6%&lt;/li&gt;&lt;li&gt;Píratar: 12.2–16.7%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 6.6–10.2%&lt;/li&gt;&lt;li&gt;Viðreisn: 4.5–7.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-06-18-MMR.png"
+        length="231442"
+        type="image/png"/>
+      <pubDate>Sat, 30 Jun 2018 12:20:00 +0200</pubDate>
+      <dc:date>2018-06-30T12:20:00.913044+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Gallup, 2–31 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2018-05-31-Gallup.html#seats</link>
@@ -429,6 +439,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2018-06-09T22:55:11.843887+02:00</dc:date>
+    <dc:date>2018-06-30T12:20:00.913044+02:00</dc:date>
   </channel>
 </rss>
