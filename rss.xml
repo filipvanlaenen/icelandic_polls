@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Sat, 30 Jun 2018 12:20:00 +0200</pubDate>
+    <pubDate>Sat, 30 Jun 2018 20:25:51 +0200</pubDate>
     <item>
       <title>Opinion Poll by MMR, 12–18 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2018-06-18-MMR.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-06-18-MMR.png"
         length="231442"
         type="image/png"/>
-      <pubDate>Sat, 30 Jun 2018 12:20:00 +0200</pubDate>
-      <dc:date>2018-06-30T12:20:00.913044+02:00</dc:date>
+      <pubDate>Sat, 30 Jun 2018 20:25:51 +0200</pubDate>
+      <dc:date>2018-06-30T20:25:51.485863+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Gallup, 2–31 May 2018 – Seat Projections for the Parties</title>
@@ -439,6 +439,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2018-06-30T12:20:00.913044+02:00</dc:date>
+    <dc:date>2018-06-30T20:25:51.485863+02:00</dc:date>
   </channel>
 </rss>
