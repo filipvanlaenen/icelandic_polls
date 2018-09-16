@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/icelandic_polls</id>
   <title>All Registered Polls for the Alþingi</title>
-  <updated>2018-09-15T16:41:17.68609+02:00</updated>
+  <updated>2018-09-16T12:16:23.321208+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sjálfstæðisflokkurinn: 23.2–26.0%, 15–19 seats</li><li>Vinstrihreyfingin – grænt framboð: 9.7–11.8%, 6–8 seats</li><li>Samfylkingin: 15.5–18.0%, 10–12 seats</li><li>Miðflokkurinn: 7.7–9.6%, 5–6 seats</li><li>Framsóknarflokkurinn: 8.3–10.2%, 5–7 seats</li><li>Píratar: 12.8–15.1%, 8–10 seats</li><li>Flokkur fólksins: 5.3–6.8%, 3–4 seats</li><li>Viðreisn: 7.8–9.7%, 5–6 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/icelandic_polls/2018-07-30-Gallup.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Gallup, 29 June–30 July 2018</title>
     <updated>2018-09-15T16:41:17.68609+02:00</updated>
     <dc:date>2018-09-15T16:41:17.68609+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sjálfstæðisflokkurinn: 23.1–26.0%, 16–19 seats</li><li>Vinstrihreyfingin – grænt framboð: 10.5–12.7%, 7–9 seats</li><li>Samfylkingin: 14.0–16.5%, 9–11 seats</li><li>Miðflokkurinn: 7.1–9.0%, 4–6 seats</li><li>Framsóknarflokkurinn: 7.6–9.5%, 5–6 seats</li><li>Píratar: 12.0–14.3%, 8–10 seats</li><li>Flokkur fólksins: 4.4–5.9%, 0–4 seats</li><li>Viðreisn: 9.4–11.5%, 6–8 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/icelandic_polls/2018-07-01-Gallup.html</id>
+    <link href="https://filipvanlaenen.github.io/icelandic_polls/2018-07-01-Gallup.html"/>
+    <title>Opinion Poll by Gallup, 31 May–1 July 2018</title>
+    <updated>2018-09-16T12:16:23.321208+02:00</updated>
+    <dc:date>2018-09-16T12:16:23.321208+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sjálfstæðisflokkurinn: 19.1–24.4%, 12–16 seats</li><li>Vinstrihreyfingin – grænt framboð: 10.7–15.0%, 7–10 seats</li><li>Samfylkingin: 13.0–17.6%, 8–12 seats</li><li>Miðflokkurinn: 8.8–12.7%, 5–9 seats</li><li>Framsóknarflokkurinn: 7.8–11.6%, 5–8 seats</li><li>Píratar: 12.2–16.7%, 8–11 seats</li><li>Flokkur fólksins: 6.6–10.2%, 4–6 seats</li><li>Viðreisn: 4.5–7.5%, 0–5 seats</li></ul></div></content>
@@ -135,5 +143,5 @@
     <updated>2018-03-06T13:52:40.577453+01:00</updated>
     <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
   </entry>
-  <dc:date>2018-09-15T16:41:17.68609+02:00</dc:date>
+  <dc:date>2018-09-16T12:16:23.321208+02:00</dc:date>
 </feed>
