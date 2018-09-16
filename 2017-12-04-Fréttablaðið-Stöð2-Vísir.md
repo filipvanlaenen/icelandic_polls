@@ -207,6 +207,8 @@
 
 ### Sjálfstæðisflokkurinn – Vinstrihreyfingin – grænt framboð – Framsóknarflokkurinn
 
+![Graph with seats probability mass function not yet produced](2017-12-04-Fréttablaðið-Stöð2-Vísir-coalitions-seats-pmf-d–v–b.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 35 | 0% | 100% | Last Result |
@@ -226,6 +228,8 @@
 
 ### Vinstrihreyfingin – grænt framboð – Samfylkingin – Framsóknarflokkurinn – Miðflokkurinn
 
+![Graph with seats probability mass function not yet produced](2017-12-04-Fréttablaðið-Stöð2-Vísir-coalitions-seats-pmf-v–s–b–m.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 32 | 0.1% | 100% | Majority |
@@ -243,6 +247,8 @@
 | 44 | 0% | 0% |  |
 
 ### Sjálfstæðisflokkurinn – Vinstrihreyfingin – grænt framboð
+
+![Graph with seats probability mass function not yet produced](2017-12-04-Fréttablaðið-Stöð2-Vísir-coalitions-seats-pmf-d–v.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -264,6 +270,8 @@
 
 ### Vinstrihreyfingin – grænt framboð – Samfylkingin – Framsóknarflokkurinn
 
+![Graph with seats probability mass function not yet produced](2017-12-04-Fréttablaðið-Stöð2-Vísir-coalitions-seats-pmf-v–s–b.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 26 | 0% | 100% | Last Result |
@@ -283,6 +291,8 @@
 
 ### Vinstrihreyfingin – grænt framboð – Samfylkingin – Píratar – Viðreisn
 
+![Graph with seats probability mass function not yet produced](2017-12-04-Fréttablaðið-Stöð2-Vísir-coalitions-seats-pmf-v–s–p–c.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 27 | 0.1% | 100% |  |
@@ -299,6 +309,8 @@
 | 38 | 0% | 0% |  |
 
 ### Sjálfstæðisflokkurinn – Framsóknarflokkurinn – Miðflokkurinn
+
+![Graph with seats probability mass function not yet produced](2017-12-04-Fréttablaðið-Stöð2-Vísir-coalitions-seats-pmf-d–b–m.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -318,6 +330,8 @@
 
 ### Vinstrihreyfingin – grænt framboð – Samfylkingin – Píratar
 
+![Graph with seats probability mass function not yet produced](2017-12-04-Fréttablaðið-Stöð2-Vísir-coalitions-seats-pmf-v–s–p.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 24 | 0% | 100% | Last Result |
@@ -336,6 +350,8 @@
 
 ### Vinstrihreyfingin – grænt framboð – Samfylkingin – Miðflokkurinn
 
+![Graph with seats probability mass function not yet produced](2017-12-04-Fréttablaðið-Stöð2-Vísir-coalitions-seats-pmf-v–s–m.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0.1% | 100% | Last Result |
@@ -352,6 +368,8 @@
 | 36 | 0% | 0% |  |
 
 ### Vinstrihreyfingin – grænt framboð – Framsóknarflokkurinn – Miðflokkurinn
+
+![Graph with seats probability mass function not yet produced](2017-12-04-Fréttablaðið-Stöð2-Vísir-coalitions-seats-pmf-v–b–m.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -370,6 +388,8 @@
 
 ### Sjálfstæðisflokkurinn – Samfylkingin
 
+![Graph with seats probability mass function not yet produced](2017-12-04-Fréttablaðið-Stöð2-Vísir-coalitions-seats-pmf-d–s.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 22 | 0.1% | 100% |  |
@@ -387,6 +407,8 @@
 
 ### Sjálfstæðisflokkurinn – Framsóknarflokkurinn
 
+![Graph with seats probability mass function not yet produced](2017-12-04-Fréttablaðið-Stöð2-Vísir-coalitions-seats-pmf-d–b.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 21 | 0.1% | 100% |  |
@@ -403,6 +425,8 @@
 | 32 | 0% | 0% | Majority |
 
 ### Vinstrihreyfingin – grænt framboð – Samfylkingin
+
+![Graph with seats probability mass function not yet produced](2017-12-04-Fréttablaðið-Stöð2-Vísir-coalitions-seats-pmf-v–s.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -423,6 +447,8 @@
 
 ### Vinstrihreyfingin – grænt framboð – Framsóknarflokkurinn
 
+![Graph with seats probability mass function not yet produced](2017-12-04-Fréttablaðið-Stöð2-Vísir-coalitions-seats-pmf-v–b.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 19 | 0% | 100% | Last Result |
@@ -439,6 +465,8 @@
 | 30 | 0% | 0% |  |
 
 ### Sjálfstæðisflokkurinn – Miðflokkurinn
+
+![Graph with seats probability mass function not yet produced](2017-12-04-Fréttablaðið-Stöð2-Vísir-coalitions-seats-pmf-d–m.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -457,6 +485,8 @@
 
 ### Vinstrihreyfingin – grænt framboð – Miðflokkurinn
 
+![Graph with seats probability mass function not yet produced](2017-12-04-Fréttablaðið-Stöð2-Vísir-coalitions-seats-pmf-v–m.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 17 | 0.2% | 100% |  |
@@ -473,6 +503,8 @@
 
 ### Vinstrihreyfingin – grænt framboð – Píratar
 
+![Graph with seats probability mass function not yet produced](2017-12-04-Fréttablaðið-Stöð2-Vísir-coalitions-seats-pmf-v–p.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 17 | 0.2% | 100% | Last Result |
@@ -488,6 +520,8 @@
 | 27 | 0% | 0% |  |
 
 ### Sjálfstæðisflokkurinn – Viðreisn
+
+![Graph with seats probability mass function not yet produced](2017-12-04-Fréttablaðið-Stöð2-Vísir-coalitions-seats-pmf-d–c.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
