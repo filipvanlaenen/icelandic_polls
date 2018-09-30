@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | D | V | S | M | B | P | F | C | A | R | T |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 |
+| [7–12 September 2018](2018-09-12-MMR.html) | MMR | 19–24% <br> 13–15 | 9–13% <br> 7–8 | 17–22% <br> 11–14 | 9–13% <br> 6–9 | 7–10% <br> 3–7 | 11–16% <br> 8–9 | 4–7% <br> 0–5 | 6–10% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [2 August–2 September 2018](2018-09-02-Gallup.html) | Gallup | 21–24% <br> 14–16 | 11–13% <br> 6–8 | 18–21% <br> 13–15 | 8–10% <br> 4–6 | 7–9% <br> 4–6 | 11–14% <br> 7–8 | 5–6% <br> 3 | 9–11% <br> 6–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29 June–30 July 2018](2018-07-30-Gallup.html) | Gallup | 23–26% <br> 15–19 | 10–12% <br> 6–8 | 16–18% <br> 10–12 | 8–10% <br> 5–6 | 8–10% <br> 5–7 | 13–15% <br> 8–10 | 5–7% <br> 3–4 | 8–10% <br> 5–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [31 May–1 July 2018](2018-07-01-Gallup.html) | Gallup | 23–26% <br> 16–19 | 10–13% <br> 7–9 | 14–16% <br> 9–11 | 7–9% <br> 4–6 | 8–10% <br> 5–6 | 12–14% <br> 8–10 | 4–6% <br> 0–4 | 9–11% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–18 June 2018](2018-06-18-MMR.html) | MMR | 19–24% <br> 12–16 | 11–15% <br> 7–10 | 13–18% <br> 8–12 | 9–13% <br> 5–9 | 8–12% <br> 5–8 | 12–17% <br> 8–11 | 7–10% <br> 4–6 | 4–8% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
