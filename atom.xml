@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/icelandic_polls</id>
   <title>All Registered Polls for the Alþingi</title>
-  <updated>2018-09-16T12:16:23.321208+02:00</updated>
+  <updated>2018-10-08T17:14:00.669952+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sjálfstæðisflokkurinn: 18.8–24.0%, 12–16 seats</li><li>Vinstrihreyfingin – grænt framboð: 9.3–13.3%, 6–9 seats</li><li>Samfylkingin: 17.4–22.5%, 11–15 seats</li><li>Miðflokkurinn: 9.0–12.9%, 6–9 seats</li><li>Framsóknarflokkurinn: 6.5–10.0%, 4–6 seats</li><li>Píratar: 11.2–15.5%, 7–10 seats</li><li>Flokkur fólksins: 4.1–7.0%, 0–4 seats</li><li>Viðreisn: 6.3–9.8%, 4–6 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/icelandic_polls/2018-09-12-MMR.html</id>
+    <link href="https://filipvanlaenen.github.io/icelandic_polls/2018-09-12-MMR.html"/>
+    <title>Opinion Poll by MMR, 7–12 September 2018</title>
+    <updated>2018-10-08T17:14:00.669952+02:00</updated>
+    <dc:date>2018-10-08T17:14:00.669952+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sjálfstæðisflokkurinn: 23.2–26.0%, 15–19 seats</li><li>Vinstrihreyfingin – grænt framboð: 9.7–11.8%, 6–8 seats</li><li>Samfylkingin: 15.5–18.0%, 10–12 seats</li><li>Miðflokkurinn: 7.7–9.6%, 5–6 seats</li><li>Framsóknarflokkurinn: 8.3–10.2%, 5–7 seats</li><li>Píratar: 12.8–15.1%, 8–10 seats</li><li>Flokkur fólksins: 5.3–6.8%, 3–4 seats</li><li>Viðreisn: 7.8–9.7%, 5–6 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/icelandic_polls/2018-07-30-Gallup.html</id>
@@ -143,5 +151,5 @@
     <updated>2018-03-06T13:52:40.577453+01:00</updated>
     <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
   </entry>
-  <dc:date>2018-09-16T12:16:23.321208+02:00</dc:date>
+  <dc:date>2018-10-08T17:14:00.669952+02:00</dc:date>
 </feed>
