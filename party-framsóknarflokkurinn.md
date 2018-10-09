@@ -57,7 +57,7 @@ Last result: **8** seats (General Election of 28 October 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [7–12 September 2018](2018-09-12-MMR.html) | MMR | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [2 August–2 September 2018](2018-09-02-Gallup.html) | Gallup | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| [2 August–2 September 2018](2018-09-02-Gallup.html) | Gallup | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | [29 June–30 July 2018](2018-07-30-Gallup.html) | Gallup | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [31 May–1 July 2018](2018-07-01-Gallup.html) | Gallup | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [12–18 June 2018](2018-06-18-MMR.html) | MMR | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
@@ -86,9 +86,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
 | 4 | 12% | 99.9% |  |
-| 5 | 70% | 88% | Median |
-| 6 | 17% | 18% |  |
-| 7 | 0.9% | 1.0% |  |
+| 5 | 72% | 88% | Median |
+| 6 | 15% | 16% |  |
+| 7 | 1.0% | 1.0% |  |
 | 8 | 0% | 0% | Last Result |
 
 
