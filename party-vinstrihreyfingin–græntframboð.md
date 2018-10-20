@@ -10,7 +10,9 @@ Last result: **16.9%** (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.5% | 10.3–12.4% | 9.9–12.7% | 9.6–13.0% | 9.0–13.7% |
+| N/A | [Poll Average](average.html) | 10.6% | 9.7–11.9% | 9.4–12.4% | 9.2–12.8% | 8.7–13.6% |
+| [3–9 October 2018](2018-10-09-MMR.html) | MMR | 11.0% | 9.7–12.4% | 9.4–12.8% | 9.1–13.2% | 8.6–13.9% |
+| [3 September–1 October 2018](2018-10-01-Gallup.html) | Gallup | 10.3% | 9.6–11.1% | 9.4–11.3% | 9.3–11.5% | 8.9–11.8% |
 | [7–12 September 2018](2018-09-12-MMR.html) | MMR | 11.1% | 9.9–12.5% | 9.6–12.9% | 9.3–13.3% | 8.7–14.0% |
 | [2 August–2 September 2018](2018-09-02-Gallup.html) | Gallup | 11.7% | 11.1–12.4% | 10.9–12.6% | 10.7–12.8% | 10.4–13.1% |
 | [29 June–30 July 2018](2018-07-30-Gallup.html) | Gallup | 10.7% | 10.1–11.4% | 9.9–11.6% | 9.7–11.8% | 9.4–12.1% |
@@ -38,14 +40,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 2% | 99.9% |  |
-| 9.5–10.5% | 11% | 98% |  |
-| 10.5–11.5% | 37% | 86% |  |
-| 11.5–12.5% | 41% | 49% | Median |
-| 12.5–13.5% | 7% | 8% |  |
-| 13.5–14.5% | 0.7% | 0.7% |  |
-| 14.5–15.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0.3% | 100% |  |
+| 8.5–9.5% | 7% | 99.7% |  |
+| 9.5–10.5% | 41% | 93% |  |
+| 10.5–11.5% | 35% | 51% | Median |
+| 11.5–12.5% | 12% | 16% |  |
+| 12.5–13.5% | 3% | 4% |  |
+| 13.5–14.5% | 0.5% | 0.5% |  |
+| 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% | Last Result |
 
@@ -58,7 +60,9 @@ Last result: **11** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–8 | 6–8 | 5–9 |
+| [3–9 October 2018](2018-10-09-MMR.html) | MMR | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
+| [3 September–1 October 2018](2018-10-01-Gallup.html) | Gallup | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [7–12 September 2018](2018-09-12-MMR.html) | MMR | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [2 August–2 September 2018](2018-09-02-Gallup.html) | Gallup | 7 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [29 June–30 July 2018](2018-07-30-Gallup.html) | Gallup | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
@@ -87,12 +91,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.4% | 100% |  |
-| 6 | 9% | 99.6% |  |
-| 7 | 58% | 90% | Median |
-| 8 | 28% | 33% |  |
-| 9 | 4% | 5% |  |
-| 10 | 0.4% | 0.4% |  |
+| 5 | 2% | 100% |  |
+| 6 | 37% | 98% |  |
+| 7 | 53% | 61% | Median |
+| 8 | 7% | 8% |  |
+| 9 | 1.1% | 1.3% |  |
+| 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% | Last Result |
 
 
