@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Sun, 21 Oct 2018 17:37:31 +0200</pubDate>
+    <pubDate>Sun, 21 Oct 2018 22:46:38 +0200</pubDate>
     <item>
       <title>Opinion Poll by MMR, 3–9 October 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2018-10-09-MMR.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2018-10-21T17:37:31.482375+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Gallup, 3 September–1 October 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2018-10-01-Gallup.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 15–18 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 6–7 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 12–15 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 5–7 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 3–5 seats&lt;/li&gt;&lt;li&gt;Píratar: 6–8 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 3–4 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 6–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-10-01-Gallup-seats.png"
+        length="187464"
+        type="image/png"/>
+      <pubDate>Sun, 21 Oct 2018 22:46:38 +0200</pubDate>
+      <dc:date>2018-10-21T22:46:38.798112+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 3 September–1 October 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2018-10-01-Gallup.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-10-01-Gallup-coalitions-seats.png"
+        length="410250"
+        type="image/png"/>
+      <pubDate>Sun, 21 Oct 2018 22:46:38 +0200</pubDate>
+      <dc:date>2018-10-21T22:46:38.798112+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Gallup, 3 September–1 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2018-10-01-Gallup.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 23.1–26.2%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 9.3–11.5%&lt;/li&gt;&lt;li&gt;Samfylkingin: 17.9–20.8%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 8.8–10.9%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 5.7–7.6%&lt;/li&gt;&lt;li&gt;Píratar: 10.4–12.7%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 5.1–6.8%&lt;/li&gt;&lt;li&gt;Viðreisn: 9.6–11.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2018-10-01-Gallup.png"
         length="193551"
         type="image/png"/>
-      <pubDate>Sat, 20 Oct 2018 20:27:27 +0200</pubDate>
-      <dc:date>2018-10-20T20:27:27.060862+02:00</dc:date>
+      <pubDate>Sun, 21 Oct 2018 22:46:38 +0200</pubDate>
+      <dc:date>2018-10-21T22:46:38.798112+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MMR, 7–12 September 2018 – Seat Projections for the Parties</title>
@@ -619,6 +639,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2018-10-21T17:37:31.482375+02:00</dc:date>
+    <dc:date>2018-10-21T22:46:38.798112+02:00</dc:date>
   </channel>
 </rss>
