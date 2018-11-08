@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 30 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 |
 | N/A | [Poll Average](average.html) | 19–27% <br> 13–19 | 9–13% <br> 6–8 | 15–19% <br> 10–13 | 10–14% <br> 6–10 | 6–11% <br> 4–7 | 10–15% <br> 6–9 | 5–8% <br> 0–5 | 7–12% <br> 4–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [2–31 October 2018](2018-10-31-Gallup.html) | Gallup | 24–27% <br> 16–19 | 10–12% <br> 6–7 | 16–18% <br> 10–12 | 9–11% <br> 6–8 | 6–8% <br> 4–5 | 10–12% <br> 6–7 | 5–7% <br> 3–4 | 10–12% <br> 6–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [2–31 October 2018](2018-10-31-Gallup.html) | Gallup | 24–27% <br> 16–19 | 10–12% <br> 6–7 | 16–18% <br> 10–13 | 9–11% <br> 6–8 | 6–8% <br> 4–5 | 10–12% <br> 6–7 | 5–7% <br> 3–4 | 10–12% <br> 6–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [3–9 October 2018](2018-10-09-MMR.html) | MMR | 18–24% <br> 12–16 | 9–13% <br> 6–9 | 14–19% <br> 9–13 | 10–14% <br> 6–10 | 7–11% <br> 4–7 | 11–15% <br> 7–10 | 5–8% <br> 0–5 | 7–11% <br> 4–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 |
 
