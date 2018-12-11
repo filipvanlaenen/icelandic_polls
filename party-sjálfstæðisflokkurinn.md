@@ -67,10 +67,10 @@ Last result: **16** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
+| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–17 | 11–17 |
 | [3–4 December 2018](2018-12-04-Zenter.html) | Zenter | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
-| [30 November–3 December 2018](2018-12-03-Maskína.html) | Maskína | 14 | 12–14 | 12–15 | 12–15 | 11–15 |
-| [3 November–2 December 2018](2018-12-02-Gallup.html) | Gallup | 16 | 14–16 | 14–16 | 14–17 | 14–17 |
+| [30 November–3 December 2018](2018-12-03-Maskína.html) | Maskína | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
+| [3 November–2 December 2018](2018-12-02-Gallup.html) | Gallup | 15 | 14–16 | 14–17 | 14–17 | 14–17 |
 | [8–12 November 2018](2018-11-12-MMR.html) | MMR | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
 | [2–31 October 2018](2018-10-31-Gallup.html) | Gallup | 18 | 17–19 | 17–19 | 16–19 | 16–20 |
 | [3–9 October 2018](2018-10-09-MMR.html) | MMR | 14 | 13–15 | 13–15 | 12–16 | 12–17 |
@@ -104,14 +104,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
-| 11 | 1.0% | 99.9% |  |
-| 12 | 7% | 98.9% |  |
-| 13 | 23% | 92% |  |
-| 14 | 28% | 69% | Median |
-| 15 | 22% | 41% |  |
-| 16 | 16% | 18% | Last Result |
-| 17 | 2% | 2% |  |
-| 18 | 0.1% | 0.2% |  |
+| 11 | 1.1% | 99.9% |  |
+| 12 | 7% | 98.8% |  |
+| 13 | 24% | 91% |  |
+| 14 | 27% | 68% | Median |
+| 15 | 24% | 40% |  |
+| 16 | 13% | 16% | Last Result |
+| 17 | 3% | 3% |  |
+| 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
 
 

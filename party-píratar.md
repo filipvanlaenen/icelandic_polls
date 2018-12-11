@@ -68,8 +68,8 @@ Last result: **6** seats (General Election of 28 October 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–10 | 6–11 | 6–11 | 5–12 |
 | [3–4 December 2018](2018-12-04-Zenter.html) | Zenter | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
-| [30 November–3 December 2018](2018-12-03-Maskína.html) | Maskína | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
-| [3 November–2 December 2018](2018-12-02-Gallup.html) | Gallup | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [30 November–3 December 2018](2018-12-03-Maskína.html) | Maskína | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
+| [3 November–2 December 2018](2018-12-02-Gallup.html) | Gallup | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [8–12 November 2018](2018-11-12-MMR.html) | MMR | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [2–31 October 2018](2018-10-31-Gallup.html) | Gallup | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [3–9 October 2018](2018-10-09-MMR.html) | MMR | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
@@ -102,14 +102,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.9% | 100% |  |
-| 6 | 18% | 99.1% | Last Result |
-| 7 | 23% | 81% |  |
+| 5 | 2% | 100% |  |
+| 6 | 22% | 98% | Last Result |
+| 7 | 18% | 76% |  |
 | 8 | 9% | 59% | Median |
 | 9 | 15% | 50% |  |
-| 10 | 27% | 35% |  |
-| 11 | 7% | 8% |  |
-| 12 | 0.6% | 0.7% |  |
+| 10 | 25% | 34% |  |
+| 11 | 8% | 10% |  |
+| 12 | 1.2% | 1.2% |  |
 | 13 | 0% | 0% |  |
 
 
