@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 |
 | N/A | Poll Average | 18–25% <br> 12–17 | 10–16% <br> 6–11 | 16–22% <br> 10–16 | 4–13% <br> 0–10 | 7–14% <br> 4–10 | 10–17% <br> 6–11 | 3–7% <br> 0–4 | 7–15% <br> 5–10 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [5–11 December 2018](2018-12-11-MMR.html) | MMR | 20–25% <br> 13–17 | 11–15% <br> 7–10 | 15–19% <br> 10–13 | 5–8% <br> 0–5 | 11–15% <br> 7–10 | 12–17% <br> 8–11 | 3–6% <br> 0–4 | 7–10% <br> 4–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5–11 December 2018](2018-12-11-MMR.html) | MMR | 20–25% <br> 13–17 | 11–15% <br> 7–10 | 15–19% <br> 10–13 | 5–8% <br> 0–5 | 11–15% <br> 7–10 | 12–17% <br> 8–11 | 3–6% <br> 0–3 | 7–10% <br> 4–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [3–4 December 2018](2018-12-04-Zenter.html) | Zenter | 19–24% <br> 13–17 | 11–15% <br> 7–10 | 19–23% <br> 12–16 | 3–6% <br> 0–3 | 7–10% <br> 4–7 | 13–16% <br> 8–11 | 5–7% <br> 0–5 | 8–11% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30 November–3 December 2018](2018-12-03-Maskína.html) | Maskína | 17–22% <br> 12–15 | 13–17% <br> 9–11 | 18–22% <br> 12–15 | 4–6% <br> 0–4 | 7–10% <br> 5–7 | 13–17% <br> 9–12 | 3–6% <br> 0–3 | 12–15% <br> 8–10 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [3 November–2 December 2018](2018-12-02-Gallup.html) | Gallup | 22–25% <br> 14–17 | 9–12% <br> 6–7 | 17–20% <br> 11–14 | 11–13% <br> 7–10 | 7–8% <br> 4–5 | 9–11% <br> 5–7 | 5–7% <br> 3–4 | 9–11% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -219,9 +219,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#sjálfstæðisflokkurinn">Sjálfstæðisflokkurinn</a> | 16 | 15 | 13–16 |12–17 | 12–17 | 11–17 |
+| <a href="#sjálfstæðisflokkurinn">Sjálfstæðisflokkurinn</a> | 16 | 15 | 13–16 |12–16 | 12–17 | 11–17 |
 | <a href="#vinstrihreyfingin-–-grænt-framboð">Vinstrihreyfingin – grænt framboð</a> | 11 | 9 | 6–10 |6–11 | 6–11 | 6–11 |
-| <a href="#samfylkingin">Samfylkingin</a> | 7 | 13 | 11–15 |10–15 | 10–16 | 10–16 |
+| <a href="#samfylkingin">Samfylkingin</a> | 7 | 13 | 11–15 |11–15 | 10–16 | 10–16 |
 | <a href="#miðflokkurinn">Miðflokkurinn</a> | 7 | 3 | 0–9 |0–10 | 0–10 | 0–10 |
 | <a href="#framsóknarflokkurinn">Framsóknarflokkurinn</a> | 8 | 6 | 4–10 |4–10 | 4–10 | 4–10 |
 | <a href="#píratar">Píratar</a> | 6 | 9 | 6–11 |6–11 | 6–11 | 5–12 |
@@ -241,10 +241,10 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.6% | 100% |  |
 | 12 | 5% | 99.4% |  |
-| 13 | 13% | 94% |  |
-| 14 | 29% | 82% |  |
-| 15 | 29% | 52% | Median |
-| 16 | 18% | 23% | Last Result |
+| 13 | 12% | 94% |  |
+| 14 | 28% | 83% |  |
+| 15 | 31% | 55% | Median |
+| 16 | 19% | 24% | Last Result |
 | 17 | 5% | 5% |  |
 | 18 | 0.4% | 0.4% |  |
 | 19 | 0% | 0% |  |
@@ -259,10 +259,10 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.2% | 100% |  |
 | 6 | 15% | 99.8% |  |
-| 7 | 15% | 85% |  |
-| 8 | 18% | 70% |  |
-| 9 | 22% | 52% | Median |
-| 10 | 25% | 30% |  |
+| 7 | 14% | 85% |  |
+| 8 | 21% | 71% |  |
+| 9 | 22% | 50% | Median |
+| 10 | 24% | 29% |  |
 | 11 | 5% | 5% | Last Result |
 | 12 | 0.5% | 0.5% |  |
 | 13 | 0% | 0% |  |
@@ -277,12 +277,12 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0% | 100% | Last Result |
 | 8 | 0% | 100% |  |
-| 9 | 0.3% | 100% |  |
-| 10 | 5% | 99.7% |  |
-| 11 | 12% | 94% |  |
-| 12 | 25% | 83% |  |
-| 13 | 23% | 58% | Median |
-| 14 | 23% | 35% |  |
+| 9 | 0.2% | 100% |  |
+| 10 | 4% | 99.8% |  |
+| 11 | 15% | 96% |  |
+| 12 | 23% | 81% |  |
+| 13 | 23% | 57% | Median |
+| 14 | 22% | 35% |  |
 | 15 | 10% | 13% |  |
 | 16 | 3% | 3% |  |
 | 17 | 0.3% | 0.3% |  |
@@ -298,10 +298,10 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 22% | 100% |  |
 | 1 | 21% | 78% |  |
-| 2 | 0.8% | 56% |  |
+| 2 | 0.8% | 57% |  |
 | 3 | 14% | 56% | Median |
-| 4 | 14% | 42% |  |
-| 5 | 3% | 28% |  |
+| 4 | 16% | 43% |  |
+| 5 | 2% | 27% |  |
 | 6 | 0.2% | 25% |  |
 | 7 | 3% | 25% | Last Result |
 | 8 | 2% | 22% |  |
@@ -321,11 +321,11 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 16% | 99.9% |  |
 | 5 | 30% | 84% |  |
 | 6 | 26% | 55% | Median |
-| 7 | 7% | 29% |  |
-| 8 | 8% | 22% | Last Result |
+| 7 | 6% | 29% |  |
+| 8 | 9% | 23% | Last Result |
 | 9 | 3% | 14% |  |
-| 10 | 10% | 11% |  |
-| 11 | 0.3% | 0.4% |  |
+| 10 | 11% | 11% |  |
+| 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |
 
 ### Píratar
@@ -341,9 +341,9 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 6% | 81% |  |
 | 8 | 3% | 75% |  |
 | 9 | 23% | 72% | Median |
-| 10 | 35% | 49% |  |
-| 11 | 12% | 14% |  |
-| 12 | 1.4% | 1.4% |  |
+| 10 | 35% | 48% |  |
+| 11 | 12% | 13% |  |
+| 12 | 1.4% | 1.5% |  |
 | 13 | 0% | 0% |  |
 
 ### Flokkur fólksins
@@ -356,9 +356,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 45% | 100% |  |
 | 1 | 0.4% | 55% |  |
-| 2 | 0% | 55% |  |
-| 3 | 26% | 55% | Median |
-| 4 | 28% | 29% | Last Result |
+| 2 | 0% | 54% |  |
+| 3 | 26% | 54% | Median |
+| 4 | 27% | 28% | Last Result |
 | 5 | 0.7% | 0.7% |  |
 | 6 | 0% | 0% |  |
 
@@ -371,8 +371,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 1.3% | 100% | Last Result |
-| 5 | 20% | 98.7% |  |
-| 6 | 46% | 79% | Median |
+| 5 | 19% | 98.7% |  |
+| 6 | 47% | 79% | Median |
 | 7 | 8% | 33% |  |
 | 8 | 6% | 25% |  |
 | 9 | 14% | 19% |  |
@@ -391,24 +391,24 @@ Only polls for which at least the sample size has been published are included in
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Vinstrihreyfingin – grænt framboð – Samfylkingin – Píratar – Viðreisn – Björt framtíð | 28 | 37 | 80% | 30–43 | 30–43 | 30–44 | 29–45 |
 | Vinstrihreyfingin – grænt framboð – Samfylkingin – Píratar – Viðreisn | 28 | 37 | 80% | 30–43 | 30–43 | 30–44 | 29–45 |
-| Vinstrihreyfingin – grænt framboð – Samfylkingin – Miðflokkurinn – Framsóknarflokkurinn | 33 | 31 | 41% | 29–33 | 28–34 | 28–35 | 27–35 |
-| Vinstrihreyfingin – grænt framboð – Samfylkingin – Píratar – Björt framtíð | 24 | 31 | 47% | 24–34 | 24–34 | 24–35 | 23–36 |
-| Vinstrihreyfingin – grænt framboð – Samfylkingin – Píratar | 24 | 31 | 47% | 24–34 | 24–34 | 24–35 | 23–36 |
-| Sjálfstæðisflokkurinn – Vinstrihreyfingin – grænt framboð – Framsóknarflokkurinn | 35 | 29 | 19% | 26–33 | 25–34 | 25–34 | 25–35 |
-| Sjálfstæðisflokkurinn – Samfylkingin | 23 | 27 | 0.9% | 25–30 | 25–30 | 24–31 | 23–32 |
-| Vinstrihreyfingin – grænt framboð – Samfylkingin – Framsóknarflokkurinn | 26 | 28 | 2% | 23–30 | 22–31 | 22–31 | 21–32 |
-| Sjálfstæðisflokkurinn – Miðflokkurinn – Framsóknarflokkurinn | 31 | 24 | 0% | 20–29 | 19–30 | 19–30 | 18–31 |
-| Vinstrihreyfingin – grænt framboð – Samfylkingin – Miðflokkurinn | 25 | 24 | 0% | 22–28 | 22–28 | 21–28 | 20–30 |
-| Sjálfstæðisflokkurinn – Vinstrihreyfingin – grænt framboð | 27 | 23 | 0% | 21–25 | 21–25 | 20–26 | 20–26 |
+| Vinstrihreyfingin – grænt framboð – Samfylkingin – Píratar – Björt framtíð | 24 | 31 | 46% | 24–34 | 24–34 | 24–35 | 23–36 |
+| Vinstrihreyfingin – grænt framboð – Samfylkingin – Píratar | 24 | 31 | 46% | 24–34 | 24–34 | 24–35 | 23–36 |
+| Vinstrihreyfingin – grænt framboð – Samfylkingin – Miðflokkurinn – Framsóknarflokkurinn | 33 | 31 | 43% | 29–33 | 28–34 | 28–34 | 27–35 |
+| Sjálfstæðisflokkurinn – Vinstrihreyfingin – grænt framboð – Framsóknarflokkurinn | 35 | 29 | 21% | 26–33 | 25–33 | 25–34 | 25–35 |
+| Sjálfstæðisflokkurinn – Samfylkingin | 23 | 27 | 0.9% | 25–30 | 25–30 | 25–31 | 24–32 |
+| Vinstrihreyfingin – grænt framboð – Samfylkingin – Framsóknarflokkurinn | 26 | 28 | 1.5% | 23–30 | 22–31 | 22–31 | 21–32 |
+| Sjálfstæðisflokkurinn – Miðflokkurinn – Framsóknarflokkurinn | 31 | 24 | 0.1% | 20–29 | 19–30 | 19–30 | 18–31 |
+| Vinstrihreyfingin – grænt framboð – Samfylkingin – Miðflokkurinn | 25 | 24 | 0% | 23–28 | 22–28 | 22–28 | 20–30 |
+| Sjálfstæðisflokkurinn – Vinstrihreyfingin – grænt framboð | 27 | 23 | 0% | 21–25 | 21–25 | 21–26 | 20–26 |
 | Sjálfstæðisflokkurinn – Miðflokkurinn | 23 | 17 | 0% | 14–25 | 13–25 | 13–26 | 12–26 |
-| Sjálfstæðisflokkurinn – Framsóknarflokkurinn | 24 | 20 | 0% | 18–24 | 18–25 | 18–25 | 17–27 |
-| Vinstrihreyfingin – grænt framboð – Samfylkingin | 18 | 22 | 0% | 18–24 | 18–24 | 17–25 | 17–26 |
-| Sjálfstæðisflokkurinn – Viðreisn – Björt framtíð | 20 | 21 | 0% | 19–23 | 19–23 | 19–24 | 18–24 |
-| Sjálfstæðisflokkurinn – Viðreisn | 20 | 21 | 0% | 19–23 | 19–23 | 19–24 | 18–24 |
-| Vinstrihreyfingin – grænt framboð – Miðflokkurinn – Framsóknarflokkurinn | 26 | 18 | 0% | 15–22 | 14–22 | 14–23 | 13–24 |
+| Sjálfstæðisflokkurinn – Framsóknarflokkurinn | 24 | 20 | 0% | 18–24 | 18–25 | 18–25 | 17–26 |
+| Vinstrihreyfingin – grænt framboð – Samfylkingin | 18 | 21 | 0% | 18–24 | 18–24 | 17–25 | 17–26 |
+| Sjálfstæðisflokkurinn – Viðreisn – Björt framtíð | 20 | 21 | 0% | 20–23 | 19–23 | 19–24 | 18–24 |
+| Sjálfstæðisflokkurinn – Viðreisn | 20 | 21 | 0% | 20–23 | 19–23 | 19–24 | 18–24 |
+| Vinstrihreyfingin – grænt framboð – Miðflokkurinn – Framsóknarflokkurinn | 26 | 18 | 0% | 15–22 | 14–22 | 14–23 | 13–23 |
 | Vinstrihreyfingin – grænt framboð – Píratar | 17 | 18 | 0% | 12–20 | 12–21 | 12–21 | 11–22 |
-| Vinstrihreyfingin – grænt framboð – Framsóknarflokkurinn | 19 | 15 | 0% | 11–18 | 10–19 | 10–19 | 10–20 |
-| Sjálfstæðisflokkurinn – Björt framtíð | 16 | 15 | 0% | 13–16 | 12–17 | 12–17 | 11–17 |
+| Vinstrihreyfingin – grænt framboð – Framsóknarflokkurinn | 19 | 15 | 0% | 11–18 | 10–18 | 10–19 | 10–20 |
+| Sjálfstæðisflokkurinn – Björt framtíð | 16 | 15 | 0% | 13–16 | 12–16 | 12–17 | 11–17 |
 | Vinstrihreyfingin – grænt framboð – Miðflokkurinn | 18 | 12 | 0% | 9–16 | 9–16 | 8–16 | 8–17 |
 
 ### Vinstrihreyfingin – grænt framboð – Samfylkingin – Píratar – Viðreisn – Björt framtíð
@@ -422,13 +422,13 @@ Only polls for which at least the sample size has been published are included in
 | 30 | 8% | 98% |  |
 | 31 | 10% | 90% |  |
 | 32 | 5% | 80% | Majority |
-| 33 | 4% | 75% |  |
-| 34 | 3% | 71% |  |
-| 35 | 6% | 67% |  |
-| 36 | 7% | 62% |  |
-| 37 | 7% | 55% | Median |
-| 38 | 9% | 48% |  |
-| 39 | 9% | 39% |  |
+| 33 | 3% | 75% |  |
+| 34 | 5% | 72% |  |
+| 35 | 7% | 67% |  |
+| 36 | 7% | 60% |  |
+| 37 | 6% | 53% | Median |
+| 38 | 8% | 47% |  |
+| 39 | 8% | 39% |  |
 | 40 | 6% | 31% |  |
 | 41 | 5% | 25% |  |
 | 42 | 6% | 20% |  |
@@ -449,13 +449,13 @@ Only polls for which at least the sample size has been published are included in
 | 30 | 8% | 98% |  |
 | 31 | 10% | 90% |  |
 | 32 | 5% | 80% | Majority |
-| 33 | 4% | 75% |  |
-| 34 | 3% | 71% |  |
-| 35 | 6% | 67% |  |
-| 36 | 7% | 62% |  |
-| 37 | 7% | 55% | Median |
-| 38 | 9% | 48% |  |
-| 39 | 9% | 39% |  |
+| 33 | 3% | 75% |  |
+| 34 | 5% | 72% |  |
+| 35 | 7% | 67% |  |
+| 36 | 7% | 60% |  |
+| 37 | 6% | 53% | Median |
+| 38 | 8% | 47% |  |
+| 39 | 8% | 39% |  |
 | 40 | 6% | 31% |  |
 | 41 | 5% | 25% |  |
 | 42 | 6% | 20% |  |
@@ -464,25 +464,6 @@ Only polls for which at least the sample size has been published are included in
 | 45 | 1.0% | 1.0% |  |
 | 46 | 0.1% | 0.1% |  |
 | 47 | 0% | 0% |  |
-
-### Vinstrihreyfingin – grænt framboð – Samfylkingin – Miðflokkurinn – Framsóknarflokkurinn
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–s–m–b.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 26 | 0.2% | 100% |  |
-| 27 | 2% | 99.8% |  |
-| 28 | 6% | 98% |  |
-| 29 | 13% | 92% |  |
-| 30 | 20% | 79% |  |
-| 31 | 18% | 59% | Median |
-| 32 | 21% | 41% | Majority |
-| 33 | 11% | 20% | Last Result |
-| 34 | 6% | 9% |  |
-| 35 | 3% | 3% |  |
-| 36 | 0.1% | 0.1% |  |
-| 37 | 0% | 0% |  |
 
 ### Vinstrihreyfingin – grænt framboð – Samfylkingin – Píratar – Björt framtíð
 
@@ -494,13 +475,13 @@ Only polls for which at least the sample size has been published are included in
 | 23 | 2% | 99.9% |  |
 | 24 | 8% | 98% | Last Result |
 | 25 | 9% | 90% |  |
-| 26 | 5% | 80% |  |
-| 27 | 3% | 76% |  |
-| 28 | 4% | 73% |  |
-| 29 | 5% | 70% |  |
-| 30 | 9% | 65% |  |
-| 31 | 9% | 56% | Median |
-| 32 | 11% | 47% | Majority |
+| 26 | 4% | 80% |  |
+| 27 | 2% | 76% |  |
+| 28 | 4% | 74% |  |
+| 29 | 7% | 70% |  |
+| 30 | 8% | 63% |  |
+| 31 | 8% | 55% | Median |
+| 32 | 11% | 46% | Majority |
 | 33 | 16% | 36% |  |
 | 34 | 15% | 20% |  |
 | 35 | 3% | 5% |  |
@@ -518,19 +499,38 @@ Only polls for which at least the sample size has been published are included in
 | 23 | 2% | 99.9% |  |
 | 24 | 8% | 98% | Last Result |
 | 25 | 9% | 90% |  |
-| 26 | 5% | 80% |  |
-| 27 | 3% | 76% |  |
-| 28 | 4% | 73% |  |
-| 29 | 5% | 70% |  |
-| 30 | 9% | 65% |  |
-| 31 | 9% | 56% | Median |
-| 32 | 11% | 47% | Majority |
+| 26 | 4% | 80% |  |
+| 27 | 2% | 76% |  |
+| 28 | 4% | 74% |  |
+| 29 | 7% | 70% |  |
+| 30 | 8% | 63% |  |
+| 31 | 8% | 55% | Median |
+| 32 | 11% | 46% | Majority |
 | 33 | 16% | 36% |  |
 | 34 | 15% | 20% |  |
 | 35 | 3% | 5% |  |
 | 36 | 1.3% | 1.4% |  |
 | 37 | 0.2% | 0.2% |  |
 | 38 | 0% | 0% |  |
+
+### Vinstrihreyfingin – grænt framboð – Samfylkingin – Miðflokkurinn – Framsóknarflokkurinn
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–s–m–b.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 26 | 0.2% | 100% |  |
+| 27 | 2% | 99.8% |  |
+| 28 | 6% | 98% |  |
+| 29 | 13% | 92% |  |
+| 30 | 19% | 79% |  |
+| 31 | 17% | 60% | Median |
+| 32 | 24% | 43% | Majority |
+| 33 | 11% | 19% | Last Result |
+| 34 | 6% | 8% |  |
+| 35 | 1.5% | 2% |  |
+| 36 | 0.1% | 0.1% |  |
+| 37 | 0% | 0% |  |
 
 ### Sjálfstæðisflokkurinn – Vinstrihreyfingin – grænt framboð – Framsóknarflokkurinn
 
@@ -543,16 +543,15 @@ Only polls for which at least the sample size has been published are included in
 | 26 | 11% | 94% |  |
 | 27 | 13% | 83% |  |
 | 28 | 15% | 70% |  |
-| 29 | 12% | 56% |  |
-| 30 | 16% | 44% | Median |
-| 31 | 9% | 28% |  |
-| 32 | 6% | 19% | Majority |
-| 33 | 8% | 13% |  |
-| 34 | 3% | 5% |  |
-| 35 | 1.2% | 2% | Last Result |
-| 36 | 0.4% | 0.5% |  |
-| 37 | 0.1% | 0.1% |  |
-| 38 | 0% | 0% |  |
+| 29 | 11% | 56% |  |
+| 30 | 15% | 44% | Median |
+| 31 | 9% | 29% |  |
+| 32 | 8% | 21% | Majority |
+| 33 | 7% | 12% |  |
+| 34 | 4% | 5% |  |
+| 35 | 1.0% | 1.4% | Last Result |
+| 36 | 0.3% | 0.4% |  |
+| 37 | 0% | 0% |  |
 
 ### Sjálfstæðisflokkurinn – Samfylkingin
 
@@ -560,14 +559,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.3% | 100% |  |
-| 23 | 0.4% | 99.7% | Last Result |
-| 24 | 3% | 99.3% |  |
-| 25 | 9% | 97% |  |
-| 26 | 17% | 88% |  |
-| 27 | 23% | 71% |  |
+| 22 | 0.1% | 100% |  |
+| 23 | 0.3% | 99.9% | Last Result |
+| 24 | 2% | 99.7% |  |
+| 25 | 10% | 98% |  |
+| 26 | 16% | 88% |  |
+| 27 | 24% | 72% |  |
 | 28 | 23% | 48% | Median |
-| 29 | 15% | 25% |  |
+| 29 | 14% | 25% |  |
 | 30 | 7% | 11% |  |
 | 31 | 3% | 4% |  |
 | 32 | 0.8% | 0.9% | Majority |
@@ -586,13 +585,13 @@ Only polls for which at least the sample size has been published are included in
 | 24 | 6% | 83% |  |
 | 25 | 2% | 77% |  |
 | 26 | 3% | 75% | Last Result |
-| 27 | 9% | 72% |  |
-| 28 | 17% | 62% | Median |
-| 29 | 20% | 46% |  |
-| 30 | 16% | 26% |  |
-| 31 | 8% | 10% |  |
-| 32 | 2% | 2% | Majority |
-| 33 | 0.1% | 0.1% |  |
+| 27 | 8% | 72% |  |
+| 28 | 17% | 64% | Median |
+| 29 | 23% | 47% |  |
+| 30 | 17% | 24% |  |
+| 31 | 5% | 6% |  |
+| 32 | 1.3% | 1.5% | Majority |
+| 33 | 0.2% | 0.2% |  |
 | 34 | 0% | 0% |  |
 
 ### Sjálfstæðisflokkurinn – Miðflokkurinn – Framsóknarflokkurinn
@@ -608,15 +607,16 @@ Only polls for which at least the sample size has been published are included in
 | 21 | 14% | 75% |  |
 | 22 | 7% | 61% |  |
 | 23 | 4% | 55% |  |
-| 24 | 1.5% | 51% | Median |
-| 25 | 3% | 50% |  |
-| 26 | 5% | 47% |  |
-| 27 | 10% | 42% |  |
-| 28 | 14% | 32% |  |
-| 29 | 11% | 18% |  |
-| 30 | 6% | 7% |  |
+| 24 | 1.3% | 51% | Median |
+| 25 | 2% | 50% |  |
+| 26 | 4% | 48% |  |
+| 27 | 10% | 44% |  |
+| 28 | 15% | 34% |  |
+| 29 | 13% | 19% |  |
+| 30 | 5% | 6% |  |
 | 31 | 1.0% | 1.1% | Last Result |
-| 32 | 0% | 0% | Majority |
+| 32 | 0% | 0.1% | Majority |
+| 33 | 0% | 0% |  |
 
 ### Vinstrihreyfingin – grænt framboð – Samfylkingin – Miðflokkurinn
 
@@ -625,13 +625,13 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 19 | 0.2% | 100% |  |
-| 20 | 0.6% | 99.8% |  |
-| 21 | 2% | 99.2% |  |
-| 22 | 7% | 97% |  |
-| 23 | 14% | 89% |  |
-| 24 | 26% | 75% |  |
-| 25 | 15% | 49% | Last Result, Median |
-| 26 | 10% | 35% |  |
+| 20 | 0.4% | 99.8% |  |
+| 21 | 2% | 99.4% |  |
+| 22 | 7% | 98% |  |
+| 23 | 15% | 90% |  |
+| 24 | 29% | 75% |  |
+| 25 | 12% | 46% | Last Result, Median |
+| 26 | 9% | 34% |  |
 | 27 | 11% | 25% |  |
 | 28 | 12% | 14% |  |
 | 29 | 1.5% | 2% |  |
@@ -644,17 +644,15 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 0.1% | 100% |  |
-| 20 | 2% | 99.9% |  |
-| 21 | 11% | 97% |  |
+| 20 | 2% | 100% |  |
+| 21 | 12% | 98% |  |
 | 22 | 24% | 86% |  |
-| 23 | 27% | 62% |  |
-| 24 | 20% | 35% | Median |
+| 23 | 26% | 62% |  |
+| 24 | 22% | 36% | Median |
 | 25 | 10% | 14% |  |
-| 26 | 4% | 5% |  |
-| 27 | 0.4% | 0.5% | Last Result |
-| 28 | 0% | 0.1% |  |
-| 29 | 0% | 0% |  |
+| 26 | 4% | 4% |  |
+| 27 | 0.4% | 0.4% | Last Result |
+| 28 | 0% | 0% |  |
 
 ### Sjálfstæðisflokkurinn – Miðflokkurinn
 
@@ -665,14 +663,14 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 0.6% | 100% |  |
 | 13 | 5% | 99.3% |  |
 | 14 | 15% | 95% |  |
-| 15 | 14% | 80% |  |
+| 15 | 13% | 80% |  |
 | 16 | 12% | 66% |  |
-| 17 | 10% | 53% |  |
-| 18 | 6% | 43% | Median |
-| 19 | 4% | 37% |  |
-| 20 | 7% | 33% |  |
-| 21 | 1.3% | 26% |  |
-| 22 | 1.1% | 25% |  |
+| 17 | 8% | 54% |  |
+| 18 | 8% | 46% | Median |
+| 19 | 8% | 39% |  |
+| 20 | 4% | 31% |  |
+| 21 | 1.4% | 26% |  |
+| 22 | 1.2% | 25% |  |
 | 23 | 5% | 24% | Last Result |
 | 24 | 8% | 18% |  |
 | 25 | 7% | 10% |  |
@@ -692,12 +690,12 @@ Only polls for which at least the sample size has been published are included in
 | 19 | 18% | 89% |  |
 | 20 | 31% | 71% |  |
 | 21 | 12% | 40% | Median |
-| 22 | 6% | 29% |  |
-| 23 | 9% | 22% |  |
-| 24 | 6% | 13% | Last Result |
-| 25 | 4% | 7% |  |
-| 26 | 2% | 2% |  |
-| 27 | 0.6% | 0.7% |  |
+| 22 | 6% | 28% |  |
+| 23 | 7% | 23% |  |
+| 24 | 8% | 16% | Last Result |
+| 25 | 6% | 8% |  |
+| 26 | 1.4% | 2% |  |
+| 27 | 0.4% | 0.5% |  |
 | 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 
@@ -709,11 +707,11 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 16 | 0.1% | 100% |  |
 | 17 | 3% | 99.9% |  |
-| 18 | 11% | 97% | Last Result |
-| 19 | 16% | 86% |  |
-| 20 | 10% | 70% |  |
-| 21 | 9% | 60% |  |
-| 22 | 14% | 52% | Median |
+| 18 | 10% | 97% | Last Result |
+| 19 | 17% | 87% |  |
+| 20 | 12% | 70% |  |
+| 21 | 8% | 58% |  |
+| 22 | 12% | 50% | Median |
 | 23 | 16% | 38% |  |
 | 24 | 18% | 22% |  |
 | 25 | 3% | 4% |  |
@@ -727,12 +725,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0.2% | 100% |  |
-| 18 | 1.2% | 99.8% |  |
-| 19 | 9% | 98.6% |  |
-| 20 | 22% | 89% | Last Result |
-| 21 | 27% | 68% | Median |
-| 22 | 24% | 41% |  |
+| 17 | 0.1% | 100% |  |
+| 18 | 1.3% | 99.9% |  |
+| 19 | 7% | 98.6% |  |
+| 20 | 22% | 91% | Last Result |
+| 21 | 30% | 70% | Median |
+| 22 | 23% | 40% |  |
 | 23 | 14% | 17% |  |
 | 24 | 3% | 3% |  |
 | 25 | 0.3% | 0.4% |  |
@@ -744,12 +742,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0.2% | 100% |  |
-| 18 | 1.2% | 99.8% |  |
-| 19 | 9% | 98.6% |  |
-| 20 | 22% | 89% | Last Result |
-| 21 | 27% | 68% | Median |
-| 22 | 24% | 41% |  |
+| 17 | 0.1% | 100% |  |
+| 18 | 1.3% | 99.9% |  |
+| 19 | 7% | 98.6% |  |
+| 20 | 22% | 91% | Last Result |
+| 21 | 30% | 70% | Median |
+| 22 | 23% | 40% |  |
 | 23 | 14% | 17% |  |
 | 24 | 3% | 3% |  |
 | 25 | 0.3% | 0.4% |  |
@@ -768,13 +766,13 @@ Only polls for which at least the sample size has been published are included in
 | 16 | 13% | 80% |  |
 | 17 | 9% | 67% |  |
 | 18 | 8% | 58% | Median |
-| 19 | 13% | 49% |  |
-| 20 | 15% | 36% |  |
-| 21 | 10% | 21% |  |
-| 22 | 7% | 11% |  |
-| 23 | 4% | 4% |  |
-| 24 | 0.5% | 0.6% |  |
-| 25 | 0.1% | 0.1% |  |
+| 19 | 11% | 50% |  |
+| 20 | 17% | 38% |  |
+| 21 | 11% | 21% |  |
+| 22 | 7% | 10% |  |
+| 23 | 3% | 3% |  |
+| 24 | 0.4% | 0.4% |  |
+| 25 | 0% | 0% |  |
 | 26 | 0% | 0% | Last Result |
 
 ### Vinstrihreyfingin – grænt framboð – Píratar
@@ -787,13 +785,13 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 9% | 98% |  |
 | 13 | 12% | 89% |  |
 | 14 | 2% | 77% |  |
-| 15 | 0.4% | 75% |  |
+| 15 | 0.3% | 75% |  |
 | 16 | 3% | 75% |  |
-| 17 | 9% | 72% | Last Result |
-| 18 | 16% | 63% | Median |
-| 19 | 20% | 47% |  |
-| 20 | 18% | 26% |  |
-| 21 | 6% | 8% |  |
+| 17 | 10% | 72% | Last Result |
+| 18 | 17% | 63% | Median |
+| 19 | 20% | 46% |  |
+| 20 | 18% | 25% |  |
+| 21 | 5% | 7% |  |
 | 22 | 2% | 2% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
@@ -810,13 +808,13 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 5% | 79% |  |
 | 13 | 6% | 74% |  |
 | 14 | 10% | 68% |  |
-| 15 | 16% | 58% | Median |
-| 16 | 19% | 41% |  |
-| 17 | 8% | 22% |  |
-| 18 | 6% | 14% |  |
-| 19 | 7% | 8% | Last Result |
-| 20 | 1.1% | 1.3% |  |
-| 21 | 0.2% | 0.2% |  |
+| 15 | 14% | 58% | Median |
+| 16 | 20% | 43% |  |
+| 17 | 9% | 23% |  |
+| 18 | 9% | 14% |  |
+| 19 | 4% | 5% | Last Result |
+| 20 | 0.8% | 0.9% |  |
+| 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
 ### Sjálfstæðisflokkurinn – Björt framtíð
@@ -827,10 +825,10 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.6% | 100% |  |
 | 12 | 5% | 99.4% |  |
-| 13 | 13% | 94% |  |
-| 14 | 29% | 82% |  |
-| 15 | 29% | 52% | Median |
-| 16 | 18% | 23% | Last Result |
+| 13 | 12% | 94% |  |
+| 14 | 28% | 83% |  |
+| 15 | 31% | 55% | Median |
+| 16 | 19% | 24% | Last Result |
 | 17 | 5% | 5% |  |
 | 18 | 0.4% | 0.4% |  |
 | 19 | 0% | 0% |  |
@@ -844,11 +842,11 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0.3% | 100% |  |
 | 8 | 5% | 99.7% |  |
 | 9 | 13% | 95% |  |
-| 10 | 16% | 82% |  |
-| 11 | 14% | 67% |  |
-| 12 | 10% | 52% | Median |
-| 13 | 15% | 42% |  |
-| 14 | 6% | 27% |  |
+| 10 | 15% | 82% |  |
+| 11 | 15% | 68% |  |
+| 12 | 13% | 53% | Median |
+| 13 | 13% | 40% |  |
+| 14 | 5% | 27% |  |
 | 15 | 11% | 22% |  |
 | 16 | 8% | 11% |  |
 | 17 | 2% | 2% |  |
@@ -858,6 +856,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 3,276,800
-+ **Error estimate:** 2.76%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 1.16%
