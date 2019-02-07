@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | D | V | S | M | B | P | F | C | A | R | T |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 |
-| N/A | [Poll Average](average.html) | 21–24% <br> 14–17 | 10–13% <br> 6–9 | 14–20% <br> 9–14 | 5–8% <br> 3–5 | 10–13% <br> 7–9 | 10–15% <br> 6–10 | 5–8% <br> 0–5 | 7–12% <br> 4–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [4–14 January 2019](2019-01-14-MMR.html) | MMR | 20–24% <br> 13–16 | 10–13% <br> 6–8 | 14–17% <br> 9–11 | 6–8% <br> 3–5 | 10–13% <br> 7–10 | 12–15% <br> 8–10 | 6–8% <br> 3–5 | 7–9% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [3 December 2018–1 January 2019](2019-01-01-Gallup.html) | Gallup | 21–24% <br> 14–17 | 10–13% <br> 7–9 | 17–20% <br> 11–14 | 5–7% <br> 1–4 | 10–13% <br> 7–9 | 10–12% <br> 6–8 | 5–6% <br> 0–4 | 9–12% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 21–25% <br> 14–18 | 10–13% <br> 6–8 | 14–20% <br> 9–15 | 6–8% <br> 3–5 | 8–13% <br> 5–9 | 12–15% <br> 7–10 | 3–8% <br> 0–5 | 7–10% <br> 4–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–31 January 2019](2019-01-31-Gallup.html) | Gallup | 22–25% <br> 14–18 | 10–13% <br> 6–8 | 18–21% <br> 12–15 | 6–8% <br> 3–5 | 8–10% <br> 5–7 | 11–14% <br> 7–9 | 3–5% <br> 0 | 8–10% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [4–14 January 2019](2019-01-14-MMR.html) | MMR | 20–24% <br> 13–16 | 10–13% <br> 6–8 | 14–17% <br> 9–11 | 6–8% <br> 4–5 | 10–13% <br> 7–10 | 12–15% <br> 8–10 | 6–8% <br> 3–5 | 7–9% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
