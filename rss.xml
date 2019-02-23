@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Sat, 09 Feb 2019 15:59:28 +0100</pubDate>
+    <pubDate>Sat, 23 Feb 2019 15:09:40 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by MMR, 11–15 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-02-15-MMR.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 20.1–25.5%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 9.3–13.3%&lt;/li&gt;&lt;li&gt;Samfylkingin: 13.7–18.4%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 4.7–7.8%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 11.4–15.8%&lt;/li&gt;&lt;li&gt;Píratar: 8.6–12.5%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 5.5–8.8%&lt;/li&gt;&lt;li&gt;Viðreisn: 6.6–10.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-02-15-MMR.png"
+        length="229228"
+        type="image/png"/>
+      <pubDate>Sat, 23 Feb 2019 15:09:40 +0100</pubDate>
+      <dc:date>2019-02-23T15:09:40.169878+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Gallup, 7–31 January 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2019-01-31-Gallup.html#seats</link>
@@ -909,6 +919,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2019-02-09T15:59:28.973279+01:00</dc:date>
+    <dc:date>2019-02-23T15:09:40.169878+01:00</dc:date>
   </channel>
 </rss>
