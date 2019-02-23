@@ -10,7 +10,8 @@ Last result: **6.9%** (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.1% | 3.4–7.2% | 3.2–7.4% | 3.1–7.7% | 2.9–8.1% |
+| N/A | [Poll Average](average.html) | 4.9% | 3.4–7.8% | 3.2–8.1% | 3.1–8.5% | 2.9–9.1% |
+| [11–15 February 2019](2019-02-15-MMR.html) | MMR | 7.0% | 6.0–8.1% | 5.7–8.5% | 5.5–8.8% | 5.1–9.4% |
 | [7–31 January 2019](2019-01-31-Gallup.html) | Gallup | 3.7% | 3.2–4.2% | 3.1–4.4% | 3.0–4.5% | 2.8–4.8% |
 | [4–14 January 2019](2019-01-14-MMR.html) | MMR | 6.7% | 6.0–7.5% | 5.9–7.7% | 5.7–7.9% | 5.4–8.2% |
 | [3 December 2018–1 January 2019](2019-01-01-Gallup.html) | Gallup | 5.3% | 4.8–5.9% | 4.7–6.1% | 4.5–6.2% | 4.3–6.5% |
@@ -52,11 +53,12 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 17% | 100% |  |
 | 3.5–4.5% | 32% | 83% |  |
 | 4.5–5.5% | 2% | 51% | Median |
-| 5.5–6.5% | 18% | 49% |  |
-| 6.5–7.5% | 27% | 31% | Last Result |
-| 7.5–8.5% | 4% | 4% |  |
-| 8.5–9.5% | 0.1% | 0.1% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 5.5–6.5% | 13% | 49% |  |
+| 6.5–7.5% | 22% | 36% | Last Result |
+| 7.5–8.5% | 11% | 13% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -67,7 +69,8 @@ Last result: **4** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 2 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [11–15 February 2019](2019-02-15-MMR.html) | MMR | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7–31 January 2019](2019-01-31-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [4–14 January 2019](2019-01-14-MMR.html) | MMR | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [3 December 2018–1 January 2019](2019-01-01-Gallup.html) | Gallup | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -109,10 +112,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 50% | 100% |  |
 | 1 | 0% | 50% |  |
-| 2 | 0% | 50% |  |
-| 3 | 3% | 50% | Median |
-| 4 | 40% | 47% | Last Result |
-| 5 | 7% | 7% |  |
+| 2 | 0.1% | 50% | Median |
+| 3 | 10% | 50% |  |
+| 4 | 40% | 40% | Last Result |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 
