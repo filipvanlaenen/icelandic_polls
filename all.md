@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | D | V | S | M | B | P | F | C | A | R | T |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 |
-| [11–14 March 2019](2019-03-14-MMR.html) | MMR | 21–26% <br> 14–18 | 10–14% <br> 6–8 | 12–16% <br> 8–11 | 6–10% <br> 4–6 | 9–13% <br> 5–10 | 12–16% <br> 8–11 | 4–6% <br> 0–4 | 8–11% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11–14 March 2019](2019-03-14-MMR.html) | MMR | 21–26% <br> 14–19 | 10–14% <br> 6–9 | 12–16% <br> 7–11 | 6–10% <br> 4–7 | 9–13% <br> 6–10 | 12–16% <br> 8–10 | 4–6% <br> 0–4 | 8–11% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [31 January–28 February 2019](2019-02-28-Gallup.html) | Gallup | 24–26% <br> 16–19 | 11–13% <br> 7–8 | 16–18% <br> 10–11 | 6–8% <br> 4–5 | 8–10% <br> 5–8 | 11–13% <br> 7–8 | 3–4% <br> 0 | 9–11% <br> 6–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11–15 February 2019](2019-02-15-MMR.html) | MMR | 20–25% <br> 13–18 | 9–13% <br> 5–9 | 14–18% <br> 8–12 | 5–8% <br> 1–5 | 11–16% <br> 8–12 | 9–13% <br> 5–8 | 6–9% <br> 3–5 | 7–10% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–31 January 2019](2019-01-31-Gallup.html) | Gallup | 22–25% <br> 14–18 | 10–13% <br> 6–9 | 18–21% <br> 12–15 | 6–8% <br> 3–5 | 8–10% <br> 5–7 | 11–14% <br> 7–9 | 3–5% <br> 0 | 8–10% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
