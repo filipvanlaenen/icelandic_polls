@@ -69,9 +69,9 @@ Last result: **7** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–6 | 4–6 | 4–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 4 | 4–6 | 4–6 | 4–7 | 3–7 |
 | [11–14 March 2019](2019-03-14-MMR.html) | MMR | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
-| [31 January–28 February 2019](2019-02-28-Gallup.html) | Gallup | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [31 January–28 February 2019](2019-02-28-Gallup.html) | Gallup | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [11–15 February 2019](2019-02-15-MMR.html) | MMR | 4 | 3–4 | 1–5 | 1–5 | 1–5 |
 | [7–31 January 2019](2019-01-31-Gallup.html) | Gallup | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [4–14 January 2019](2019-01-14-MMR.html) | MMR | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -112,9 +112,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.4% | 100% |  |
-| 4 | 51% | 99.6% | Median |
-| 5 | 29% | 49% |  |
+| 3 | 0.5% | 100% |  |
+| 4 | 55% | 99.5% | Median |
+| 5 | 24% | 44% |  |
 | 6 | 16% | 20% |  |
 | 7 | 4% | 4% | Last Result |
 | 8 | 0% | 0% |  |
