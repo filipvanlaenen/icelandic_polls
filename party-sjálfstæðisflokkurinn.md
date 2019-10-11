@@ -13,7 +13,7 @@ Last result: **25.2%** (General Election of 28 October 2017)
 | N/A | [Poll Average](average.html) | 22.9% | 20.6–24.4% | 20.0–24.7% | 19.6–25.0% | 18.7–25.6% |
 | [5–30 April 2019](2019-04-30-Gallup.html) | Gallup | 23.6% | 22.6–24.6% | 22.4–24.9% | 22.1–25.2% | 21.7–25.7% |
 | [4–9 April 2019](2019-04-09-MMR.html) | MMR | 21.7% | 20.0–23.5% | 19.6–24.0% | 19.2–24.5% | 18.4–25.4% |
-| [1–31 March 2019](2019-03-31-Gallup.html) | Gallup | 25.0% | 24.0–25.9% | 23.9–26.2% | 23.6–26.5% | 23.2–26.9% |
+| [1–31 March 2019](2019-03-31-Gallup.html) | Gallup | 25.0% | 24.1–25.9% | 23.9–26.2% | 23.6–26.4% | 23.2–26.9% |
 | [11–14 March 2019](2019-03-14-MMR.html) | MMR | 23.6% | 22.0–25.4% | 21.5–25.9% | 21.1–26.3% | 20.3–27.2% |
 | [31 January–28 February 2019](2019-02-28-Gallup.html) | Gallup | 25.0% | 24.1–25.9% | 23.9–26.2% | 23.6–26.4% | 23.2–26.8% |
 | [11–15 February 2019](2019-02-15-MMR.html) | MMR | 22.7% | 21.0–24.5% | 20.5–25.0% | 20.1–25.5% | 19.3–26.4% |
@@ -75,9 +75,9 @@ Last result: **16** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
-| [5–30 April 2019](2019-04-30-Gallup.html) | Gallup | 17 | 16–17 | 15–18 | 15–18 | 15–18 |
-| [4–9 April 2019](2019-04-09-MMR.html) | MMR | 15 | 14–15 | 14–16 | 13–18 | 13–18 |
+| N/A | [Poll Average](average.html) | 16 | 14–17 | 13–18 | 13–18 | 13–18 |
+| [5–30 April 2019](2019-04-30-Gallup.html) | Gallup | 17 | 16–17 | 16–18 | 15–18 | 15–18 |
+| [4–9 April 2019](2019-04-09-MMR.html) | MMR | 15 | 13–16 | 13–17 | 13–18 | 13–18 |
 | [1–31 March 2019](2019-03-31-Gallup.html) | Gallup |  |  |  |  |  |
 | [11–14 March 2019](2019-03-14-MMR.html) | MMR | 17 | 15–18 | 15–18 | 14–19 | 14–19 |
 | [31 January–28 February 2019](2019-02-28-Gallup.html) | Gallup | 18 | 17–18 | 16–19 | 16–19 | 16–19 |
@@ -122,12 +122,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.2% | 100% |  |
-| 13 | 2% | 99.8% |  |
-| 14 | 11% | 98% |  |
-| 15 | 36% | 87% |  |
-| 16 | 22% | 51% | Last Result, Median |
-| 17 | 25% | 29% |  |
-| 18 | 4% | 4% |  |
+| 13 | 8% | 99.8% |  |
+| 14 | 15% | 91% |  |
+| 15 | 19% | 77% |  |
+| 16 | 26% | 57% | Last Result, Median |
+| 17 | 26% | 31% |  |
+| 18 | 5% | 5% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 

@@ -13,7 +13,7 @@ Last result: **16.9%** (General Election of 28 October 2017)
 | N/A | [Poll Average](average.html) | 12.3% | 9.6–13.8% | 9.2–14.1% | 8.8–14.4% | 8.3–14.8% |
 | [5–30 April 2019](2019-04-30-Gallup.html) | Gallup | 13.3% | 12.5–14.1% | 12.3–14.4% | 12.1–14.6% | 11.8–15.0% |
 | [4–9 April 2019](2019-04-09-MMR.html) | MMR | 10.4% | 9.2–11.8% | 8.8–12.1% | 8.6–12.5% | 8.0–13.2% |
-| [1–31 March 2019](2019-03-31-Gallup.html) | Gallup | 11.6% | 10.8–12.3% | 10.7–12.6% | 10.6–12.8% | 10.3–13.0% |
+| [1–31 March 2019](2019-03-31-Gallup.html) | Gallup | 11.6% | 10.9–12.3% | 10.7–12.5% | 10.6–12.7% | 10.3–13.0% |
 | [11–14 March 2019](2019-03-14-MMR.html) | MMR | 11.4% | 10.2–12.8% | 9.9–13.2% | 9.6–13.5% | 9.1–14.2% |
 | [31 January–28 February 2019](2019-02-28-Gallup.html) | Gallup | 12.3% | 11.6–13.0% | 11.5–13.2% | 11.3–13.4% | 11.0–13.7% |
 | [11–15 February 2019](2019-02-15-MMR.html) | MMR | 11.1% | 9.9–12.6% | 9.6–13.0% | 9.3–13.3% | 8.7–14.0% |
@@ -76,8 +76,8 @@ Last result: **11** seats (General Election of 28 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–10 | 6–10 | 5–10 | 5–10 |
-| [5–30 April 2019](2019-04-30-Gallup.html) | Gallup | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
-| [4–9 April 2019](2019-04-09-MMR.html) | MMR | 7 | 6–7 | 5–7 | 5–8 | 5–10 |
+| [5–30 April 2019](2019-04-30-Gallup.html) | Gallup | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
+| [4–9 April 2019](2019-04-09-MMR.html) | MMR | 6 | 6–7 | 5–8 | 5–9 | 5–10 |
 | [1–31 March 2019](2019-03-31-Gallup.html) | Gallup |  |  |  |  |  |
 | [11–14 March 2019](2019-03-14-MMR.html) | MMR | 7 | 6–8 | 6–9 | 6–9 | 6–10 |
 | [31 January–28 February 2019](2019-02-28-Gallup.html) | Gallup | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
@@ -121,13 +121,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.2% | 100% |  |
-| 5 | 2% | 99.8% |  |
-| 6 | 17% | 97% |  |
-| 7 | 28% | 80% |  |
-| 8 | 6% | 52% | Median |
-| 9 | 23% | 45% |  |
-| 10 | 23% | 23% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 3% | 99.9% |  |
+| 6 | 25% | 97% |  |
+| 7 | 18% | 72% |  |
+| 8 | 7% | 54% | Median |
+| 9 | 23% | 47% |  |
+| 10 | 24% | 24% |  |
 | 11 | 0.1% | 0.1% | Last Result |
 | 12 | 0% | 0% |  |
 

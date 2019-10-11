@@ -13,7 +13,7 @@ Last result: **6.7%** (General Election of 28 October 2017)
 | N/A | [Poll Average](average.html) | 10.3% | 8.3–11.5% | 7.9–11.8% | 7.6–12.0% | 7.0–12.4% |
 | [5–30 April 2019](2019-04-30-Gallup.html) | Gallup | 11.0% | 10.3–11.8% | 10.1–12.0% | 9.9–12.2% | 9.6–12.5% |
 | [4–9 April 2019](2019-04-09-MMR.html) | MMR | 9.0% | 7.9–10.3% | 7.5–10.7% | 7.3–11.0% | 6.8–11.6% |
-| [1–31 March 2019](2019-03-31-Gallup.html) | Gallup | 10.3% | 9.6–11.0% | 9.5–11.2% | 9.3–11.4% | 9.1–11.7% |
+| [1–31 March 2019](2019-03-31-Gallup.html) | Gallup | 10.3% | 9.7–11.0% | 9.5–11.2% | 9.4–11.3% | 9.1–11.7% |
 | [11–14 March 2019](2019-03-14-MMR.html) | MMR | 9.4% | 8.3–10.6% | 8.0–11.0% | 7.7–11.3% | 7.2–11.9% |
 | [31 January–28 February 2019](2019-02-28-Gallup.html) | Gallup | 9.9% | 9.3–10.5% | 9.1–10.7% | 9.0–10.9% | 8.7–11.2% |
 | [11–15 February 2019](2019-02-15-MMR.html) | MMR | 8.1% | 7.1–9.4% | 6.8–9.8% | 6.6–10.1% | 6.1–10.7% |
@@ -75,7 +75,7 @@ Last result: **4** seats (General Election of 28 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 4–8 | 4–8 |
-| [5–30 April 2019](2019-04-30-Gallup.html) | Gallup | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [5–30 April 2019](2019-04-30-Gallup.html) | Gallup | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [4–9 April 2019](2019-04-09-MMR.html) | MMR | 5 | 5–6 | 4–7 | 4–7 | 4–7 |
 | [1–31 March 2019](2019-03-31-Gallup.html) | Gallup |  |  |  |  |  |
 | [11–14 March 2019](2019-03-14-MMR.html) | MMR | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
@@ -121,11 +121,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 3% | 100% | Last Result |
-| 5 | 31% | 97% |  |
-| 6 | 13% | 65% |  |
-| 7 | 37% | 52% | Median |
-| 8 | 15% | 15% |  |
-| 9 | 0.1% | 0.1% |  |
+| 5 | 26% | 97% |  |
+| 6 | 18% | 71% |  |
+| 7 | 39% | 52% | Median |
+| 8 | 13% | 13% |  |
+| 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 
 
