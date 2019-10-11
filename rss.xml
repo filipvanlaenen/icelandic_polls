@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Tue, 13 Aug 2019 19:17:17 +0200</pubDate>
+    <pubDate>Fri, 11 Oct 2019 09:05:14 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Gallup, 5–30 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-04-30-Gallup.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 22.1–25.2%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 12.1–14.6%&lt;/li&gt;&lt;li&gt;Samfylkingin: 14.9–17.6%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 7.9–10.0%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 7.1–9.0%&lt;/li&gt;&lt;li&gt;Píratar: 10.0–12.3%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 3.4–4.8%&lt;/li&gt;&lt;li&gt;Viðreisn: 9.9–12.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-04-30-Gallup.png"
+        length="191590"
+        type="image/png"/>
+      <pubDate>Fri, 11 Oct 2019 08:48:17 +0200</pubDate>
+      <dc:date>2019-10-11T08:48:17.282707+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MMR, 4–9 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-04-09-MMR.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 19.2–24.5%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 8.6–12.5%&lt;/li&gt;&lt;li&gt;Samfylkingin: 11.8–16.3%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 8.4–12.3%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 7.1–10.7%&lt;/li&gt;&lt;li&gt;Píratar: 12.8–17.5%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 4.1–7.1%&lt;/li&gt;&lt;li&gt;Viðreisn: 7.3–11.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-04-09-MMR.png"
+        length="227317"
+        type="image/png"/>
+      <pubDate>Fri, 11 Oct 2019 09:05:14 +0200</pubDate>
+      <dc:date>2019-10-11T09:05:14.922565+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MMR, 11–14 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2019-03-14-MMR.html</link>
@@ -939,6 +959,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2019-08-13T19:17:17.438157+02:00</dc:date>
+    <dc:date>2019-10-11T09:05:14.922565+02:00</dc:date>
   </channel>
 </rss>
