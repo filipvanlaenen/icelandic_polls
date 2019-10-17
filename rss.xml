@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Fri, 11 Oct 2019 14:22:16 +0200</pubDate>
+    <pubDate>Thu, 17 Oct 2019 06:54:12 +0200</pubDate>
     <item>
       <title>Opinion Poll by Gallup, 5–30 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2019-04-30-Gallup.html</link>
@@ -28,6 +28,16 @@
         type="image/png"/>
       <pubDate>Fri, 11 Oct 2019 14:22:16 +0200</pubDate>
       <dc:date>2019-10-11T14:22:16.995214+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 1–31 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-03-31-Gallup.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 23.6–26.4%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 10.6–12.7%&lt;/li&gt;&lt;li&gt;Samfylkingin: 14.8–17.1%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 8.1–10.0%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 8.1–10.0%&lt;/li&gt;&lt;li&gt;Píratar: 10.6–12.7%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 3.1–4.3%&lt;/li&gt;&lt;li&gt;Viðreisn: 9.4–11.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-03-31-Gallup.png"
+        length="184110"
+        type="image/png"/>
+      <pubDate>Thu, 17 Oct 2019 06:54:12 +0200</pubDate>
+      <dc:date>2019-10-17T06:54:12.183814+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MMR, 11–14 March 2019 – Voting Intentions</title>
@@ -959,6 +969,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2019-10-11T14:22:16.995214+02:00</dc:date>
+    <dc:date>2019-10-17T06:54:12.183814+02:00</dc:date>
   </channel>
 </rss>
