@@ -13,7 +13,7 @@ Last result: **6.9%** (General Election of 28 October 2017)
 | N/A | [Poll Average](average.html) | 4.5% | 3.7–6.1% | 3.6–6.5% | 3.5–6.8% | 3.3–7.4% |
 | [5–30 April 2019](2019-04-30-Gallup.html) | Gallup | 4.0% | 3.6–4.5% | 3.5–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [4–9 April 2019](2019-04-09-MMR.html) | MMR | 5.4% | 4.6–6.5% | 4.3–6.8% | 4.1–7.1% | 3.7–7.6% |
-| [1–31 March 2019](2019-03-31-Gallup.html) | Gallup | 3.7% | 3.3–4.1% | 3.2–4.3% | 3.1–4.3% | 2.9–4.6% |
+| [1–31 March 2019](2019-03-31-Gallup.html) | Gallup | 3.7% | 3.3–4.1% | 3.2–4.2% | 3.1–4.3% | 3.0–4.6% |
 | [11–14 March 2019](2019-03-14-MMR.html) | MMR | 4.7% | 3.9–5.6% | 3.7–5.9% | 3.6–6.2% | 3.2–6.6% |
 | [31 January–28 February 2019](2019-02-28-Gallup.html) | Gallup | 3.4% | 3.0–3.8% | 2.9–3.9% | 2.8–4.0% | 2.7–4.2% |
 | [11–15 February 2019](2019-02-15-MMR.html) | MMR | 7.0% | 6.0–8.1% | 5.7–8.5% | 5.5–8.8% | 5.1–9.4% |
@@ -75,7 +75,7 @@ Last result: **4** seats (General Election of 28 October 2017)
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [5–30 April 2019](2019-04-30-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [4–9 April 2019](2019-04-09-MMR.html) | MMR | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [1–31 March 2019](2019-03-31-Gallup.html) | Gallup |  |  |  |  |  |
+| [1–31 March 2019](2019-03-31-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [11–14 March 2019](2019-03-14-MMR.html) | MMR | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [31 January–28 February 2019](2019-02-28-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [11–15 February 2019](2019-02-15-MMR.html) | MMR | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
