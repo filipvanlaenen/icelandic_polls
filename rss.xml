@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Thu, 17 Oct 2019 06:54:12 +0200</pubDate>
+    <pubDate>Fri, 18 Oct 2019 06:44:24 +0200</pubDate>
     <item>
       <title>Opinion Poll by Gallup, 5–30 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2019-04-30-Gallup.html</link>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-03-31-Gallup.png"
         length="184110"
         type="image/png"/>
-      <pubDate>Thu, 17 Oct 2019 06:54:12 +0200</pubDate>
-      <dc:date>2019-10-17T06:54:12.183814+02:00</dc:date>
+      <pubDate>Fri, 18 Oct 2019 06:44:24 +0200</pubDate>
+      <dc:date>2019-10-18T06:44:24.741626+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MMR, 11–14 March 2019 – Voting Intentions</title>
@@ -969,6 +969,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2019-10-17T06:54:12.183814+02:00</dc:date>
+    <dc:date>2019-10-18T06:44:24.741626+02:00</dc:date>
   </channel>
 </rss>
