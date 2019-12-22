@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Thu, 19 Dec 2019 18:35:04 +0100</pubDate>
+    <pubDate>Sat, 21 Dec 2019 20:00:45 +0100</pubDate>
     <item>
       <title>Opinion Poll by MMR, 21–25 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2019-10-25-MMR.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-10-25-MMR.png"
         length="228954"
         type="image/png"/>
-      <pubDate>Thu, 19 Dec 2019 17:13:57 +0100</pubDate>
-      <dc:date>2019-12-19T17:13:57.040093+01:00</dc:date>
+      <pubDate>Sat, 21 Dec 2019 19:43:07 +0100</pubDate>
+      <dc:date>2019-12-21T19:43:07.608446+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MMR, 30 September–9 October 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-10-04-Zenter.png"
         length="218939"
         type="image/png"/>
-      <pubDate>Thu, 19 Dec 2019 15:19:32 +0100</pubDate>
-      <dc:date>2019-12-19T15:19:32.164916+01:00</dc:date>
+      <pubDate>Sat, 21 Dec 2019 20:00:45 +0100</pubDate>
+      <dc:date>2019-12-21T20:00:45.330278+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MMR, 9–16 September 2019 – Voting Intentions</title>
@@ -1149,6 +1149,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2019-12-19T18:35:04.215122+01:00</dc:date>
+    <dc:date>2019-12-21T20:00:45.330278+01:00</dc:date>
   </channel>
 </rss>
