@@ -91,10 +91,10 @@ Last result: **7** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 9–13 | 9–14 | 9–14 | 8–15 |
-| [21–25 October 2019](2019-10-25-MMR.html) | MMR | 10 | 9–11 | 9–12 | 8–12 | 8–12 |
+| N/A | [Poll Average](average.html) | 11 | 9–14 | 9–14 | 9–14 | 8–15 |
+| [21–25 October 2019](2019-10-25-MMR.html) | MMR | 10 | 9–11 | 9–11 | 8–12 | 8–12 |
 | [30 September–9 October 2019](2019-10-09-MMR.html) | MMR | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
-| [10–4 October 2019](2019-10-04-Zenter.html) | Zenter | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
+| [10–4 October 2019](2019-10-04-Zenter.html) | Zenter | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
 | [9–16 September 2019](2019-09-16-MMR.html) | MMR | 10 | 9–11 | 9–12 | 8–12 | 8–12 |
 | [29 July–1 September 2019](2019-09-01-Gallup.html) | Gallup | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
 | [12–19 August 2019](2019-08-19-MMR.html) | MMR | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
@@ -151,15 +151,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0% | 100% | Last Result |
-| 8 | 2% | 100% |  |
-| 9 | 14% | 98% |  |
-| 10 | 21% | 84% |  |
-| 11 | 12% | 63% |  |
-| 12 | 18% | 50% | Median |
-| 13 | 23% | 33% |  |
-| 14 | 8% | 9% |  |
-| 15 | 1.2% | 1.2% |  |
+| 7 | 0.1% | 100% | Last Result |
+| 8 | 1.4% | 99.9% |  |
+| 9 | 12% | 98.5% |  |
+| 10 | 27% | 86% |  |
+| 11 | 11% | 60% | Median |
+| 12 | 20% | 49% |  |
+| 13 | 18% | 29% |  |
+| 14 | 9% | 10% |  |
+| 15 | 1.5% | 2% |  |
 | 16 | 0% | 0% |  |
 
 
