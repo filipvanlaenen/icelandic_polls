@@ -8,36 +8,16 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Mon, 30 Dec 2019 21:39:24 +0100</pubDate>
-    <item>
-      <title>Opinion Poll by MMR, 21–25 October 2019 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-10-25-MMR.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 12–16 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 5–7 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 8–12 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 8–11 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 5–9 seats&lt;/li&gt;&lt;li&gt;Píratar: 4–7 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 4–6 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 5–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-10-25-MMR-seats.png"
-        length="234366"
-        type="image/png"/>
-      <pubDate>Mon, 30 Dec 2019 21:09:49 +0100</pubDate>
-      <dc:date>2019-12-30T21:09:49.221304+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by MMR, 21–25 October 2019 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-10-25-MMR.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-10-25-MMR-coalitions-seats.png"
-        length="476889"
-        type="image/png"/>
-      <pubDate>Mon, 30 Dec 2019 21:09:49 +0100</pubDate>
-      <dc:date>2019-12-30T21:09:49.221304+01:00</dc:date>
-    </item>
+    <pubDate>Tue, 31 Dec 2019 16:28:06 +0100</pubDate>
     <item>
       <title>Opinion Poll by MMR, 21–25 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2019-10-25-MMR.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 18.6–23.8%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 8.0–11.7%&lt;/li&gt;&lt;li&gt;Samfylkingin: 13.2–17.7%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 11.5–15.8%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 8.2–12.0%&lt;/li&gt;&lt;li&gt;Píratar: 7.3–10.9%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 6.5–9.9%&lt;/li&gt;&lt;li&gt;Viðreisn: 8.2–12.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 18.6–23.8%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 8.0–11.7%&lt;/li&gt;&lt;li&gt;Samfylkingin: 13.2–17.7%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 11.5–15.8%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 8.2–12.0%&lt;/li&gt;&lt;li&gt;Píratar: 7.3–10.9%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 6.5–9.9%&lt;/li&gt;&lt;li&gt;Viðreisn: 8.2–12.0%&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 1.8–3.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-10-25-MMR.png"
-        length="228954"
+        length="245836"
         type="image/png"/>
-      <pubDate>Mon, 30 Dec 2019 21:09:49 +0100</pubDate>
-      <dc:date>2019-12-30T21:09:49.221304+01:00</dc:date>
+      <pubDate>Tue, 31 Dec 2019 16:28:06 +0100</pubDate>
+      <dc:date>2019-12-31T16:28:06.867074+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MMR, 30 September–9 October 2019 – Voting Intentions</title>
@@ -1189,6 +1169,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2019-12-30T21:39:24.440334+01:00</dc:date>
+    <dc:date>2019-12-31T16:28:06.867074+01:00</dc:date>
   </channel>
 </rss>
