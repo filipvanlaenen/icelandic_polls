@@ -10,34 +10,38 @@ Last result: **6.9%** (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.9% | 3.6–8.8% | 3.4–9.2% | 3.2–9.6% | 2.9–10.3% |
+| N/A | [Poll Average](average.html) | 3.9% | 3.5–4.7% | 3.3–4.9% | 3.2–5.2% | 2.8–5.7% |
+| [13–19 December 2019](2019-12-19-MMR.html) | MMR | 4.0% | 3.4–5.0% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
+| [28 October–1 December 2019](2019-12-01-Gallup.html) | Gallup | 3.9% | 3.6–4.3% | 3.5–4.3% | 3.4–4.4% | 3.3–4.6% |
+| [15–22 November 2019](2019-11-22-MMR.html) | MMR | 6.3% | N/A | N/A | N/A | N/A |
+| [30 September–27 October 2019](2019-10-27-Gallup.html) | Gallup | 4.6% | N/A | N/A | N/A | N/A |
 | [21–25 October 2019](2019-10-25-MMR.html) | MMR | 8.0% | 7.0–9.3% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
-| [30 September–9 October 2019](2019-10-09-MMR.html) | MMR | 5.6% | 5.0–6.3% | 4.8–6.5% | 4.7–6.7% | 4.4–7.0% |
-| [10–4 October 2019](2019-10-04-Zenter.html) | Zenter | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.8–5.7% |
-| [9–16 September 2019](2019-09-16-MMR.html) | MMR | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
-| [29 July–1 September 2019](2019-09-01-Gallup.html) | Gallup | 3.8% | 3.4–4.2% | 3.3–4.3% | 3.2–4.4% | 3.1–4.6% |
-| [12–19 August 2019](2019-08-19-MMR.html) | MMR | 4.1% | 3.4–5.1% | 3.2–5.3% | 3.1–5.6% | 2.8–6.1% |
-| [24–26 July 2019](2019-07-26-Zenter.html) | Zenter | 3.2% | 2.6–4.1% | 2.4–4.4% | 2.3–4.6% | 2.0–5.1% |
-| [4–17 July 2019](2019-07-17-MMR.html) | MMR | 4.8% | 4.2–5.4% | 4.1–5.6% | 3.9–5.8% | 3.7–6.1% |
-| [31 May–30 June 2019](2019-06-30-Gallup.html) | Gallup | 4.2% | 3.8–4.7% | 3.7–4.8% | 3.6–5.0% | 3.4–5.2% |
-| [7–14 June 2019](2019-06-14-MMR.html) | MMR | 4.3% | 3.5–5.2% | 3.3–5.5% | 3.2–5.7% | 2.8–6.2% |
+| [10–14 October 2019](2019-10-14-Zenter.html) | Zenter | 4.0% | N/A | N/A | N/A | N/A |
+| [30 September–9 October 2019](2019-10-09-MMR.html) | MMR | 5.6% | N/A | N/A | N/A | N/A |
+| [9–16 September 2019](2019-09-16-MMR.html) | MMR | 4.0% | N/A | N/A | N/A | N/A |
+| [29 July–1 September 2019](2019-09-01-Gallup.html) | Gallup | 3.8% | N/A | N/A | N/A | N/A |
+| [12–19 August 2019](2019-08-19-MMR.html) | MMR | 4.1% | N/A | N/A | N/A | N/A |
+| [24–26 July 2019](2019-07-26-Zenter.html) | Zenter | 3.2% | N/A | N/A | N/A | N/A |
+| [4–17 July 2019](2019-07-17-MMR.html) | MMR | 4.8% | N/A | N/A | N/A | N/A |
+| [31 May–30 June 2019](2019-06-30-Gallup.html) | Gallup | 4.2% | N/A | N/A | N/A | N/A |
+| [7–14 June 2019](2019-06-14-MMR.html) | MMR | 4.3% | N/A | N/A | N/A | N/A |
 | [3–30 May 2019](2019-05-30-Gallup.html) | Gallup | 3.2% | 2.8–3.6% | 2.7–3.8% | 2.7–3.9% | 2.5–4.1% |
 | [23–29 May 2019](2019-05-29-MMR.html) | MMR | 4.2% | 3.4–5.2% | 3.2–5.4% | 3.1–5.7% | 2.8–6.2% |
-| [14–16 May 2019](2019-05-16-MMR.html) | MMR | 6.4% | 5.5–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.7% |
-| [30 April–3 May 2019](2019-05-03-MMR.html) | MMR | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.7% | 3.5–7.2% |
-| [5–30 April 2019](2019-04-30-Gallup.html) | Gallup | 4.0% | 3.6–4.5% | 3.5–4.6% | 3.4–4.8% | 3.2–5.0% |
-| [4–9 April 2019](2019-04-09-MMR.html) | MMR | 5.4% | 4.6–6.5% | 4.3–6.8% | 4.1–7.1% | 3.7–7.6% |
-| [1–31 March 2019](2019-03-31-Gallup.html) | Gallup | 3.7% | 3.3–4.1% | 3.2–4.2% | 3.1–4.3% | 3.0–4.6% |
-| [11–14 March 2019](2019-03-14-MMR.html) | MMR | 4.7% | 3.9–5.6% | 3.7–5.9% | 3.6–6.2% | 3.2–6.6% |
-| [31 January–28 February 2019](2019-02-28-Gallup.html) | Gallup | 3.4% | 3.0–3.8% | 2.9–3.9% | 2.8–4.0% | 2.7–4.2% |
-| [11–15 February 2019](2019-02-15-MMR.html) | MMR | 7.0% | 6.0–8.1% | 5.7–8.5% | 5.5–8.8% | 5.1–9.4% |
-| [7–31 January 2019](2019-01-31-Gallup.html) | Gallup | 3.7% | 3.2–4.2% | 3.1–4.4% | 3.0–4.5% | 2.8–4.8% |
+| [14–16 May 2019](2019-05-16-MMR.html) | MMR | 6.4% | N/A | N/A | N/A | N/A |
+| [30 April–3 May 2019](2019-05-03-MMR.html) | MMR | 5.1% | N/A | N/A | N/A | N/A |
+| [5–30 April 2019](2019-04-30-Gallup.html) | Gallup | 4.0% | N/A | N/A | N/A | N/A |
+| [4–9 April 2019](2019-04-09-MMR.html) | MMR | 5.4% | N/A | N/A | N/A | N/A |
+| [1–31 March 2019](2019-03-31-Gallup.html) | Gallup | 3.7% | N/A | N/A | N/A | N/A |
+| [11–14 March 2019](2019-03-14-MMR.html) | MMR | 4.7% | N/A | N/A | N/A | N/A |
+| [31 January–28 February 2019](2019-02-28-Gallup.html) | Gallup | 3.4% | N/A | N/A | N/A | N/A |
+| [11–15 February 2019](2019-02-15-MMR.html) | MMR | 7.0% | N/A | N/A | N/A | N/A |
+| [7–31 January 2019](2019-01-31-Gallup.html) | Gallup | 3.7% | N/A | N/A | N/A | N/A |
 | [4–14 January 2019](2019-01-14-MMR.html) | MMR | 6.7% | 6.0–7.5% | 5.9–7.7% | 5.7–7.9% | 5.4–8.2% |
-| [3 December 2018–1 January 2019](2019-01-01-Gallup.html) | Gallup | 5.3% | 4.8–5.9% | 4.7–6.1% | 4.5–6.2% | 4.3–6.5% |
+| [3 December 2018–1 January 2019](2019-01-01-Gallup.html) | Gallup | 5.3% | N/A | N/A | N/A | N/A |
 | [5–11 December 2018](2018-12-11-MMR.html) | MMR | 4.2% | 3.5–5.2% | 3.3–5.4% | 3.1–5.7% | 2.8–6.1% |
 | [3–4 December 2018](2018-12-04-Zenter.html) | Zenter | 5.7% | 4.9–6.6% | 4.7–6.9% | 4.5–7.1% | 4.2–7.6% |
 | [30 November–3 December 2018](2018-12-03-Maskína.html) | Maskína | 4.4% | 3.8–5.2% | 3.6–5.5% | 3.4–5.7% | 3.2–6.1% |
-| [3 November–2 December 2018](2018-12-02-Gallup.html) | Gallup | 6.2% | 5.7–6.8% | 5.5–7.0% | 5.4–7.1% | 5.2–7.4% |
+| [3 November–2 December 2018](2018-12-02-Gallup.html) | Gallup | 6.2% | N/A | N/A | N/A | N/A |
 | [8–12 November 2018](2018-11-12-MMR.html) | MMR | 7.3% | 6.4–8.5% | 6.1–8.8% | 5.9–9.1% | 5.5–9.7% |
 | [2–31 October 2018](2018-10-31-Gallup.html) | Gallup | 6.2% | 5.7–6.8% | 5.5–6.9% | 5.4–7.1% | 5.2–7.3% |
 | [3–9 October 2018](2018-10-09-MMR.html) | MMR | 6.1% | 5.2–7.2% | 4.9–7.5% | 4.7–7.8% | 4.3–8.4% |
@@ -68,17 +72,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 8% | 100% |  |
-| 3.5–4.5% | 31% | 92% |  |
-| 4.5–5.5% | 10% | 60% |  |
-| 5.5–6.5% | 2% | 50% | Median |
-| 6.5–7.5% | 12% | 48% | Last Result |
-| 7.5–8.5% | 22% | 37% |  |
-| 8.5–9.5% | 12% | 15% |  |
-| 9.5–10.5% | 2% | 3% |  |
-| 10.5–11.5% | 0.2% | 0.2% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 12% | 99.9% |  |
+| 3.5–4.5% | 75% | 88% | Median |
+| 4.5–5.5% | 11% | 12% |  |
+| 5.5–6.5% | 0.9% | 0.9% |  |
+| 6.5–7.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -89,42 +88,46 @@ Last result: **4** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–5 | 0–6 | 0–6 | 0–6 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [13–19 December 2019](2019-12-19-MMR.html) | MMR | 0 | 0 | 0 | 0 | 0 |
+| [28 October–1 December 2019](2019-12-01-Gallup.html) | Gallup |  |  |  |  |  |
+| [15–22 November 2019](2019-11-22-MMR.html) | MMR |  |  |  |  |  |
+| [30 September–27 October 2019](2019-10-27-Gallup.html) | Gallup |  |  |  |  |  |
 | [21–25 October 2019](2019-10-25-MMR.html) | MMR | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
-| [30 September–9 October 2019](2019-10-09-MMR.html) | MMR | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [10–4 October 2019](2019-10-04-Zenter.html) | Zenter | 0 | 0 | 0–3 | 0–3 | 0–3 |
-| [9–16 September 2019](2019-09-16-MMR.html) | MMR | 0 | 0 | 0 | 0–3 | 0–4 |
-| [29 July–1 September 2019](2019-09-01-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
-| [12–19 August 2019](2019-08-19-MMR.html) | MMR | 0 | 0 | 0–3 | 0–3 | 0–4 |
-| [24–26 July 2019](2019-07-26-Zenter.html) | Zenter | 0 | 0 | 0 | 0 | 0 |
-| [4–17 July 2019](2019-07-17-MMR.html) | MMR | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [31 May–30 June 2019](2019-06-30-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0–3 |
-| [7–14 June 2019](2019-06-14-MMR.html) | MMR | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [10–14 October 2019](2019-10-14-Zenter.html) | Zenter |  |  |  |  |  |
+| [30 September–9 October 2019](2019-10-09-MMR.html) | MMR |  |  |  |  |  |
+| [9–16 September 2019](2019-09-16-MMR.html) | MMR |  |  |  |  |  |
+| [29 July–1 September 2019](2019-09-01-Gallup.html) | Gallup |  |  |  |  |  |
+| [12–19 August 2019](2019-08-19-MMR.html) | MMR |  |  |  |  |  |
+| [24–26 July 2019](2019-07-26-Zenter.html) | Zenter |  |  |  |  |  |
+| [4–17 July 2019](2019-07-17-MMR.html) | MMR |  |  |  |  |  |
+| [31 May–30 June 2019](2019-06-30-Gallup.html) | Gallup |  |  |  |  |  |
+| [7–14 June 2019](2019-06-14-MMR.html) | MMR |  |  |  |  |  |
 | [3–30 May 2019](2019-05-30-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
-| [23–29 May 2019](2019-05-29-MMR.html) | MMR | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [14–16 May 2019](2019-05-16-MMR.html) | MMR | 4 | 3–5 | 3–5 | 0–5 | 0–5 |
-| [30 April–3 May 2019](2019-05-03-MMR.html) | MMR | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [5–30 April 2019](2019-04-30-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0–1 |
-| [4–9 April 2019](2019-04-09-MMR.html) | MMR | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [1–31 March 2019](2019-03-31-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
-| [11–14 March 2019](2019-03-14-MMR.html) | MMR | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
-| [31 January–28 February 2019](2019-02-28-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
-| [11–15 February 2019](2019-02-15-MMR.html) | MMR | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
-| [7–31 January 2019](2019-01-31-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
+| [23–29 May 2019](2019-05-29-MMR.html) | MMR | 0 | 0 | 0 | 0 | 0 |
+| [14–16 May 2019](2019-05-16-MMR.html) | MMR |  |  |  |  |  |
+| [30 April–3 May 2019](2019-05-03-MMR.html) | MMR |  |  |  |  |  |
+| [5–30 April 2019](2019-04-30-Gallup.html) | Gallup |  |  |  |  |  |
+| [4–9 April 2019](2019-04-09-MMR.html) | MMR |  |  |  |  |  |
+| [1–31 March 2019](2019-03-31-Gallup.html) | Gallup |  |  |  |  |  |
+| [11–14 March 2019](2019-03-14-MMR.html) | MMR |  |  |  |  |  |
+| [31 January–28 February 2019](2019-02-28-Gallup.html) | Gallup |  |  |  |  |  |
+| [11–15 February 2019](2019-02-15-MMR.html) | MMR |  |  |  |  |  |
+| [7–31 January 2019](2019-01-31-Gallup.html) | Gallup |  |  |  |  |  |
 | [4–14 January 2019](2019-01-14-MMR.html) | MMR | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [3 December 2018–1 January 2019](2019-01-01-Gallup.html) | Gallup | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [3 December 2018–1 January 2019](2019-01-01-Gallup.html) | Gallup |  |  |  |  |  |
 | [5–11 December 2018](2018-12-11-MMR.html) | MMR | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [3–4 December 2018](2018-12-04-Zenter.html) | Zenter | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [30 November–3 December 2018](2018-12-03-Maskína.html) | Maskína | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [3 November–2 December 2018](2018-12-02-Gallup.html) | Gallup | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [3 November–2 December 2018](2018-12-02-Gallup.html) | Gallup |  |  |  |  |  |
 | [8–12 November 2018](2018-11-12-MMR.html) | MMR | 4 | 4–5 | 4–6 | 3–6 | 3–6 |
-| [2–31 October 2018](2018-10-31-Gallup.html) | Gallup | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [2–31 October 2018](2018-10-31-Gallup.html) | Gallup | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [3–9 October 2018](2018-10-09-MMR.html) | MMR | 4 | 3–4 | 0–5 | 0–5 | 0–5 |
-| [3 September–1 October 2018](2018-10-01-Gallup.html) | Gallup | 3 | 3–4 | 3–4 | 3–4 | 0–4 |
+| [3 September–1 October 2018](2018-10-01-Gallup.html) | Gallup | 3 | 3 | 3 | 3 | 3–4 |
 | [7–12 September 2018](2018-09-12-MMR.html) | MMR | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [2 August–2 September 2018](2018-09-02-Gallup.html) | Gallup | 3 | 3–4 | 3–4 | 3–4 | 0–4 |
-| [29 June–30 July 2018](2018-07-30-Gallup.html) | Gallup | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [31 May–1 July 2018](2018-07-01-Gallup.html) | Gallup | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [2 August–2 September 2018](2018-09-02-Gallup.html) | Gallup | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [29 June–30 July 2018](2018-07-30-Gallup.html) | Gallup | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [31 May–1 July 2018](2018-07-01-Gallup.html) | Gallup | 3 | 3 | 3–4 | 3–4 | 0–4 |
 | [12–18 June 2018](2018-06-18-MMR.html) | MMR | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [2–31 May 2018](2018-05-31-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [16–22 May 2018](2018-05-22-MMR.html) | MMR | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -149,13 +152,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 47% | 100% |  |
-| 1 | 0% | 53% |  |
-| 2 | 0% | 53% |  |
-| 3 | 4% | 53% | Median |
-| 4 | 6% | 49% | Last Result |
-| 5 | 37% | 44% |  |
-| 6 | 7% | 7% |  |
-| 7 | 0% | 0% |  |
+| 0 | 99.8% | 100% | Median |
+| 1 | 0% | 0.2% |  |
+| 2 | 0% | 0.2% |  |
+| 3 | 0.2% | 0.2% |  |
+| 4 | 0% | 0% | Last Result |
 
 
