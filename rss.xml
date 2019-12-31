@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Mon, 30 Dec 2019 21:09:49 +0100</pubDate>
+    <pubDate>Mon, 30 Dec 2019 21:39:24 +0100</pubDate>
     <item>
       <title>Opinion Poll by MMR, 21–25 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2019-10-25-MMR.html#seats</link>
@@ -50,14 +50,34 @@
       <dc:date>2019-12-19T17:59:54.430226+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Zenter, 10–4 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-10-04-Zenter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 12–15 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 7–10 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 11–15 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 7–10 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 4–6 seats&lt;/li&gt;&lt;li&gt;Píratar: 6–9 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–3 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 6–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-10-04-Zenter-seats.png"
+        length="231727"
+        type="image/png"/>
+      <pubDate>Mon, 30 Dec 2019 21:39:24 +0100</pubDate>
+      <dc:date>2019-12-30T21:39:24.440334+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Zenter, 10–4 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-10-04-Zenter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-10-04-Zenter-coalitions-seats.png"
+        length="487376"
+        type="image/png"/>
+      <pubDate>Mon, 30 Dec 2019 21:39:24 +0100</pubDate>
+      <dc:date>2019-12-30T21:39:24.440334+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Zenter, 10–4 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2019-10-04-Zenter.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 17.6–22.0%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 10.8–14.5%&lt;/li&gt;&lt;li&gt;Samfylkingin: 16.5–20.8%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 10.0–13.6%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 6.0–8.9%&lt;/li&gt;&lt;li&gt;Píratar: 9.3–12.8%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 3.0–5.3%&lt;/li&gt;&lt;li&gt;Viðreisn: 9.7–13.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-10-04-Zenter.png"
         length="218939"
         type="image/png"/>
-      <pubDate>Sat, 21 Dec 2019 20:00:45 +0100</pubDate>
-      <dc:date>2019-12-21T20:00:45.330278+01:00</dc:date>
+      <pubDate>Mon, 30 Dec 2019 21:39:24 +0100</pubDate>
+      <dc:date>2019-12-30T21:39:24.440334+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MMR, 9–16 September 2019 – Voting Intentions</title>
@@ -1169,6 +1189,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2019-12-30T21:09:49.221304+01:00</dc:date>
+    <dc:date>2019-12-30T21:39:24.440334+01:00</dc:date>
   </channel>
 </rss>
