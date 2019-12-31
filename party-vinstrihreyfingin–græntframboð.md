@@ -93,7 +93,7 @@ Last result: **11** seats (General Election of 28 October 2017)
 | N/A | [Poll Average](average.html) | 7 | 5–9 | 5–10 | 5–10 | 5–10 |
 | [21–25 October 2019](2019-10-25-MMR.html) | MMR | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [30 September–9 October 2019](2019-10-09-MMR.html) | MMR | 7 | 6–7 | 6–7 | 5–7 | 5–8 |
-| [10–4 October 2019](2019-10-04-Zenter.html) | Zenter | 9 | 8–10 | 7–10 | 7–10 | 7–10 |
+| [10–4 October 2019](2019-10-04-Zenter.html) | Zenter | 9 | 7–10 | 7–10 | 7–10 | 7–10 |
 | [9–16 September 2019](2019-09-16-MMR.html) | MMR | 8 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [29 July–1 September 2019](2019-09-01-Gallup.html) | Gallup | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [12–19 August 2019](2019-08-19-MMR.html) | MMR | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
@@ -156,7 +156,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 15% | 61% | Median |
 | 8 | 20% | 46% |  |
 | 9 | 18% | 26% |  |
-| 10 | 8% | 9% |  |
+| 10 | 8% | 8% |  |
 | 11 | 0.1% | 0.1% | Last Result |
 | 12 | 0% | 0% |  |
 
