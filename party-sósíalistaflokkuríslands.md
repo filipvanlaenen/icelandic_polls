@@ -72,6 +72,7 @@ Last result: **0.0%** (General Election of 28 October 2017)
 | [9–17 January 2018](2018-01-17-MMR.html) | MMR | 0.0% | N/A | N/A | N/A | N/A |
 | [30 November–28 December 2017](2017-12-28-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
 | [12–15 December 2017](2017-12-15-MMR.html) | MMR | 0.0% | N/A | N/A | N/A | N/A |
+| [4 December 2017](2017-12-04-FréttablaðiðStöð2Vísir.html) | Fréttablaðið/Stöð 2/Vísir | 0.0% | N/A | N/A | N/A | N/A |
 | [4 December 2017](2017-12-04-Fréttablaðið-Stöð2-Vísir.html) | Fréttablaðið, Stöð 2 and Vísir | 0.0% | N/A | N/A | N/A | N/A |
 | [8–30 November 2017](2017-11-30-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
 | [14–17 November 2017](2017-11-17-MMR.html) | MMR | 0.0% | N/A | N/A | N/A | N/A |
@@ -164,6 +165,7 @@ Last result: **0** seats (General Election of 28 October 2017)
 | [9–17 January 2018](2018-01-17-MMR.html) | MMR |  |  |  |  |  |
 | [30 November–28 December 2017](2017-12-28-Gallup.html) | Gallup |  |  |  |  |  |
 | [12–15 December 2017](2017-12-15-MMR.html) | MMR |  |  |  |  |  |
+| [4 December 2017](2017-12-04-FréttablaðiðStöð2Vísir.html) | Fréttablaðið/Stöð 2/Vísir |  |  |  |  |  |
 | [4 December 2017](2017-12-04-Fréttablaðið-Stöð2-Vísir.html) | Fréttablaðið, Stöð 2 and Vísir |  |  |  |  |  |
 | [8–30 November 2017](2017-11-30-Gallup.html) | Gallup |  |  |  |  |  |
 | [14–17 November 2017](2017-11-17-MMR.html) | MMR |  |  |  |  |  |

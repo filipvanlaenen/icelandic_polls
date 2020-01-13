@@ -72,6 +72,7 @@ Last result: **16.9%** (General Election of 28 October 2017)
 | [9–17 January 2018](2018-01-17-MMR.html) | MMR | 15.0% | 13.9–16.2% | 13.6–16.5% | 13.3–16.8% | 12.8–17.4% |
 | [30 November–28 December 2017](2017-12-28-Gallup.html) | Gallup | 17.3% | 16.6–18.1% | 16.3–18.3% | 16.2–18.5% | 15.8–18.9% |
 | [12–15 December 2017](2017-12-15-MMR.html) | MMR | 16.7% | 15.2–18.4% | 14.8–18.8% | 14.4–19.2% | 13.7–20.0% |
+| [4 December 2017](2017-12-04-FréttablaðiðStöð2Vísir.html) | Fréttablaðið/Stöð 2/Vísir | 23.5% | 21.7–25.5% | 21.2–26.1% | 20.7–26.6% | 19.8–27.5% |
 | [4 December 2017](2017-12-04-Fréttablaðið-Stöð2-Vísir.html) | Fréttablaðið, Stöð 2 and Vísir | 23.5% | 21.7–25.5% | 21.2–26.1% | 20.7–26.6% | 19.8–27.5% |
 | [8–30 November 2017](2017-11-30-Gallup.html) | Gallup | 16.1% | 15.1–17.1% | 14.9–17.4% | 14.6–17.6% | 14.2–18.1% |
 | [14–17 November 2017](2017-11-17-MMR.html) | MMR | 13.0% | 11.7–14.5% | 11.3–15.0% | 11.0–15.3% | 10.4–16.1% |
@@ -165,6 +166,7 @@ Last result: **11** seats (General Election of 28 October 2017)
 | [9–17 January 2018](2018-01-17-MMR.html) | MMR | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [30 November–28 December 2017](2017-12-28-Gallup.html) | Gallup | 11 | 11–12 | 11–12 | 10–12 | 10–13 |
 | [12–15 December 2017](2017-12-15-MMR.html) | MMR | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
+| [4 December 2017](2017-12-04-FréttablaðiðStöð2Vísir.html) | Fréttablaðið/Stöð 2/Vísir | 17 | 15–18 | 15–18 | 14–19 | 14–20 |
 | [4 December 2017](2017-12-04-Fréttablaðið-Stöð2-Vísir.html) | Fréttablaðið, Stöð 2 and Vísir | 17 | 15–18 | 15–18 | 14–19 | 14–20 |
 | [8–30 November 2017](2017-11-30-Gallup.html) | Gallup | 10 | 10–11 | 10–11 | 10–12 | 9–12 |
 | [14–17 November 2017](2017-11-17-MMR.html) | MMR | 8 | 7–10 | 7–10 | 7–10 | 6–10 |
