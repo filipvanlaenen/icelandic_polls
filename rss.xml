@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Fri, 17 Jan 2020 23:48:31 +0100</pubDate>
+    <pubDate>Wed, 22 Jan 2020 06:54:44 +0100</pubDate>
     <item>
       <title>Opinion Poll by MMR, 3–13 January 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2020-01-13-MMR.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2020-01-13-MMR.png"
         length="218620"
         type="image/png"/>
-      <pubDate>Fri, 17 Jan 2020 23:48:31 +0100</pubDate>
-      <dc:date>2020-01-17T23:48:31.025726+01:00</dc:date>
+      <pubDate>Wed, 22 Jan 2020 06:54:44 +0100</pubDate>
+      <dc:date>2020-01-22T06:54:44.691024+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Gallup, 2 December 2019–1 January 2020 – Seat Projections for the Parties</title>
@@ -1169,6 +1169,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2020-01-17T23:48:31.025726+01:00</dc:date>
+    <dc:date>2020-01-22T06:54:44.691024+01:00</dc:date>
   </channel>
 </rss>
