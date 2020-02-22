@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Wed, 22 Jan 2020 06:54:44 +0100</pubDate>
+    <pubDate>Sat, 22 Feb 2020 13:08:30 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by MMR, 6–10 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2020-02-10-MMR.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 19.6–24.7%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 8.9–12.7%&lt;/li&gt;&lt;li&gt;Samfylkingin: 13.0–17.4%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 11.3–15.5%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 5.4–8.5%&lt;/li&gt;&lt;li&gt;Píratar: 8.6–12.4%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 3.5–6.1%&lt;/li&gt;&lt;li&gt;Viðreisn: 8.0–11.7%&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 4.1–6.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2020-02-10-MMR.png"
+        length="244298"
+        type="image/png"/>
+      <pubDate>Sat, 22 Feb 2020 13:08:30 +0100</pubDate>
+      <dc:date>2020-02-22T13:08:30.422216+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MMR, 3–13 January 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2020-01-13-MMR.html</link>
@@ -1169,6 +1179,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2020-01-22T06:54:44.691024+01:00</dc:date>
+    <dc:date>2020-02-22T13:08:30.422216+01:00</dc:date>
   </channel>
 </rss>
