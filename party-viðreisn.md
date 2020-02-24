@@ -13,7 +13,7 @@ Last result: **6.7%** (General Election of 28 October 2017)
 | N/A | [Poll Average](average.html) | 10.2% | 9.0–11.0% | 8.6–11.2% | 8.3–11.4% | 7.7–12.0% |
 | [6–10 February 2020](2020-02-10-MMR.html) | MMR | 9.7% | 8.6–11.0% | 8.3–11.3% | 8.0–11.7% | 7.5–12.3% |
 | [3 January–2 February 2020](2020-02-02-Gallup.html) | Gallup | 10.3% | 9.8–10.9% | 9.6–11.1% | 9.5–11.3% | 9.2–11.6% |
-| [28 January 2020](2020-01-28-MMR.html) | MMR | 12.4% | N/A | N/A | N/A | N/A |
+| [28 January 2020](2020-01-28-MMR.html) | MMR | 12.4% | 11.1–13.9% | 10.7–14.3% | 10.4–14.7% | 9.8–15.5% |
 | [3–13 January 2020](2020-01-13-MMR.html) | MMR | 10.5% | 9.7–11.4% | 9.4–11.7% | 9.3–11.9% | 8.9–12.3% |
 | [2 December 2019–1 January 2020](2020-01-01-Gallup.html) | Gallup | 12.1% | 11.5–12.7% | 11.3–12.9% | 11.1–13.0% | 10.9–13.4% |
 | [13–19 December 2019](2019-12-19-MMR.html) | MMR | 10.6% | 9.4–11.9% | 9.1–12.3% | 8.8–12.6% | 8.3–13.3% |
@@ -109,8 +109,8 @@ Last result: **4** seats (General Election of 28 October 2017)
 | N/A | [Poll Average](average.html) | 7 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [6–10 February 2020](2020-02-10-MMR.html) | MMR | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [3 January–2 February 2020](2020-02-02-Gallup.html) | Gallup | 7 | 7 | 7 | 6–7 | 6–8 |
-| [28 January 2020](2020-01-28-MMR.html) | MMR |  |  |  |  |  |
-| [3–13 January 2020](2020-01-13-MMR.html) | MMR | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [28 January 2020](2020-01-28-MMR.html) | MMR | 8 | 7–10 | 7–10 | 7–10 | 6–10 |
+| [3–13 January 2020](2020-01-13-MMR.html) | MMR | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [2 December 2019–1 January 2020](2020-01-01-Gallup.html) | Gallup | 8 | 8 | 7–9 | 7–9 | 7–9 |
 | [13–19 December 2019](2019-12-19-MMR.html) | MMR | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [28 October–1 December 2019](2019-12-01-Gallup.html) | Gallup | 7 | 7 | 7–8 | 7–8 | 7–8 |
