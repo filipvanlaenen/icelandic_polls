@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | D | V | S | M | B | P | F | C | A | R | T | J |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 20–24% <br> 14–17 | 9–12% <br> 6–9 | 13–19% <br> 9–13 | 12–15% <br> 9–11 | 6–9% <br> 3–5 | 9–12% <br> 6–8 | 4–6% <br> 0–3 | 8–11% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–7% <br> 0–4 |
+| N/A | [Poll Average](average.html) | 20–24% <br> 14–17 | 9–12% <br> 6–9 | 13–19% <br> 9–13 | 12–15% <br> 9–11 | 6–9% <br> 3–6 | 9–12% <br> 6–8 | 4–6% <br> 0–3 | 8–11% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–7% <br> 0–4 |
 | [6–10 February 2020](2020-02-10-MMR.html) | MMR | 20–25% <br> 13–18 | 9–13% <br> 6–9 | 13–17% <br> 8–12 | 11–16% <br> 8–11 | 5–9% <br> 3–6 | 9–12% <br> 5–8 | 3–6% <br> 0–4 | 8–12% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–4 |
-| [3 January–2 February 2020](2020-02-02-Gallup.html) | Gallup | 21–23% <br> 14–16 | 10–11% <br> 6–8 | 17–19% <br> 11–13 | 12–14% <br> 9–10 | 7–9% <br> 4–5 | 11–13% <br> 7–8 | 4–5% <br> 0 | 9–11% <br> 6–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 0 |
+| [3 January–2 February 2020](2020-02-02-Gallup.html) | Gallup | 21–23% <br> 14–16 | 10–11% <br> 6–8 | 17–19% <br> 11–13 | 12–14% <br> 9–10 | 7–9% <br> 5 | 11–13% <br> 7–8 | 4–5% <br> 0 | 9–11% <br> 6–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 0 |
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
