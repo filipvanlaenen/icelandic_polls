@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Fri, 28 Feb 2020 18:55:16 +0100</pubDate>
+    <pubDate>Mon, 02 Mar 2020 19:22:32 +0100</pubDate>
     <item>
       <title>Opinion Poll by MMR, 6–10 February 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2020-02-10-MMR.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2020-02-28T18:55:16.636089+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Gallup, 3 January–2 February 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2020-02-02-Gallup.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 14–16 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 6–8 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 11–13 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 9–10 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 5 seats&lt;/li&gt;&lt;li&gt;Píratar: 7–8 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 6–7 seats&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2020-02-02-Gallup-seats.png"
+        length="186330"
+        type="image/png"/>
+      <pubDate>Mon, 02 Mar 2020 19:22:32 +0100</pubDate>
+      <dc:date>2020-03-02T19:22:32.921552+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 3 January–2 February 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2020-02-02-Gallup.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2020-02-02-Gallup-coalitions-seats.png"
+        length="335239"
+        type="image/png"/>
+      <pubDate>Mon, 02 Mar 2020 19:22:32 +0100</pubDate>
+      <dc:date>2020-03-02T19:22:32.921552+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Gallup, 3 January–2 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2020-02-02-Gallup.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 20.5–22.9%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 9.7–11.5%&lt;/li&gt;&lt;li&gt;Samfylkingin: 16.7–18.9%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 11.6–13.6%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 7.1–8.7%&lt;/li&gt;&lt;li&gt;Píratar: 10.7–12.5%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 3.7–4.9%&lt;/li&gt;&lt;li&gt;Viðreisn: 9.5–11.3%&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 2.9–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2020-02-02-Gallup.png"
         length="196556"
         type="image/png"/>
-      <pubDate>Sat, 22 Feb 2020 17:41:45 +0100</pubDate>
-      <dc:date>2020-02-22T17:41:45.39323+01:00</dc:date>
+      <pubDate>Mon, 02 Mar 2020 19:22:32 +0100</pubDate>
+      <dc:date>2020-03-02T19:22:32.921552+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MMR, 28 January 2020 – Voting Intentions</title>
@@ -1219,6 +1239,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2020-02-28T18:55:16.636089+01:00</dc:date>
+    <dc:date>2020-03-02T19:22:32.921552+01:00</dc:date>
   </channel>
 </rss>
