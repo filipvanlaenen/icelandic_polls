@@ -10,7 +10,8 @@ Last result: **25.2%** (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.8% | 20.7–23.2% | 20.4–23.8% | 20.0–24.3% | 19.1–25.2% |
+| N/A | [Poll Average](average.html) | 21.8% | 20.7–23.2% | 20.3–23.8% | 19.9–24.3% | 19.1–25.2% |
+| [3 February–1 March 2020](2020-03-01-Gallup.html) | Gallup | 21.6% | 20.8–22.4% | 20.6–22.7% | 20.4–22.9% | 20.0–23.3% |
 | [6–10 February 2020](2020-02-10-MMR.html) | MMR | 22.0% | 20.4–23.8% | 20.0–24.3% | 19.6–24.7% | 18.8–25.6% |
 | [3 January–2 February 2020](2020-02-02-Gallup.html) | Gallup | 21.7% | 20.9–22.5% | 20.7–22.7% | 20.5–22.9% | 20.2–23.3% |
 | [28 January 2020](2020-01-28-MMR.html) | MMR | 19.0% | 17.4–20.8% | 17.0–21.3% | 16.6–21.7% | 15.9–22.6% |
@@ -90,10 +91,10 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0.1% | 100% |  |
 | 18.5–19.5% | 1.1% | 99.9% |  |
-| 19.5–20.5% | 6% | 98.8% |  |
-| 20.5–21.5% | 30% | 93% |  |
-| 21.5–22.5% | 41% | 63% | Median |
-| 22.5–23.5% | 15% | 22% |  |
+| 19.5–20.5% | 7% | 98.8% |  |
+| 20.5–21.5% | 32% | 92% |  |
+| 21.5–22.5% | 39% | 60% | Median |
+| 22.5–23.5% | 14% | 21% |  |
 | 23.5–24.5% | 5% | 7% |  |
 | 24.5–25.5% | 1.3% | 2% | Last Result |
 | 25.5–26.5% | 0.2% | 0.3% |  |
@@ -109,6 +110,7 @@ Last result: **16** seats (General Election of 28 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
+| [3 February–1 March 2020](2020-03-01-Gallup.html) | Gallup | 15 | 15–16 | 15–16 | 14–16 | 14–17 |
 | [6–10 February 2020](2020-02-10-MMR.html) | MMR | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
 | [3 January–2 February 2020](2020-02-02-Gallup.html) | Gallup | 15 | 15–16 | 14–16 | 14–16 | 14–16 |
 | [28 January 2020](2020-01-28-MMR.html) | MMR | 13 | 12–14 | 11–15 | 11–15 | 11–16 |
@@ -189,9 +191,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
 | 13 | 2% | 99.9% |  |
-| 14 | 15% | 98% |  |
-| 15 | 57% | 83% | Median |
-| 16 | 17% | 26% | Last Result |
+| 14 | 11% | 98% |  |
+| 15 | 53% | 86% | Median |
+| 16 | 24% | 33% | Last Result |
 | 17 | 8% | 9% |  |
 | 18 | 1.1% | 1.3% |  |
 | 19 | 0.2% | 0.2% |  |
