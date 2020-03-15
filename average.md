@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 20–24% <br> 14–17 | 9–13% <br> 6–9 | 13–17% <br> 9–12 | 12–15% <br> 9–11 | 6–8% <br> 3–5 | 9–12% <br> 6–8 | 3–6% <br> 0–3 | 8–11% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–4 |
-| [3 February–1 March 2020](2020-03-01-Gallup.html) | Gallup | 20–23% <br> 14–16 | 11–13% <br> 7–9 | 14–16% <br> 9–11 | 13–15% <br> 10–11 | 6–8% <br> 4–5 | 10–11% <br> 6–8 | 3–5% <br> 0 | 9–11% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–4 |
+| [3 February–1 March 2020](2020-03-01-Gallup.html) | Gallup | 20–23% <br> 14–16 | 11–13% <br> 7–9 | 14–16% <br> 9–11 | 13–15% <br> 10–11 | 6–8% <br> 4–5 | 10–11% <br> 6–8 | 3–5% <br> 0 | 9–11% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–3 |
 | [6–10 February 2020](2020-02-10-MMR.html) | MMR | 20–25% <br> 13–18 | 9–13% <br> 6–9 | 13–17% <br> 8–12 | 11–16% <br> 8–11 | 5–9% <br> 3–6 | 9–12% <br> 5–8 | 3–6% <br> 0–4 | 8–12% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–4 |
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 | 0.0% <br> 0 |
 
@@ -215,15 +215,15 @@ Only polls for which at least the sample size has been published are included in
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#sjálfstæðisflokkurinn">Sjálfstæðisflokkurinn</a> | 16 | 15 | 14–16 |14–17 | 14–17 | 13–18 |
-| <a href="#vinstrihreyfingin-–-grænt-framboð">Vinstrihreyfingin – grænt framboð</a> | 11 | 8 | 6–8 |6–9 | 6–9 | 5–10 |
-| <a href="#samfylkingin">Samfylkingin</a> | 7 | 10 | 10–11 |9–11 | 9–12 | 8–12 |
+| <a href="#vinstrihreyfingin-–-grænt-framboð">Vinstrihreyfingin – grænt framboð</a> | 11 | 7 | 6–8 |6–9 | 6–9 | 5–10 |
+| <a href="#samfylkingin">Samfylkingin</a> | 7 | 10 | 9–11 |9–11 | 9–12 | 8–12 |
 | <a href="#miðflokkurinn">Miðflokkurinn</a> | 7 | 10 | 10 |9–11 | 9–11 | 8–11 |
 | <a href="#framsóknarflokkurinn">Framsóknarflokkurinn</a> | 8 | 4 | 4–5 |4–5 | 3–5 | 3–6 |
 | <a href="#píratar">Píratar</a> | 6 | 7 | 6–8 |6–8 | 6–8 | 5–9 |
 | <a href="#flokkur-fólksins">Flokkur fólksins</a> | 4 | 0 | 0–3 |0–3 | 0–3 | 0–4 |
-| <a href="#viðreisn">Viðreisn</a> | 4 | 7 | 6–8 |6–8 | 5–8 | 5–8 |
+| <a href="#viðreisn">Viðreisn</a> | 4 | 7 | 6–7 |6–8 | 5–8 | 5–8 |
 | <a href="#björt-framtíð">Björt framtíð</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#alþýðufylkingin">Alþýðufylkingin</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#dögun">Dögun</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#sósíalistaflokkur-íslands">Sósíalistaflokkur Íslands</a> | 0 | 0 | 0–4 |0–4 | 0–4 | 0–4 |
+| <a href="#sósíalistaflokkur-íslands">Sósíalistaflokkur Íslands</a> | 0 | 3 | 0–4 |0–4 | 0–4 | 0–4 |
 
