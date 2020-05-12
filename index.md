@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | D | V | S | M | B | P | F | C | A | R | T | J |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 21–25% <br> 14–18 | 9–14% <br> 5–10 | 12–16% <br> 7–11 | 8–12% <br> 5–9 | 8–11% <br> 5–8 | 10–14% <br> 6–9 | 4–6% <br> 0–3 | 9–12% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–7% <br> 0–4 |
+| N/A | [Poll Average](average.html) | 21–26% <br> 14–18 | 9–14% <br> 5–10 | 12–15% <br> 7–10 | 8–11% <br> 5–8 | 8–11% <br> 5–8 | 10–14% <br> 6–9 | 4–6% <br> 0–3 | 9–12% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–4 |
+| [30 March–3 May 2020](2020-05-03-Gallup.html) | Gallup | 24–26% <br> 18 | 13–15% <br> 9–10 | 13–15% <br> 8–10 | 9–11% <br> 6–7 | 8–9% <br> 5–6 | 10–11% <br> 6–7 | 4–5% <br> 0 | 9–11% <br> 6–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–5% <br> 0 |
 | [15–17 April 2020](2020-04-17-MMR.html) | MMR | 20–25% <br> 14–18 | 9–12% <br> 5–8 | 11–15% <br> 7–10 | 8–11% <br> 5–9 | 8–12% <br> 5–8 | 10–14% <br> 7–10 | 4–6% <br> 0–4 | 8–12% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–4 |
-| [2–29 March 2020](2020-03-29-Gallup.html) | Gallup | 22–25% <br> 15–17 | 12–14% <br> 8–10 | 14–16% <br> 10–11 | 10–12% <br> 7–9 | 7–9% <br> 5–6 | 9–11% <br> 6–7 | 4–5% <br> 0 | 10–12% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 0 |
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
