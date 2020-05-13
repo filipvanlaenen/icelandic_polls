@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/icelandic_polls</id>
   <title>All Registered Polls for the Alþingi</title>
-  <updated>2020-04-17T20:57:41.00258+02:00</updated>
+  <updated>2020-05-13T17:26:10.78224+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sjálfstæðisflokkurinn: 24.1–26.2%, 17–19 seats</li><li>Vinstrihreyfingin – grænt framboð: 13.0–14.7%, 9–10 seats</li><li>Samfylkingin: 13.0–14.7%, 9–10 seats</li><li>Miðflokkurinn: 9.2–10.7%, 6–7 seats</li><li>Framsóknarflokkurinn: 7.8–9.1%, 5–6 seats</li><li>Píratar: 9.7–11.2%, 6–8 seats</li><li>Flokkur fólksins: 3.9–5.0%, 0 seats</li><li>Viðreisn: 9.3–10.8%, 6–7 seats</li><li>Sósíalistaflokkur Íslands: 3.5–4.5%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/icelandic_polls/2020-05-03-Gallup.html</id>
+    <link href="https://filipvanlaenen.github.io/icelandic_polls/2020-05-03-Gallup.html"/>
+    <title>Opinion Poll by Gallup, 30 March–3 May 2020</title>
+    <updated>2020-05-13T17:26:10.78224+02:00</updated>
+    <dc:date>2020-05-13T17:26:10.78224+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sjálfstæðisflokkurinn: 20.2–25.3%, 14–18 seats</li><li>Vinstrihreyfingin – grænt framboð: 8.7–12.4%, 5–8 seats</li><li>Samfylkingin: 11.2–15.3%, 7–10 seats</li><li>Miðflokkurinn: 7.9–11.4%, 5–9 seats</li><li>Framsóknarflokkurinn: 8.1–11.8%, 5–8 seats</li><li>Píratar: 10.4–14.4%, 7–10 seats</li><li>Flokkur fólksins: 3.5–6.1%, 0–4 seats</li><li>Viðreisn: 8.3–11.9%, 5–8 seats</li><li>Sósíalistaflokkur Íslands: 4.4–7.2%, 0–4 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/icelandic_polls/2020-04-17-MMR.html</id>
@@ -263,5 +271,5 @@
     <updated>2018-03-06T13:52:40.577453+01:00</updated>
     <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
   </entry>
-  <dc:date>2020-04-17T20:57:41.00258+02:00</dc:date>
+  <dc:date>2020-05-13T17:26:10.78224+02:00</dc:date>
 </feed>
