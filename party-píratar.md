@@ -117,7 +117,7 @@ Last result: **6** seats (General Election of 28 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–11 | 6–11 | 6–11 | 6–12 |
-| [19–25 May 2020](2020-05-25-MMR.html) | MMR | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
+| [19–25 May 2020](2020-05-25-MMR.html) | MMR | 10 | 9–11 | 9–11 | 8–12 | 8–12 |
 | [30 March–3 May 2020](2020-05-03-Gallup.html) | Gallup | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [15–17 April 2020](2020-04-17-MMR.html) | MMR | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [3–7 April 2020](2020-04-07-MMR.html) | MMR | 8 | 7–9 | 7–10 | 7–10 | 6–10 |
@@ -205,11 +205,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 10% | 100% | Last Result |
 | 7 | 34% | 90% |  |
 | 8 | 7% | 56% | Median |
-| 9 | 21% | 49% |  |
-| 10 | 18% | 28% |  |
-| 11 | 9% | 10% |  |
-| 12 | 1.0% | 1.1% |  |
-| 13 | 0.1% | 0.1% |  |
+| 9 | 14% | 48% |  |
+| 10 | 21% | 34% |  |
+| 11 | 11% | 13% |  |
+| 12 | 2% | 2% |  |
+| 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |
 
 
