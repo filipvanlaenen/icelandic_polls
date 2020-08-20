@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Wed, 19 Aug 2020 19:09:25 +0200</pubDate>
+    <pubDate>Wed, 19 Aug 2020 20:28:53 +0200</pubDate>
     <item>
       <title>Opinion Poll by MMR, 23–28 July 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2020-07-28-MMR.html#seats</link>
@@ -760,14 +760,34 @@
       <dc:date>2020-01-01T16:08:41.445328+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by MMR, 30 April–3 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-05-03-MMR.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 12–17 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 7–11 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 8–11 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 5–8 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 5–9 seats&lt;/li&gt;&lt;li&gt;Píratar: 7–11 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–4 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 5–8 seats&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-05-03-MMR-seats.png"
+        length="241598"
+        type="image/png"/>
+      <pubDate>Wed, 19 Aug 2020 20:28:53 +0200</pubDate>
+      <dc:date>2020-08-19T20:28:53.945554+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MMR, 30 April–3 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-05-03-MMR.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-05-03-MMR-coalitions-seats.png"
+        length="614507"
+        type="image/png"/>
+      <pubDate>Wed, 19 Aug 2020 20:28:53 +0200</pubDate>
+      <dc:date>2020-08-19T20:28:53.945554+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by MMR, 30 April–3 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2019-05-03-MMR.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 17.8–22.9%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 11.4–15.7%&lt;/li&gt;&lt;li&gt;Samfylkingin: 12.1–16.5%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 7.6–11.3%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 8.0–11.8%&lt;/li&gt;&lt;li&gt;Píratar: 11.4–15.7%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 3.9–6.7%&lt;/li&gt;&lt;li&gt;Viðreisn: 7.6–11.3%&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 3.1–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-05-03-MMR.png"
-        length="248510"
+        length="305823"
         type="image/png"/>
-      <pubDate>Wed, 01 Jan 2020 15:12:08 +0100</pubDate>
-      <dc:date>2020-01-01T15:12:08.885293+01:00</dc:date>
+      <pubDate>Wed, 19 Aug 2020 20:28:53 +0200</pubDate>
+      <dc:date>2020-08-19T20:28:53.945554+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Gallup, 5–30 April 2019 – Voting Intentions</title>
@@ -780,14 +800,34 @@
       <dc:date>2020-01-01T17:19:52.716483+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by MMR, 13 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-04-13-MMR.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 13–18 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 6–10 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 8–12 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 5–8 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 6–10 seats&lt;/li&gt;&lt;li&gt;Píratar: 7–10 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–4 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 4–6 seats&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-04-13-MMR-seats.png"
+        length="235581"
+        type="image/png"/>
+      <pubDate>Wed, 19 Aug 2020 19:30:33 +0200</pubDate>
+      <dc:date>2020-08-19T19:30:33.177773+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MMR, 13 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-04-13-MMR.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-04-13-MMR-coalitions-seats.png"
+        length="628868"
+        type="image/png"/>
+      <pubDate>Wed, 19 Aug 2020 19:30:33 +0200</pubDate>
+      <dc:date>2020-08-19T19:30:33.177773+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by MMR, 13 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2019-04-13-MMR.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 19.9–25.4%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 10.1–14.4%&lt;/li&gt;&lt;li&gt;Samfylkingin: 12.2–16.7%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 7.5–11.3%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 9.3–13.4%&lt;/li&gt;&lt;li&gt;Píratar: 11.2–15.7%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 3.8–6.7%&lt;/li&gt;&lt;li&gt;Viðreisn: 6.2–9.7%&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 2.0–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-04-13-MMR.png"
         length="302543"
         type="image/png"/>
-      <pubDate>Wed, 19 Aug 2020 19:09:25 +0200</pubDate>
-      <dc:date>2020-08-19T19:09:25.574647+02:00</dc:date>
+      <pubDate>Wed, 19 Aug 2020 19:30:33 +0200</pubDate>
+      <dc:date>2020-08-19T19:30:33.177773+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MMR, 4–9 April 2019 – Voting Intentions</title>
@@ -1649,6 +1689,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2020-08-19T19:09:25.574647+02:00</dc:date>
+    <dc:date>2020-08-19T20:28:53.945554+02:00</dc:date>
   </channel>
 </rss>
