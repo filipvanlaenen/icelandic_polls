@@ -154,7 +154,7 @@ Last result: **0** seats (General Election of 28 October 2017)
 | [3–30 May 2019](2019-05-30-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [23–29 May 2019](2019-05-29-MMR.html) | MMR | 0 | 0 | 0 | 0 | 0–3 |
 | [14–16 May 2019](2019-05-16-MMR.html) | MMR | 0 | 0 | 0 | 0 | 0 |
-| [30 April–3 May 2019](2019-05-03-MMR.html) | MMR | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| [30 April–3 May 2019](2019-05-03-MMR.html) | MMR | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [5–30 April 2019](2019-04-30-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [13 April 2019](2019-04-13-MMR.html) | MMR | 0 | 0 | 0 | 0 | 0 |
 | [4–9 April 2019](2019-04-09-MMR.html) | MMR | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
