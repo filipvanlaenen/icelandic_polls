@@ -138,7 +138,7 @@ Last result: **4** seats (General Election of 28 October 2017)
 | [28 October–1 December 2019](2019-12-01-Gallup.html) | Gallup | 7 | 7 | 7–8 | 7–8 | 7–8 |
 | [15–22 November 2019](2019-11-22-MMR.html) | MMR | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [30 September–27 October 2019](2019-10-27-Gallup.html) | Gallup | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [21–25 October 2019](2019-10-25-MMR.html) | MMR | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
+| [21–25 October 2019](2019-10-25-MMR.html) | MMR | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [10–14 October 2019](2019-10-14-Zenter.html) | Zenter | 7 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [30 September–9 October 2019](2019-10-09-MMR.html) | MMR | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [1–30 September 2019](2019-09-30-Gallup.html) | Gallup | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
@@ -160,7 +160,7 @@ Last result: **4** seats (General Election of 28 October 2017)
 | [1–31 March 2019](2019-03-31-Gallup.html) | Gallup | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [11–14 March 2019](2019-03-14-MMR.html) | MMR | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [31 January–28 February 2019](2019-02-28-Gallup.html) | Gallup | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [11–15 February 2019](2019-02-15-MMR.html) | MMR | 6 | 4–6 | 4–6 | 4–7 | 4–7 |
+| [11–15 February 2019](2019-02-15-MMR.html) | MMR | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [7–31 January 2019](2019-01-31-Gallup.html) | Gallup | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [28 January 2019](2019-01-28-MMR.html) | MMR | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [4–14 January 2019](2019-01-14-MMR.html) | MMR | 5 | 4–5 | 4–6 | 4–6 | 4–6 |

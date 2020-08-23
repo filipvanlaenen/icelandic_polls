@@ -139,7 +139,7 @@ Last result: **7** seats (General Election of 28 October 2017)
 | [28 October–1 December 2019](2019-12-01-Gallup.html) | Gallup | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
 | [15–22 November 2019](2019-11-22-MMR.html) | MMR | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [30 September–27 October 2019](2019-10-27-Gallup.html) | Gallup | 12 | 11–12 | 10–12 | 10–12 | 10–13 |
-| [21–25 October 2019](2019-10-25-MMR.html) | MMR | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
+| [21–25 October 2019](2019-10-25-MMR.html) | MMR | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [10–14 October 2019](2019-10-14-Zenter.html) | Zenter | 14 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [30 September–9 October 2019](2019-10-09-MMR.html) | MMR | 10 | 9–10 | 9–10 | 8–10 | 8–11 |
 | [1–30 September 2019](2019-09-30-Gallup.html) | Gallup | 11 | 10–12 | 10–12 | 10–12 | 9–12 |
@@ -161,7 +161,7 @@ Last result: **7** seats (General Election of 28 October 2017)
 | [1–31 March 2019](2019-03-31-Gallup.html) | Gallup | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [11–14 March 2019](2019-03-14-MMR.html) | MMR | 10 | 8–11 | 8–11 | 7–11 | 7–12 |
 | [31 January–28 February 2019](2019-02-28-Gallup.html) | Gallup | 11 | 10–12 | 10–12 | 10–13 | 10–13 |
-| [11–15 February 2019](2019-02-15-MMR.html) | MMR | 10 | 10–12 | 9–12 | 9–13 | 9–13 |
+| [11–15 February 2019](2019-02-15-MMR.html) | MMR | 10 | 10–12 | 9–12 | 9–12 | 8–13 |
 | [7–31 January 2019](2019-01-31-Gallup.html) | Gallup | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
 | [28 January 2019](2019-01-28-MMR.html) | MMR | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
 | [4–14 January 2019](2019-01-14-MMR.html) | MMR | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
@@ -195,7 +195,7 @@ Last result: **7** seats (General Election of 28 October 2017)
 | [9–17 January 2018](2018-01-17-MMR.html) | MMR | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [30 November–28 December 2017](2017-12-28-Gallup.html) | Gallup | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
 | [12–15 December 2017](2017-12-15-MMR.html) | MMR | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
-| [4 December 2017](2017-12-04-FréttablaðiðStöð2Vísir.html) | Fréttablaðið/Stöð 2/Vísir | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
+| [4 December 2017](2017-12-04-FréttablaðiðStöð2Vísir.html) | Fréttablaðið/Stöð 2/Vísir | 9 | 8–10 | 8–11 | 7–11 | 7–11 |
 | [4 December 2017](2017-12-04-Fréttablaðið-Stöð2-Vísir.html) | Fréttablaðið, Stöð 2 and Vísir | 9 | 8–10 | 8–11 | 7–11 | 7–12 |
 | [8–30 November 2017](2017-11-30-Gallup.html) | Gallup | 11 | 10–11 | 10–12 | 10–12 | 9–12 |
 | [14–17 November 2017](2017-11-17-MMR.html) | MMR | 10 | 9–11 | 9–12 | 9–12 | 8–13 |

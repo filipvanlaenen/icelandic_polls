@@ -140,7 +140,7 @@ Last result: **16** seats (General Election of 28 October 2017)
 | [28 October–1 December 2019](2019-12-01-Gallup.html) | Gallup | 15 | 14–15 | 14–16 | 14–16 | 14–16 |
 | [15–22 November 2019](2019-11-22-MMR.html) | MMR | 13 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [30 September–27 October 2019](2019-10-27-Gallup.html) | Gallup | 15 | 15–16 | 15–16 | 14–16 | 14–17 |
-| [21–25 October 2019](2019-10-25-MMR.html) | MMR | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
+| [21–25 October 2019](2019-10-25-MMR.html) | MMR | 14 | 13–15 | 13–15 | 12–16 | 12–17 |
 | [10–14 October 2019](2019-10-14-Zenter.html) | Zenter | 13 | 13–14 | 12–14 | 12–15 | 12–15 |
 | [30 September–9 October 2019](2019-10-09-MMR.html) | MMR | 14 | 13–15 | 13–15 | 12–15 | 12–15 |
 | [1–30 September 2019](2019-09-30-Gallup.html) | Gallup | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
@@ -196,7 +196,7 @@ Last result: **16** seats (General Election of 28 October 2017)
 | [9–17 January 2018](2018-01-17-MMR.html) | MMR | 18 | 16–19 | 16–19 | 16–19 | 15–19 |
 | [30 November–28 December 2017](2017-12-28-Gallup.html) | Gallup | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [12–15 December 2017](2017-12-15-MMR.html) | MMR | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
-| [4 December 2017](2017-12-04-FréttablaðiðStöð2Vísir.html) | Fréttablaðið/Stöð 2/Vísir | 19 | 16–19 | 16–20 | 16–20 | 15–21 |
+| [4 December 2017](2017-12-04-FréttablaðiðStöð2Vísir.html) | Fréttablaðið/Stöð 2/Vísir | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
 | [4 December 2017](2017-12-04-Fréttablaðið-Stöð2-Vísir.html) | Fréttablaðið, Stöð 2 and Vísir | 18 | 17–20 | 16–20 | 16–21 | 15–22 |
 | [8–30 November 2017](2017-11-30-Gallup.html) | Gallup | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [14–17 November 2017](2017-11-17-MMR.html) | MMR | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
