@@ -132,7 +132,7 @@ Last result: **7** seats (General Election of 28 October 2017)
 | [3 February–1 March 2020](2020-03-01-Gallup.html) | Gallup | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | [6–10 February 2020](2020-02-10-MMR.html) | MMR | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
 | [3 January–2 February 2020](2020-02-02-Gallup.html) | Gallup | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
-| [28 January 2020](2020-01-28-MMR.html) | MMR | 11 | 10–13 | 10–13 | 10–14 | 9–14 |
+| [28 January 2020](2020-01-28-MMR.html) | MMR | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
 | [3–13 January 2020](2020-01-13-MMR.html) | MMR | 12 | 11–12 | 11–13 | 10–13 | 10–14 |
 | [2 December 2019–1 January 2020](2020-01-01-Gallup.html) | Gallup | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
 | [13–19 December 2019](2019-12-19-MMR.html) | MMR | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
