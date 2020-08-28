@@ -162,7 +162,7 @@ Last result: **4** seats (General Election of 28 October 2017)
 | [7–31 January 2019](2019-01-31-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [28 January 2019](2019-01-28-MMR.html) | MMR | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [4–14 January 2019](2019-01-14-MMR.html) | MMR | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [3 December 2018–1 January 2019](2019-01-01-Gallup.html) | Gallup | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [3 December 2018–1 January 2019](2019-01-01-Gallup.html) | Gallup | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [5–11 December 2018](2018-12-11-MMR.html) | MMR | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [3–4 December 2018](2018-12-04-Zenter.html) | Zenter | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [30 November–3 December 2018](2018-12-03-Maskína.html) | Maskína | 0 | 0–3 | 0–3 | 0–3 | 0–4 |

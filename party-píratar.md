@@ -145,7 +145,7 @@ Last result: **6** seats (General Election of 28 October 2017)
 | [10–14 October 2019](2019-10-14-Zenter.html) | Zenter | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [30 September–9 October 2019](2019-10-09-MMR.html) | MMR | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [1–30 September 2019](2019-09-30-Gallup.html) | Gallup | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
-| [9–16 September 2019](2019-09-16-MMR.html) | MMR | 9 | 7–9 | 7–9 | 7–10 | 7–10 |
+| [9–16 September 2019](2019-09-16-MMR.html) | MMR | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | [29 July–1 September 2019](2019-09-01-Gallup.html) | Gallup | 6 | 6 | 6 | 6 | 5–7 |
 | [12–19 August 2019](2019-08-19-MMR.html) | MMR | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [1–31 July 2019](2019-07-31-Gallup.html) | Gallup | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
@@ -160,14 +160,14 @@ Last result: **6** seats (General Election of 28 October 2017)
 | [5–30 April 2019](2019-04-30-Gallup.html) | Gallup | 7 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [13 April 2019](2019-04-13-MMR.html) | MMR | 9 | 8–10 | 8–10 | 7–10 | 7–12 |
 | [4–9 April 2019](2019-04-09-MMR.html) | MMR | 10 | 9–11 | 9–11 | 8–12 | 8–13 |
-| [1–31 March 2019](2019-03-31-Gallup.html) | Gallup | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| [1–31 March 2019](2019-03-31-Gallup.html) | Gallup | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | [11–14 March 2019](2019-03-14-MMR.html) | MMR | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
-| [31 January–28 February 2019](2019-02-28-Gallup.html) | Gallup | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
+| [31 January–28 February 2019](2019-02-28-Gallup.html) | Gallup | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [11–15 February 2019](2019-02-15-MMR.html) | MMR | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [7–31 January 2019](2019-01-31-Gallup.html) | Gallup | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [28 January 2019](2019-01-28-MMR.html) | MMR | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [4–14 January 2019](2019-01-14-MMR.html) | MMR | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
-| [3 December 2018–1 January 2019](2019-01-01-Gallup.html) | Gallup | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
+| [3 December 2018–1 January 2019](2019-01-01-Gallup.html) | Gallup | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [5–11 December 2018](2018-12-11-MMR.html) | MMR | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | [3–4 December 2018](2018-12-04-Zenter.html) | Zenter | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [30 November–3 December 2018](2018-12-03-Maskína.html) | Maskína | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
