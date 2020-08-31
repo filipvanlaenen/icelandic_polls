@@ -133,7 +133,7 @@ Last result: **16** seats (General Election of 28 October 2017)
 | [3 February–1 March 2020](2020-03-01-Gallup.html) | Gallup | 15 | 15–16 | 15–16 | 14–16 | 14–17 |
 | [6–10 February 2020](2020-02-10-MMR.html) | MMR | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
 | [3 January–2 February 2020](2020-02-02-Gallup.html) | Gallup | 15 | 15–16 | 14–16 | 14–16 | 14–16 |
-| [28 January 2020](2020-01-28-MMR.html) | MMR | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
+| [28 January 2020](2020-01-28-MMR.html) | MMR | 13 | 12–15 | 11–15 | 11–15 | 11–16 |
 | [3–13 January 2020](2020-01-13-MMR.html) | MMR | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
 | [2 December 2019–1 January 2020](2020-01-01-Gallup.html) | Gallup | 16 | 15–16 | 15–17 | 15–17 | 14–17 |
 | [13–19 December 2019](2019-12-19-MMR.html) | MMR | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
@@ -147,7 +147,7 @@ Last result: **16** seats (General Election of 28 October 2017)
 | [9–16 September 2019](2019-09-16-MMR.html) | MMR | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [29 July–1 September 2019](2019-09-01-Gallup.html) | Gallup | 15 | 14–16 | 14–16 | 14–16 | 14–16 |
 | [12–19 August 2019](2019-08-19-MMR.html) | MMR | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
-| [1–31 July 2019](2019-07-31-Gallup.html) | Gallup | 14 | 14–15 | 14–16 | 14–16 | 13–16 |
+| [1–31 July 2019](2019-07-31-Gallup.html) | Gallup | 15 | 14–15 | 14–16 | 14–16 | 13–16 |
 | [24–26 July 2019](2019-07-26-Zenter.html) | Zenter | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
 | [4–17 July 2019](2019-07-17-MMR.html) | MMR | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [31 May–30 June 2019](2019-06-30-Gallup.html) | Gallup | 17 | 16–17 | 16–18 | 15–18 | 15–18 |
@@ -163,7 +163,7 @@ Last result: **16** seats (General Election of 28 October 2017)
 | [11–14 March 2019](2019-03-14-MMR.html) | MMR | 17 | 15–18 | 15–18 | 14–19 | 14–19 |
 | [31 January–28 February 2019](2019-02-28-Gallup.html) | Gallup | 17 | 17–18 | 17–19 | 16–19 | 16–19 |
 | [11–15 February 2019](2019-02-15-MMR.html) | MMR | 15 | 14–17 | 14–17 | 13–18 | 13–19 |
-| [7–31 January 2019](2019-01-31-Gallup.html) | Gallup | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
+| [7–31 January 2019](2019-01-31-Gallup.html) | Gallup | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [28 January 2019](2019-01-28-MMR.html) | MMR | 14 | 13–16 | 13–16 | 13–17 | 12–18 |
 | [4–14 January 2019](2019-01-14-MMR.html) | MMR | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
 | [3 December 2018–1 January 2019](2019-01-01-Gallup.html) | Gallup | 15 | 14–16 | 14–17 | 14–17 | 14–17 |

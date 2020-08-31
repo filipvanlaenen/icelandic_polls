@@ -129,7 +129,7 @@ Last result: **4** seats (General Election of 28 October 2017)
 | [3 February–1 March 2020](2020-03-01-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [6–10 February 2020](2020-02-10-MMR.html) | MMR | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [3 January–2 February 2020](2020-02-02-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
-| [28 January 2020](2020-01-28-MMR.html) | MMR | 0 | 0 | 0–3 | 0–3 | 0–3 |
+| [28 January 2020](2020-01-28-MMR.html) | MMR | 0 | 0 | 0–1 | 0–3 | 0–3 |
 | [3–13 January 2020](2020-01-13-MMR.html) | MMR | 0 | 0 | 0 | 0 | 0 |
 | [2 December 2019–1 January 2020](2020-01-01-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0–3 |
 | [13–19 December 2019](2019-12-19-MMR.html) | MMR | 0 | 0 | 0–3 | 0–3 | 0–4 |
@@ -152,7 +152,7 @@ Last result: **4** seats (General Election of 28 October 2017)
 | [23–29 May 2019](2019-05-29-MMR.html) | MMR | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [14–16 May 2019](2019-05-16-MMR.html) | MMR | 4 | 3–5 | 3–5 | 3–5 | 0–5 |
 | [30 April–3 May 2019](2019-05-03-MMR.html) | MMR | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [5–30 April 2019](2019-04-30-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
+| [5–30 April 2019](2019-04-30-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0–3 |
 | [13 April 2019](2019-04-13-MMR.html) | MMR | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [4–9 April 2019](2019-04-09-MMR.html) | MMR | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [1–31 March 2019](2019-03-31-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
