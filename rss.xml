@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Sat, 29 Aug 2020 19:12:25 +0200</pubDate>
+    <pubDate>Sun, 30 Aug 2020 22:21:58 +0200</pubDate>
     <item>
       <title>Opinion Poll by MMR, 23–28 July 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2020-07-28-MMR.html#seats</link>
@@ -400,14 +400,34 @@
       <dc:date>2020-03-02T19:22:32.921552+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by MMR, 28 January 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2020-01-28-MMR.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 11–15 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 4–7 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 10–14 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 10–14 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 3–6 seats&lt;/li&gt;&lt;li&gt;Píratar: 6–8 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–3 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 7–10 seats&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2020-01-28-MMR-seats.png"
+        length="222267"
+        type="image/png"/>
+      <pubDate>Sat, 29 Aug 2020 20:48:17 +0200</pubDate>
+      <dc:date>2020-08-29T20:48:17.578222+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MMR, 28 January 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2020-01-28-MMR.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2020-01-28-MMR-coalitions-seats.png"
+        length="599458"
+        type="image/png"/>
+      <pubDate>Sat, 29 Aug 2020 20:48:17 +0200</pubDate>
+      <dc:date>2020-08-29T20:48:17.578222+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by MMR, 28 January 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2020-01-28-MMR.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 16.6–21.7%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 7.0–10.7%&lt;/li&gt;&lt;li&gt;Samfylkingin: 14.3–19.2%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 12.9–17.5%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 5.6–9.0%&lt;/li&gt;&lt;li&gt;Píratar: 8.7–12.7%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 2.8–5.3%&lt;/li&gt;&lt;li&gt;Viðreisn: 10.4–14.7%&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 3.7–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2020-01-28-MMR.png"
         length="305362"
         type="image/png"/>
-      <pubDate>Thu, 27 Aug 2020 23:01:37 +0200</pubDate>
-      <dc:date>2020-08-27T23:01:37.528984+02:00</dc:date>
+      <pubDate>Sat, 29 Aug 2020 20:48:17 +0200</pubDate>
+      <dc:date>2020-08-29T20:48:17.578222+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MMR, 3–13 January 2020 – Seat Projections for the Parties</title>
@@ -740,14 +760,34 @@
       <dc:date>2020-08-28T18:46:16.810069+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Gallup, 29 July–1 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-09-01-Gallup.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 14–16 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 8–10 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 10–11 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 9–10 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 5–6 seats&lt;/li&gt;&lt;li&gt;Píratar: 6–7 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 7–8 seats&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-09-01-Gallup-seats.png"
+        length="193888"
+        type="image/png"/>
+      <pubDate>Sat, 29 Aug 2020 19:35:41 +0200</pubDate>
+      <dc:date>2020-08-29T19:35:41.008009+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 29 July–1 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-09-01-Gallup.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-09-01-Gallup-coalitions-seats.png"
+        length="424581"
+        type="image/png"/>
+      <pubDate>Sat, 29 Aug 2020 19:35:41 +0200</pubDate>
+      <dc:date>2020-08-29T19:35:41.008009+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Gallup, 29 July–1 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2019-09-01-Gallup.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 20.5–23.0%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 11.8–13.9%&lt;/li&gt;&lt;li&gt;Samfylkingin: 14.4–16.6%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 12.4–14.5%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 7.5–9.2%&lt;/li&gt;&lt;li&gt;Píratar: 8.4–10.2%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 3.2–4.4%&lt;/li&gt;&lt;li&gt;Viðreisn: 10.4–12.4%&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 3.2–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-09-01-Gallup.png"
         length="260606"
         type="image/png"/>
-      <pubDate>Sat, 29 Aug 2020 19:12:25 +0200</pubDate>
-      <dc:date>2020-08-29T19:12:25.757273+02:00</dc:date>
+      <pubDate>Sat, 29 Aug 2020 19:35:41 +0200</pubDate>
+      <dc:date>2020-08-29T19:35:41.008009+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MMR, 12–19 August 2019 – Seat Projections for the Parties</title>
@@ -780,14 +820,34 @@
       <dc:date>2020-08-12T21:34:55.663527+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Gallup, 1–31 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-07-31-Gallup.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 14–16 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 7–10 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 8–10 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 8–10 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 5–7 seats&lt;/li&gt;&lt;li&gt;Píratar: 8–9 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 7–9 seats&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-07-31-Gallup-seats.png"
+        length="198247"
+        type="image/png"/>
+      <pubDate>Sun, 30 Aug 2020 19:53:41 +0200</pubDate>
+      <dc:date>2020-08-30T19:53:41.909588+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 1–31 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-07-31-Gallup.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-07-31-Gallup-coalitions-seats.png"
+        length="446829"
+        type="image/png"/>
+      <pubDate>Sun, 30 Aug 2020 19:53:41 +0200</pubDate>
+      <dc:date>2020-08-30T19:53:41.909588+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Gallup, 1–31 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2019-07-31-Gallup.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 19.9–23.5%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 10.7–13.5%&lt;/li&gt;&lt;li&gt;Samfylkingin: 12.3–15.3%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 10.8–13.6%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 7.4–9.8%&lt;/li&gt;&lt;li&gt;Píratar: 11.4–14.3%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 3.0–4.6%&lt;/li&gt;&lt;li&gt;Viðreisn: 10.9–13.7%&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 2.5–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-07-31-Gallup.png"
         length="271673"
         type="image/png"/>
-      <pubDate>Fri, 28 Aug 2020 23:59:10 +0200</pubDate>
-      <dc:date>2020-08-28T23:59:10.305756+02:00</dc:date>
+      <pubDate>Sun, 30 Aug 2020 19:53:41 +0200</pubDate>
+      <dc:date>2020-08-30T19:53:41.909588+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Zenter, 24–26 July 2019 – Seat Projections for the Parties</title>
@@ -1030,14 +1090,34 @@
       <dc:date>2020-08-19T20:28:53.945554+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Gallup, 5–30 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-04-30-Gallup.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 16–17 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 8–10 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 10–12 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 5–7 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 5–6 seats&lt;/li&gt;&lt;li&gt;Píratar: 7–8 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 7–8 seats&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-04-30-Gallup-seats.png"
+        length="189564"
+        type="image/png"/>
+      <pubDate>Sat, 29 Aug 2020 21:25:27 +0200</pubDate>
+      <dc:date>2020-08-29T21:25:27.244724+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 5–30 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-04-30-Gallup.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-04-30-Gallup-coalitions-seats.png"
+        length="425683"
+        type="image/png"/>
+      <pubDate>Sat, 29 Aug 2020 21:25:27 +0200</pubDate>
+      <dc:date>2020-08-29T21:25:27.244724+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Gallup, 5–30 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2019-04-30-Gallup.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 22.1–25.2%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 12.1–14.6%&lt;/li&gt;&lt;li&gt;Samfylkingin: 14.9–17.6%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 7.9–10.0%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 7.1–9.0%&lt;/li&gt;&lt;li&gt;Píratar: 10.0–12.3%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 3.4–4.8%&lt;/li&gt;&lt;li&gt;Viðreisn: 9.9–12.2%&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 3.0–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-04-30-Gallup.png"
-        length="207448"
+        length="262605"
         type="image/png"/>
-      <pubDate>Wed, 01 Jan 2020 17:19:52 +0100</pubDate>
-      <dc:date>2020-01-01T17:19:52.716483+01:00</dc:date>
+      <pubDate>Sat, 29 Aug 2020 21:25:27 +0200</pubDate>
+      <dc:date>2020-08-29T21:25:27.244724+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MMR, 13 April 2019 – Seat Projections for the Parties</title>
@@ -1220,14 +1300,34 @@
       <dc:date>2020-08-21T21:04:34.244525+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Gallup, 7–31 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-01-31-Gallup.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 15–18 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 6–8 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 12–15 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 3–5 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 5–7 seats&lt;/li&gt;&lt;li&gt;Píratar: 8–10 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 5–7 seats&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-01-31-Gallup-seats.png"
+        length="209689"
+        type="image/png"/>
+      <pubDate>Sun, 30 Aug 2020 21:31:10 +0200</pubDate>
+      <dc:date>2020-08-30T21:31:10.057435+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 7–31 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-01-31-Gallup.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-01-31-Gallup-coalitions-seats.png"
+        length="497198"
+        type="image/png"/>
+      <pubDate>Sun, 30 Aug 2020 21:31:10 +0200</pubDate>
+      <dc:date>2020-08-30T21:31:10.057435+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Gallup, 7–31 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2019-01-31-Gallup.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 21.7–25.2%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 10.1–12.7%&lt;/li&gt;&lt;li&gt;Samfylkingin: 17.6–20.8%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 5.6–7.6%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 7.7–10.0%&lt;/li&gt;&lt;li&gt;Píratar: 11.4–14.1%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 3.0–4.5%&lt;/li&gt;&lt;li&gt;Viðreisn: 8.0–10.3%&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 4.5–6.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-01-31-Gallup.png"
         length="272872"
         type="image/png"/>
-      <pubDate>Sun, 23 Aug 2020 23:10:01 +0200</pubDate>
-      <dc:date>2020-08-23T23:10:01.508597+02:00</dc:date>
+      <pubDate>Sun, 30 Aug 2020 21:31:10 +0200</pubDate>
+      <dc:date>2020-08-30T21:31:10.057435+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MMR, 28 January 2019 – Seat Projections for the Parties</title>
@@ -2190,14 +2290,34 @@
       <dc:date>2018-02-15T10:44:42.695262+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Fréttablaðið/Stöð 2/Vísir, 4 December 2017 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2017-12-04-FréttablaðiðStöð2Vísir.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 16–21 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 14–19 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 7–11 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 3–6 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 6–9 seats&lt;/li&gt;&lt;li&gt;Píratar: 4–7 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–3 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2017-12-04-FréttablaðiðStöð2Vísir-seats.png"
+        length="209435"
+        type="image/png"/>
+      <pubDate>Sun, 30 Aug 2020 22:21:58 +0200</pubDate>
+      <dc:date>2020-08-30T22:21:58.311493+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Fréttablaðið/Stöð 2/Vísir, 4 December 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2017-12-04-FréttablaðiðStöð2Vísir.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2017-12-04-FréttablaðiðStöð2Vísir-coalitions-seats.png"
+        length="567147"
+        type="image/png"/>
+      <pubDate>Sun, 30 Aug 2020 22:21:58 +0200</pubDate>
+      <dc:date>2020-08-30T22:21:58.311493+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Fréttablaðið/Stöð 2/Vísir, 4 December 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2017-12-04-FréttablaðiðStöð2Vísir.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 23.4–29.5%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 20.7–26.6%&lt;/li&gt;&lt;li&gt;Samfylkingin: 11.2–16.0%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 5.7–9.4%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 9.3–13.7%&lt;/li&gt;&lt;li&gt;Píratar: 6.1–9.8%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 2.8–5.6%&lt;/li&gt;&lt;li&gt;Viðreisn: 3.6–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2017-12-04-FréttablaðiðStöð2Vísir.png"
         length="276016"
         type="image/png"/>
-      <pubDate>Fri, 21 Aug 2020 23:06:38 +0200</pubDate>
-      <dc:date>2020-08-21T23:06:38.286304+02:00</dc:date>
+      <pubDate>Sun, 30 Aug 2020 22:21:58 +0200</pubDate>
+      <dc:date>2020-08-30T22:21:58.311493+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Fréttablaðið, Stöð 2 and Vísir, 4 December 2017 – Seat Projections for the Parties</title>
@@ -2289,6 +2409,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2020-08-29T19:12:25.757273+02:00</dc:date>
+    <dc:date>2020-08-30T22:21:58.311493+02:00</dc:date>
   </channel>
 </rss>
