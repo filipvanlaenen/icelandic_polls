@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | D | V | S | M | B | P | F | C | A | R | T | J |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 22–24% <br> 15–16 | 12–14% <br> 8–10 | 14–16% <br> 9–11 | 9–11% <br> 6–8 | 7–9% <br> 5–6 | 13–15% <br> 9–10 | 3–4% <br> 0 | 10–12% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 0 |
-| [4–31 August 2020](2020-08-31-Gallup.html) | Gallup | 22–24% <br> 15–16 | 12–14% <br> 8–10 | 14–16% <br> 9–11 | 9–11% <br> 6–8 | 7–9% <br> 5–6 | 13–15% <br> 9–10 | 3–4% <br> 0 | 10–11% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 0 |
+| N/A | [Poll Average](average.html) | 22–24% <br> 15–17 | 12–14% <br> 8–10 | 14–16% <br> 9–11 | 9–11% <br> 6–8 | 7–9% <br> 5–6 | 13–15% <br> 9–10 | 3–4% <br> 0 | 10–12% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 0 |
+| [4–31 August 2020](2020-08-31-Gallup.html) | Gallup | 22–24% <br> 15–17 | 12–14% <br> 8–10 | 14–16% <br> 9–11 | 9–11% <br> 6–8 | 7–9% <br> 5–6 | 13–15% <br> 9–10 | 3–4% <br> 0 | 10–11% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 0 |
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
