@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/icelandic_polls</id>
   <title>All Registered Polls for the Alþingi</title>
-  <updated>2020-11-22T10:05:46.946897+01:00</updated>
+  <updated>2020-12-07T16:58:20.08377+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sjálfstæðisflokkurinn: 22.6–24.9%, 16–17 seats</li><li>Vinstrihreyfingin – grænt framboð: 10.9–12.7%, 7–9 seats</li><li>Samfylkingin: 16.1–18.2%, 11–13 seats</li><li>Miðflokkurinn: 8.0–9.6%, 5–6 seats</li><li>Framsóknarflokkurinn: 7.8–9.4%, 5–6 seats</li><li>Píratar: 11.5–13.4%, 8–9 seats</li><li>Flokkur fólksins: 3.6–4.7%, 0 seats</li><li>Viðreisn: 8.9–10.6%, 6–7 seats</li><li>Sósíalistaflokkur Íslands: 3.2–4.3%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/icelandic_polls/2020-11-30-Gallup.html</id>
+    <link href="https://filipvanlaenen.github.io/icelandic_polls/2020-11-30-Gallup.html"/>
+    <title>Opinion Poll by Gallup, 2–30 November 2020</title>
+    <updated>2020-12-07T16:58:20.08377+01:00</updated>
+    <dc:date>2020-12-07T16:58:20.08377+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sjálfstæðisflokkurinn: 22.3–27.9%, 16–20 seats</li><li>Vinstrihreyfingin – grænt framboð: 5.9–9.3%, 4–6 seats</li><li>Samfylkingin: 14.5–19.3%, 10–14 seats</li><li>Miðflokkurinn: 7.4–11.1%, 5–8 seats</li><li>Framsóknarflokkurinn: 8.2–12.0%, 5–9 seats</li><li>Píratar: 12.2–16.7%, 8–12 seats</li><li>Flokkur fólksins: 2.8–5.3%, 0–3 seats</li><li>Viðreisn: 6.8–10.4%, 4–7 seats</li><li>Sósíalistaflokkur Íslands: 2.9–5.5%, 0–3 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/icelandic_polls/2020-11-11-MMR.html</id>
@@ -703,5 +711,5 @@
     <updated>2018-03-06T13:52:40.577453+01:00</updated>
     <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
   </entry>
-  <dc:date>2020-11-22T10:05:46.946897+01:00</dc:date>
+  <dc:date>2020-12-07T16:58:20.08377+01:00</dc:date>
 </feed>
