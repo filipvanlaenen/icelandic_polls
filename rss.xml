@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Fri, 15 Jan 2021 20:33:42 +0100</pubDate>
+    <pubDate>Tue, 19 Jan 2021 20:20:33 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by MMR, 30 December 2020–11 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-01-11-MMR.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 16–19 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 6–9 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 9–12 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 4–7 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 5–7 seats&lt;/li&gt;&lt;li&gt;Píratar: 7–9 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–4 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 5–7 seats&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-01-11-MMR-seats.png"
+        length="227055"
+        type="image/png"/>
+      <pubDate>Tue, 19 Jan 2021 20:20:33 +0100</pubDate>
+      <dc:date>2021-01-19T20:20:33.707418+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MMR, 30 December 2020–11 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-01-11-MMR.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-01-11-MMR-coalitions-seats.png"
+        length="564884"
+        type="image/png"/>
+      <pubDate>Tue, 19 Jan 2021 20:20:33 +0100</pubDate>
+      <dc:date>2021-01-19T20:20:33.707418+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MMR, 30 December 2020–11 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2021-01-11-MMR.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-01-11-MMR.png"
         length="274597"
         type="image/png"/>
-      <pubDate>Fri, 15 Jan 2021 20:33:42 +0100</pubDate>
-      <dc:date>2021-01-15T20:33:42.826748+01:00</dc:date>
+      <pubDate>Tue, 19 Jan 2021 20:20:33 +0100</pubDate>
+      <dc:date>2021-01-19T20:20:33.707418+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Gallup, 1 December 2020–3 January 2021 – Seat Projections for the Parties</title>
@@ -2749,6 +2769,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2021-01-15T20:33:42.826748+01:00</dc:date>
+    <dc:date>2021-01-19T20:20:33.707418+01:00</dc:date>
   </channel>
 </rss>
