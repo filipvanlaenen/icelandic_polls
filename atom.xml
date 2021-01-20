@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/icelandic_polls</id>
   <title>All Registered Polls for the Alþingi</title>
-  <updated>2021-01-11T17:38:00.402398+01:00</updated>
+  <updated>2021-01-19T20:20:33.707418+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sjálfstæðisflokkurinn: 22.5–26.3%, 16–19 seats</li><li>Vinstrihreyfingin – grænt framboð: 9.6–12.3%, 6–9 seats</li><li>Samfylkingin: 14.1–17.2%, 9–12 seats</li><li>Miðflokkurinn: 7.4–9.9%, 4–7 seats</li><li>Framsóknarflokkurinn: 7.9–10.4%, 5–7 seats</li><li>Píratar: 10.9–13.8%, 7–9 seats</li><li>Flokkur fólksins: 4.0–5.9%, 0–4 seats</li><li>Viðreisn: 7.6–10.1%, 5–7 seats</li><li>Sósíalistaflokkur Íslands: 3.6–5.4%, 0–3 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/icelandic_polls/2021-01-11-MMR.html</id>
+    <link href="https://filipvanlaenen.github.io/icelandic_polls/2021-01-11-MMR.html"/>
+    <title>Opinion Poll by MMR, 30 December 2020–11 January 2021</title>
+    <updated>2021-01-19T20:20:33.707418+01:00</updated>
+    <dc:date>2021-01-19T20:20:33.707418+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sjálfstæðisflokkurinn: 22.7–24.9%, 16–17 seats</li><li>Vinstrihreyfingin – grænt framboð: 10.9–12.6%, 7–9 seats</li><li>Samfylkingin: 16.1–18.0%, 11–12 seats</li><li>Miðflokkurinn: 8.4–9.9%, 6–7 seats</li><li>Framsóknarflokkurinn: 7.6–9.1%, 5–6 seats</li><li>Píratar: 11.1–12.8%, 8–9 seats</li><li>Flokkur fólksins: 3.8–4.9%, 0 seats</li><li>Viðreisn: 9.3–10.8%, 6–7 seats</li><li>Sósíalistaflokkur Íslands: 3.3–4.3%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/icelandic_polls/2021-01-03-Gallup.html</id>
@@ -735,5 +743,5 @@
     <updated>2018-03-06T13:52:40.577453+01:00</updated>
     <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
   </entry>
-  <dc:date>2021-01-11T17:38:00.402398+01:00</dc:date>
+  <dc:date>2021-01-19T20:20:33.707418+01:00</dc:date>
 </feed>
