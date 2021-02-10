@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | D | V | S | M | B | P | F | C | A | R | T | J |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 22–26% <br> 15–19 | 10–14% <br> 6–10 | 14–18% <br> 10–12 | 7–10% <br> 5–6 | 8–10% <br> 5–7 | 10–14% <br> 7–9 | 4–6% <br> 0–3 | 8–12% <br> 5–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–3 |
-| [6–31 January 2021](2021-01-31-Gallup.html) | Gallup | 21–24% <br> 15–17 | 12–14% <br> 8–10 | 16–18% <br> 11–12 | 7–9% <br> 5–6 | 9–10% <br> 6–7 | 10–12% <br> 7–8 | 3–4% <br> 0 | 11–13% <br> 8–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 0 |
+| N/A | [Poll Average](average.html) | 22–26% <br> 15–19 | 10–14% <br> 6–10 | 14–18% <br> 10–12 | 7–10% <br> 5–6 | 8–10% <br> 5–7 | 10–14% <br> 7–9 | 4–6% <br> 0–3 | 8–12% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–3 |
+| [6–31 January 2021](2021-01-31-Gallup.html) | Gallup | 21–24% <br> 15–17 | 12–14% <br> 8–10 | 16–18% <br> 10–12 | 7–9% <br> 5–6 | 9–10% <br> 6–7 | 10–12% <br> 7–8 | 3–4% <br> 0 | 11–13% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 0 |
 | [30 December 2020–11 January 2021](2021-01-11-MMR.html) | MMR | 23–26% <br> 16–19 | 10–12% <br> 6–9 | 14–17% <br> 9–12 | 7–10% <br> 4–7 | 8–10% <br> 5–7 | 11–14% <br> 7–9 | 4–6% <br> 0–4 | 8–10% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–5% <br> 0–3 |
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 | 0.0% <br> 0 |
 
