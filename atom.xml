@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/icelandic_polls</id>
   <title>All Registered Polls for the Alþingi</title>
-  <updated>2021-01-19T20:20:33.707418+01:00</updated>
+  <updated>2021-02-09T20:59:36.327244+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sjálfstæðisflokkurinn: 21.5–23.9%, 15–17 seats</li><li>Vinstrihreyfingin – grænt framboð: 11.9–13.8%, 8–10 seats</li><li>Samfylkingin: 15.6–17.7%, 10–12 seats</li><li>Miðflokkurinn: 7.3–8.8%, 5–6 seats</li><li>Framsóknarflokkurinn: 8.7–10.4%, 6–7 seats</li><li>Píratar: 10.2–12.0%, 7–8 seats</li><li>Flokkur fólksins: 3.4–4.5%, 0 seats</li><li>Viðreisn: 10.8–12.6%, 7–9 seats</li><li>Sósíalistaflokkur Íslands: 3.3–4.4%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/icelandic_polls/2021-01-31-Gallup.html</id>
+    <link href="https://filipvanlaenen.github.io/icelandic_polls/2021-01-31-Gallup.html"/>
+    <title>Opinion Poll by Gallup, 6–31 January 2021</title>
+    <updated>2021-02-09T20:59:36.327244+01:00</updated>
+    <dc:date>2021-02-09T20:59:36.327244+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sjálfstæðisflokkurinn: 22.5–26.3%, 16–19 seats</li><li>Vinstrihreyfingin – grænt framboð: 9.6–12.3%, 6–9 seats</li><li>Samfylkingin: 14.1–17.2%, 9–12 seats</li><li>Miðflokkurinn: 7.4–9.9%, 4–7 seats</li><li>Framsóknarflokkurinn: 7.9–10.4%, 5–7 seats</li><li>Píratar: 10.9–13.8%, 7–9 seats</li><li>Flokkur fólksins: 4.0–5.9%, 0–4 seats</li><li>Viðreisn: 7.6–10.1%, 5–7 seats</li><li>Sósíalistaflokkur Íslands: 3.6–5.4%, 0–3 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/icelandic_polls/2021-01-11-MMR.html</id>
@@ -743,5 +751,5 @@
     <updated>2018-03-06T13:52:40.577453+01:00</updated>
     <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
   </entry>
-  <dc:date>2021-01-19T20:20:33.707418+01:00</dc:date>
+  <dc:date>2021-02-09T20:59:36.327244+01:00</dc:date>
 </feed>
