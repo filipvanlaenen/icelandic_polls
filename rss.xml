@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Fri, 26 Feb 2021 20:09:16 +0100</pubDate>
+    <pubDate>Sat, 27 Feb 2021 20:07:50 +0100</pubDate>
     <item>
       <title>Opinion Poll by MMR, 12–18 February 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2021-02-18-MMR.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-02-18-MMR.png"
         length="304838"
         type="image/png"/>
-      <pubDate>Fri, 26 Feb 2021 20:09:16 +0100</pubDate>
-      <dc:date>2021-02-26T20:09:16.933987+01:00</dc:date>
+      <pubDate>Sat, 27 Feb 2021 20:07:50 +0100</pubDate>
+      <dc:date>2021-02-27T20:07:50.049472+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Gallup, 6–31 January 2021 – Seat Projections for the Parties</title>
@@ -2809,6 +2809,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2021-02-26T20:09:16.933987+01:00</dc:date>
+    <dc:date>2021-02-27T20:07:50.049472+01:00</dc:date>
   </channel>
 </rss>
