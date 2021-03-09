@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | D | V | S | M | B | P | F | C | A | R | T | J |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 20–25% <br> 14–18 | 12–16% <br> 8–11 | 12–18% <br> 8–12 | 7–10% <br> 4–7 | 9–13% <br> 6–10 | 10–13% <br> 7–9 | 3–5% <br> 0 | 9–13% <br> 6–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–3 |
+| N/A | [Poll Average](average.html) | 20–25% <br> 14–18 | 12–16% <br> 8–11 | 12–15% <br> 8–10 | 7–10% <br> 4–7 | 10–13% <br> 6–10 | 10–13% <br> 7–9 | 3–5% <br> 0 | 9–12% <br> 5–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–4 |
+| [1–28 February 2021](2021-02-28-Gallup.html) | Gallup | 22–24% <br> 14–17 | 12–14% <br> 8–10 | 13–15% <br> 9–10 | 7–8% <br> 4–5 | 9–11% <br> 6–8 | 11–13% <br> 7–9 | 3–5% <br> 0 | 9–10% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–6% <br> 3–4 |
 | [12–18 February 2021](2021-02-18-MMR.html) | MMR | 20–25% <br> 14–18 | 11–16% <br> 8–11 | 11–16% <br> 7–11 | 6–10% <br> 4–7 | 10–14% <br> 6–10 | 10–14% <br> 6–9 | 3–5% <br> 0 | 9–13% <br> 6–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–3 |
-| [6–31 January 2021](2021-01-31-Gallup.html) | Gallup | 21–24% <br> 15–17 | 12–14% <br> 8–10 | 16–18% <br> 10–12 | 7–9% <br> 5–6 | 9–10% <br> 6–7 | 10–12% <br> 7–8 | 3–4% <br> 0 | 11–13% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 0 |
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
