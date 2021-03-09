@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Alþingi</description>
     <pubDate>Mon, 20 Jul 2020 06:57:09 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Gallup, 1–28 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-02-28-Gallup.html</link>
+      <description><![CDATA[Voting intentions for the Alþingi<br/>Opinion poll by Gallup, 1–28 February 2021<br/>Details on https://filipvanlaenen.github.io/icelandic_polls/2021-02-28-Gallup.html<br/><img src="https://filipvanlaenen.github.io/icelandic_polls/2021-02-28-Gallup.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-02-28-Gallup.png" length="253718" type="image/png"/>
+      <pubDate>Tue, 9 Mar 2021 08:19:06 +0100</pubDate>
+      <dc:date>2021-03-09T08:19:06.275138+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by MMR, 12–18 February 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2021-02-18-MMR.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Alþingi<br/>32 seats needed for a majority<br/>Opinion poll by MMR, 12–18 February 2021<br/>Details on https://filipvanlaenen.github.io/icelandic_polls/2021-02-18-MMR.html<br/><img src="https://filipvanlaenen.github.io/icelandic_polls/2021-02-18-MMR-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2020-11-01-Gallup.png" length="251227" type="image/png"/>
       <pubDate>Wed, 4 Nov 2020 08:36:44 +0100</pubDate>
       <dc:date>2020-11-04T08:36:44.50665+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by MMR, 23–28 October 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/icelandic_polls/2020-10-28-MMR.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Alþingi<br/>32 seats needed for a majority<br/>Opinion poll by MMR, 23–28 October 2020<br/>Details on https://filipvanlaenen.github.io/icelandic_polls/2020-10-28-MMR.html<br/><img src="https://filipvanlaenen.github.io/icelandic_polls/2020-10-28-MMR-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2020-10-28-MMR-seating-plan.png" length="451421" type="image/png"/>
-      <pubDate>Wed, 4 Nov 2020 08:00:39 +0100</pubDate>
-      <dc:date>2020-11-04T08:00:39.158377+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by MMR, 23–28 October 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/icelandic_polls/2020-10-28-MMR.html#seats</link>
-      <description><![CDATA[Seat projections for the Alþingi<br/>32 seats needed for a majority<br/>Opinion poll by MMR, 23–28 October 2020<br/>Details on https://filipvanlaenen.github.io/icelandic_polls/2020-10-28-MMR.html<br/><img src="https://filipvanlaenen.github.io/icelandic_polls/2020-10-28-MMR-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2020-10-28-MMR-seats.png" length="225558" type="image/png"/>
-      <pubDate>Wed, 4 Nov 2020 08:00:39 +0100</pubDate>
-      <dc:date>2020-11-04T08:00:39.158377+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by MMR, 23–28 October 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/icelandic_polls/2020-10-28-MMR.html</link>
-      <description><![CDATA[Voting intentions for the Alþingi<br/>Opinion poll by MMR, 23–28 October 2020<br/>Details on https://filipvanlaenen.github.io/icelandic_polls/2020-10-28-MMR.html<br/><img src="https://filipvanlaenen.github.io/icelandic_polls/2020-10-28-MMR.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2020-10-28-MMR.png" length="308600" type="image/png"/>
-      <pubDate>Wed, 4 Nov 2020 08:00:39 +0100</pubDate>
-      <dc:date>2020-11-04T08:00:39.158377+01:00</dc:date>
     </item>
   </channel>
 </rss>
