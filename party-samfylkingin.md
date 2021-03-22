@@ -10,7 +10,8 @@ Last result: **12.1%** (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.0% | 12.3–15.0% | 11.8–15.2% | 11.5–15.4% | 10.8–16.0% |
+| N/A | [Poll Average](average.html) | 14.2% | 12.9–15.1% | 12.4–15.4% | 12.1–15.8% | 11.4–16.6% |
+| [5–10 March 2021](2021-03-10-MMR.html) | MMR | 13.8% | 12.4–15.3% | 12.1–15.7% | 11.7–16.1% | 11.1–16.9% |
 | [1–28 February 2021](2021-02-28-Gallup.html) | Gallup | 14.4% | 13.8–15.1% | 13.6–15.3% | 13.4–15.4% | 13.1–15.7% |
 | [12–18 February 2021](2021-02-18-MMR.html) | MMR | 13.2% | 11.8–14.7% | 11.4–15.1% | 11.1–15.5% | 10.5–16.3% |
 | [6–31 January 2021](2021-01-31-Gallup.html) | Gallup | 16.6% | 15.9–17.3% | 15.7–17.5% | 15.6–17.7% | 15.2–18.0% |
@@ -113,16 +114,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.3% | 100% |  |
-| 10.5–11.5% | 3% | 99.7% |  |
-| 11.5–12.5% | 10% | 97% | Last Result |
-| 12.5–13.5% | 19% | 87% |  |
-| 13.5–14.5% | 42% | 67% | Median |
-| 14.5–15.5% | 23% | 25% |  |
-| 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0.8% | 100% |  |
+| 11.5–12.5% | 5% | 99.2% | Last Result |
+| 12.5–13.5% | 16% | 94% |  |
+| 13.5–14.5% | 46% | 78% | Median |
+| 14.5–15.5% | 28% | 32% |  |
+| 15.5–16.5% | 4% | 4% |  |
+| 16.5–17.5% | 0.5% | 0.5% |  |
 | 17.5–18.5% | 0% | 0% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -133,7 +134,8 @@ Last result: **7** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
+| N/A | [Poll Average](average.html) | 10 | 9–10 | 8–11 | 8–11 | 7–11 |
+| [5–10 March 2021](2021-03-10-MMR.html) | MMR | 9 | 9–11 | 8–11 | 8–11 | 7–12 |
 | [1–28 February 2021](2021-02-28-Gallup.html) | Gallup | 10 | 9–10 | 9–10 | 9–10 | 8–11 |
 | [12–18 February 2021](2021-02-18-MMR.html) | MMR | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [6–31 January 2021](2021-01-31-Gallup.html) | Gallup | 12 | 11–12 | 10–12 | 10–12 | 10–12 |
@@ -238,12 +240,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 1.4% | 100% | Last Result |
-| 8 | 12% | 98.5% |  |
-| 9 | 36% | 86% | Median |
-| 10 | 48% | 50% |  |
-| 11 | 2% | 2% |  |
-| 12 | 0.1% | 0.1% |  |
+| 7 | 1.0% | 100% | Last Result |
+| 8 | 4% | 99.0% |  |
+| 9 | 33% | 95% |  |
+| 10 | 55% | 61% | Median |
+| 11 | 6% | 6% |  |
+| 12 | 0.5% | 0.5% |  |
 | 13 | 0% | 0% |  |
 
 
