@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Alþingi</description>
     <pubDate>Mon, 20 Jul 2020 06:57:09 +0200</pubDate>
     <item>
+      <title>Opinion Poll by MMR, 5–10 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-03-10-MMR.html</link>
+      <description><![CDATA[Voting intentions for the Alþingi<br/>Opinion poll by MMR, 5–10 March 2021<br/>Details on https://filipvanlaenen.github.io/icelandic_polls/2021-03-10-MMR.html<br/><img src="https://filipvanlaenen.github.io/icelandic_polls/2021-03-10-MMR.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-03-10-MMR.png" length="302293" type="image/png"/>
+      <pubDate>Mon, 22 Mar 2021 07:59:23 +0100</pubDate>
+      <dc:date>2021-03-22T07:59:23.684649+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Gallup, 1–28 February 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2021-02-28-Gallup.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Alþingi<br/>32 seats needed for a majority<br/>Opinion poll by Gallup, 1–28 February 2021<br/>Details on https://filipvanlaenen.github.io/icelandic_polls/2021-02-28-Gallup.html<br/><img src="https://filipvanlaenen.github.io/icelandic_polls/2021-02-28-Gallup-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2020-11-11-MMR.png" length="296769" type="image/png"/>
       <pubDate>Sun, 22 Nov 2020 10:05:46 +0100</pubDate>
       <dc:date>2020-11-22T10:05:46.946897+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Gallup, 30 September–1 November 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/icelandic_polls/2020-11-01-Gallup.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Alþingi<br/>32 seats needed for a majority<br/>Opinion poll by Gallup, 30 September–1 November 2020<br/>Details on https://filipvanlaenen.github.io/icelandic_polls/2020-11-01-Gallup.html<br/><img src="https://filipvanlaenen.github.io/icelandic_polls/2020-11-01-Gallup-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2020-11-01-Gallup-seating-plan.png" length="438919" type="image/png"/>
-      <pubDate>Wed, 4 Nov 2020 08:36:44 +0100</pubDate>
-      <dc:date>2020-11-04T08:36:44.50665+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Gallup, 30 September–1 November 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/icelandic_polls/2020-11-01-Gallup.html#seats</link>
-      <description><![CDATA[Seat projections for the Alþingi<br/>32 seats needed for a majority<br/>Opinion poll by Gallup, 30 September–1 November 2020<br/>Details on https://filipvanlaenen.github.io/icelandic_polls/2020-11-01-Gallup.html<br/><img src="https://filipvanlaenen.github.io/icelandic_polls/2020-11-01-Gallup-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2020-11-01-Gallup-seats.png" length="187379" type="image/png"/>
-      <pubDate>Wed, 4 Nov 2020 08:36:44 +0100</pubDate>
-      <dc:date>2020-11-04T08:36:44.50665+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Gallup, 30 September–1 November 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/icelandic_polls/2020-11-01-Gallup.html</link>
-      <description><![CDATA[Voting intentions for the Alþingi<br/>Opinion poll by Gallup, 30 September–1 November 2020<br/>Details on https://filipvanlaenen.github.io/icelandic_polls/2020-11-01-Gallup.html<br/><img src="https://filipvanlaenen.github.io/icelandic_polls/2020-11-01-Gallup.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2020-11-01-Gallup.png" length="251227" type="image/png"/>
-      <pubDate>Wed, 4 Nov 2020 08:36:44 +0100</pubDate>
-      <dc:date>2020-11-04T08:36:44.50665+01:00</dc:date>
     </item>
   </channel>
 </rss>
