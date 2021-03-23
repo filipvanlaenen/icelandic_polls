@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Mon, 22 Mar 2021 07:59:23 +0100</pubDate>
+    <pubDate>Tue, 23 Mar 2021 18:29:52 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by MMR, 5–10 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-03-10-MMR.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 12–16 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 6–9 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 8–11 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 5–9 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 8–11 seats&lt;/li&gt;&lt;li&gt;Píratar: 6–9 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–4 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 5–8 seats&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-03-10-MMR-seats.png"
+        length="230188"
+        type="image/png"/>
+      <pubDate>Tue, 23 Mar 2021 18:29:52 +0100</pubDate>
+      <dc:date>2021-03-23T18:29:52.766946+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MMR, 5–10 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-03-10-MMR.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-03-10-MMR-coalitions-seats.png"
+        length="570625"
+        type="image/png"/>
+      <pubDate>Tue, 23 Mar 2021 18:29:52 +0100</pubDate>
+      <dc:date>2021-03-23T18:29:52.766946+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MMR, 5–10 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2021-03-10-MMR.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-03-10-MMR.png"
         length="302293"
         type="image/png"/>
-      <pubDate>Mon, 22 Mar 2021 07:59:23 +0100</pubDate>
-      <dc:date>2021-03-22T07:59:23.684649+01:00</dc:date>
+      <pubDate>Tue, 23 Mar 2021 18:29:52 +0100</pubDate>
+      <dc:date>2021-03-23T18:29:52.766946+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Gallup, 1–28 February 2021 – Seat Projections for the Parties</title>
@@ -2869,6 +2889,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2021-03-22T07:59:23.684649+01:00</dc:date>
+    <dc:date>2021-03-23T18:29:52.766946+01:00</dc:date>
   </channel>
 </rss>
