@@ -10,7 +10,8 @@ Last result: **16.9%** (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.9% | 10.9–13.9% | 10.4–14.1% | 10.1–14.3% | 9.5–14.7% |
+| N/A | [Poll Average](average.html) | 12.1% | 10.9–13.0% | 10.4–13.3% | 10.1–13.5% | 9.5–14.3% |
+| [1–29 March 2021](2021-03-29-Gallup.html) | Gallup | 12.3% | 11.7–12.9% | 11.6–13.1% | 11.4–13.2% | 11.2–13.5% |
 | [5–10 March 2021](2021-03-10-MMR.html) | MMR | 11.7% | 10.4–13.1% | 10.1–13.5% | 9.8–13.9% | 9.2–14.6% |
 | [1–28 February 2021](2021-02-28-Gallup.html) | Gallup | 13.4% | 12.8–14.1% | 12.6–14.2% | 12.5–14.4% | 12.2–14.7% |
 | [12–18 February 2021](2021-02-18-MMR.html) | MMR | 13.5% | 12.1–15.0% | 11.8–15.5% | 11.4–15.9% | 10.8–16.6% |
@@ -117,11 +118,11 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.7% | 100% |  |
 | 9.5–10.5% | 5% | 99.3% |  |
-| 10.5–11.5% | 16% | 94% |  |
-| 11.5–12.5% | 19% | 78% |  |
-| 12.5–13.5% | 37% | 59% | Median |
-| 13.5–14.5% | 21% | 22% |  |
-| 14.5–15.5% | 0.8% | 0.8% |  |
+| 10.5–11.5% | 18% | 94% |  |
+| 11.5–12.5% | 50% | 76% | Median |
+| 12.5–13.5% | 24% | 26% |  |
+| 13.5–14.5% | 2% | 2% |  |
+| 14.5–15.5% | 0.2% | 0.3% |  |
 | 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% | Last Result |
 
@@ -134,7 +135,8 @@ Last result: **11** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–10 | 6–10 | 6–10 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
+| [1–29 March 2021](2021-03-29-Gallup.html) | Gallup | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [5–10 March 2021](2021-03-10-MMR.html) | MMR | 7 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [1–28 February 2021](2021-02-28-Gallup.html) | Gallup | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [12–18 February 2021](2021-02-18-MMR.html) | MMR | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
@@ -242,10 +244,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
 | 6 | 3% | 99.9% |  |
-| 7 | 24% | 97% |  |
-| 8 | 27% | 73% | Median |
-| 9 | 37% | 46% |  |
-| 10 | 8% | 9% |  |
+| 7 | 36% | 97% |  |
+| 8 | 37% | 61% | Median |
+| 9 | 23% | 24% |  |
+| 10 | 1.0% | 1.1% |  |
 | 11 | 0% | 0% | Last Result |
 
 
