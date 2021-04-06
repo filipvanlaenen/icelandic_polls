@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Tue, 23 Mar 2021 18:29:52 +0100</pubDate>
+    <pubDate>Tue, 06 Apr 2021 18:24:30 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Gallup, 1–29 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-03-29-Gallup.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 15–17 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 7–9 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 7–9 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 5–7 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 7–8 seats&lt;/li&gt;&lt;li&gt;Píratar: 6–8 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–3 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 5–7 seats&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-03-29-Gallup-seats.png"
+        length="225479"
+        type="image/png"/>
+      <pubDate>Tue, 06 Apr 2021 18:24:30 +0200</pubDate>
+      <dc:date>2021-04-06T18:24:30.142811+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 1–29 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-03-29-Gallup.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-03-29-Gallup-coalitions-seats.png"
+        length="527347"
+        type="image/png"/>
+      <pubDate>Tue, 06 Apr 2021 18:24:30 +0200</pubDate>
+      <dc:date>2021-04-06T18:24:30.142811+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 1–29 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-03-29-Gallup.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 21.9–24.2%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 11.4–13.2%&lt;/li&gt;&lt;li&gt;Samfylkingin: 11.8–13.6%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 8.7–10.3%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 10.3–12.0%&lt;/li&gt;&lt;li&gt;Píratar: 10.7–12.4%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 4.4–5.6%&lt;/li&gt;&lt;li&gt;Viðreisn: 8.7–10.3%&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 4.4–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-03-29-Gallup.png"
+        length="249672"
+        type="image/png"/>
+      <pubDate>Tue, 06 Apr 2021 18:24:30 +0200</pubDate>
+      <dc:date>2021-04-06T18:24:30.142811+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MMR, 5–10 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2021-03-10-MMR.html#seats</link>
@@ -2889,6 +2919,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2021-03-23T18:29:52.766946+01:00</dc:date>
+    <dc:date>2021-04-06T18:24:30.142811+02:00</dc:date>
   </channel>
 </rss>
