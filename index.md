@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | D | V | S | M | B | P | F | C | A | R | T | J |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 23–28% <br> 16–20 | 11–15% <br> 7–10 | 9–13% <br> 6–8 | 4–7% <br> 1–4 | 11–15% <br> 8–10 | 10–14% <br> 6–9 | 2–5% <br> 0 | 9–13% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–4 |
+| N/A | [Poll Average](average.html) | 22–28% <br> 15–20 | 11–16% <br> 7–11 | 9–13% <br> 6–9 | 5–9% <br> 1–6 | 9–14% <br> 5–10 | 10–14% <br> 6–9 | 2–6% <br> 0–3 | 8–12% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–4 |
 | [7–12 May 2021](2021-05-12-MMR.html) | MMR | 23–28% <br> 16–20 | 11–15% <br> 7–10 | 9–13% <br> 6–8 | 4–7% <br> 1–4 | 11–15% <br> 8–10 | 9–14% <br> 6–9 | 2–5% <br> 0 | 9–13% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–4 |
-| [1–30 April 2021](2021-04-30-Gallup.html) | Gallup | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–30 April 2021](2021-04-30-Gallup.html) | Gallup | 22–26% <br> 15–18 | 13–16% <br> 8–11 | 11–14% <br> 6–9 | 7–9% <br> 4–6 | 9–12% <br> 5–8 | 11–14% <br> 7–9 | 4–6% <br> 0–3 | 8–11% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–3 |
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
