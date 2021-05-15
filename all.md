@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | D | V | S | M | B | P | F | C | A | R | T | J |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 28 October 2017 | General Election | 25.2% <br> 16 | 16.9% <br> 11 | 12.1% <br> 7 | 10.9% <br> 7 | 10.7% <br> 8 | 9.2% <br> 6 | 6.9% <br> 4 | 6.7% <br> 4 | 1.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 | 0.0% <br> 0 |
-| [7–12 May 2021](2021-05-12-MMR.html) | MMR | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–12 May 2021](2021-05-12-MMR.html) | MMR | 23–28% <br> 16–20 | 11–15% <br> 7–10 | 9–13% <br> 6–8 | 4–7% <br> 1–4 | 11–15% <br> 8–10 | 9–14% <br> 6–9 | 2–5% <br> 0 | 9–13% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–4 |
 | [1–30 April 2021](2021-04-30-Gallup.html) | Gallup | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [21–28 April 2021](2021-04-28-MMR.html) | MMR | 26–32% <br> 18–24 | 11–15% <br> 7–10 | 9–13% <br> 6–9 | 4–7% <br> 1–5 | 9–13% <br> 5–9 | 8–12% <br> 4–8 | 4–6% <br> 0–4 | 7–11% <br> 4–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–5 |
 | [29 March–7 April 2021](2021-04-07-MMR.html) | MMR | 20–26% <br> 14–18 | 8–12% <br> 5–8 | 13–18% <br> 9–12 | 5–9% <br> 3–6 | 10–14% <br> 6–10 | 11–16% <br> 7–11 | 4–6% <br> 0–4 | 8–12% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–3 |
