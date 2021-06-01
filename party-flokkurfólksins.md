@@ -55,11 +55,11 @@ Last result: **6.9%** (General Election of 28 October 2017)
 | [21–25 October 2019](2019-10-25-MMR.html) | MMR | 8.0% | 7.0–9.3% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [10–14 October 2019](2019-10-14-Zenter.html) | Zenter | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.8–5.7% |
 | [30 September–9 October 2019](2019-10-09-MMR.html) | MMR | 5.6% | 5.0–6.3% | 4.8–6.5% | 4.7–6.7% | 4.4–7.0% |
-| [1–30 September 2019](2019-09-30-Gallup.html) | Gallup | 4.3% | N/A | N/A | N/A | N/A |
+| [1–30 September 2019](2019-09-30-Gallup.html) | Gallup | 4.3% | 3.7–5.0% | 3.6–5.2% | 3.5–5.3% | 3.2–5.7% |
 | [9–16 September 2019](2019-09-16-MMR.html) | MMR | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [29 July–1 September 2019](2019-09-01-Gallup.html) | Gallup | 3.8% | 3.4–4.2% | 3.3–4.3% | 3.2–4.4% | 3.1–4.6% |
 | [12–19 August 2019](2019-08-19-MMR.html) | MMR | 4.1% | 3.4–5.1% | 3.2–5.3% | 3.1–5.6% | 2.8–6.1% |
-| [1–31 July 2019](2019-07-31-Gallup.html) | Gallup | 3.7% | N/A | N/A | N/A | N/A |
+| [1–31 July 2019](2019-07-31-Gallup.html) | Gallup | 3.7% | 3.2–4.3% | 3.1–4.5% | 2.9–4.7% | 2.7–5.0% |
 | [24–26 July 2019](2019-07-26-Zenter.html) | Zenter | 3.2% | 2.6–4.1% | 2.4–4.4% | 2.3–4.6% | 2.0–5.1% |
 | [4–17 July 2019](2019-07-17-MMR.html) | MMR | 4.8% | 4.2–5.4% | 4.1–5.6% | 3.9–5.8% | 3.7–6.1% |
 | [31 May–30 June 2019](2019-06-30-Gallup.html) | Gallup | 4.2% | 3.8–4.7% | 3.7–4.8% | 3.6–5.0% | 3.4–5.2% |
@@ -181,11 +181,11 @@ Last result: **4** seats (General Election of 28 October 2017)
 | [21–25 October 2019](2019-10-25-MMR.html) | MMR | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [10–14 October 2019](2019-10-14-Zenter.html) | Zenter | 0 | 0 | 0–3 | 0–3 | 0–3 |
 | [30 September–9 October 2019](2019-10-09-MMR.html) | MMR | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
-| [1–30 September 2019](2019-09-30-Gallup.html) | Gallup |  |  |  |  |  |
+| [1–30 September 2019](2019-09-30-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0–3 |
 | [9–16 September 2019](2019-09-16-MMR.html) | MMR | 0 | 0 | 0–3 | 0–3 | 0–3 |
 | [29 July–1 September 2019](2019-09-01-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [12–19 August 2019](2019-08-19-MMR.html) | MMR | 0 | 0 | 0–3 | 0–3 | 0–4 |
-| [1–31 July 2019](2019-07-31-Gallup.html) | Gallup |  |  |  |  |  |
+| [1–31 July 2019](2019-07-31-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0–3 |
 | [24–26 July 2019](2019-07-26-Zenter.html) | Zenter | 0 | 0 | 0 | 0 | 0 |
 | [4–17 July 2019](2019-07-17-MMR.html) | MMR | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [31 May–30 June 2019](2019-06-30-Gallup.html) | Gallup | 0 | 0 | 0 | 0–3 | 0–3 |
