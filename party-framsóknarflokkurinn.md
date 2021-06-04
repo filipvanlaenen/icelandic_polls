@@ -142,9 +142,9 @@ Last result: **8** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–10 | 6–10 | 6–11 | 5–12 |
-| [25 May–1 June 2021](2021-06-01-MMR.html) | MMR | 8 | 8–10 | 7–11 | 7–11 | 7–12 |
-| [1–31 May 2021](2021-05-31-Gallup.html) | Gallup | 8 | 6–8 | 6–8 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 6–10 | 6–11 | 5–12 |
+| [25 May–1 June 2021](2021-06-01-MMR.html) | MMR | 8 | 8–10 | 8–11 | 8–11 | 7–12 |
+| [1–31 May 2021](2021-05-31-Gallup.html) | Gallup | 8 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [7–12 May 2021](2021-05-12-MMR.html) | MMR | 9 | 8–10 | 8–10 | 8–11 | 7–12 |
 | [1–30 April 2021](2021-04-30-Gallup.html) | Gallup | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
 | [21–28 April 2021](2021-04-28-MMR.html) | MMR | 8 | 6–8 | 6–9 | 5–9 | 5–10 |
@@ -255,14 +255,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 2% | 100% |  |
-| 6 | 5% | 98% |  |
-| 7 | 4% | 93% |  |
-| 8 | 70% | 89% | Last Result, Median |
-| 9 | 7% | 20% |  |
-| 10 | 9% | 13% |  |
-| 11 | 3% | 4% |  |
-| 12 | 1.1% | 1.1% |  |
+| 5 | 1.1% | 100% |  |
+| 6 | 7% | 98.9% |  |
+| 7 | 16% | 92% |  |
+| 8 | 54% | 76% | Last Result, Median |
+| 9 | 12% | 22% |  |
+| 10 | 6% | 10% |  |
+| 11 | 3% | 3% |  |
+| 12 | 0.6% | 0.6% |  |
 | 13 | 0% | 0% |  |
 
 
