@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Thu, 03 Jun 2021 21:11:19 +0200</pubDate>
+    <pubDate>Fri, 04 Jun 2021 09:12:05 +0200</pubDate>
     <item>
       <title>Opinion Poll by MMR, 25 May–1 June 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2021-06-01-MMR.html</link>
@@ -18,6 +18,16 @@
         type="image/png"/>
       <pubDate>Thu, 03 Jun 2021 21:11:19 +0200</pubDate>
       <dc:date>2021-06-03T21:11:19.259569+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 1–31 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-05-31-Gallup.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 21.7–25.5%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 13.2–16.4%&lt;/li&gt;&lt;li&gt;Samfylkingin: 11.0–14.0%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 6.1–8.5%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 9.1–11.9%&lt;/li&gt;&lt;li&gt;Píratar: 9.6–12.5%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 3.5–5.3%&lt;/li&gt;&lt;li&gt;Viðreisn: 9.6–12.4%&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 4.5–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-05-31-Gallup.png"
+        length="277152"
+        type="image/png"/>
+      <pubDate>Fri, 04 Jun 2021 09:12:05 +0200</pubDate>
+      <dc:date>2021-06-04T09:12:05.035123+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MMR, 7–12 May 2021 – Seat Projections for the Parties</title>
@@ -3009,6 +3019,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2021-06-03T21:11:19.259569+02:00</dc:date>
+    <dc:date>2021-06-04T09:12:05.035123+02:00</dc:date>
   </channel>
 </rss>
