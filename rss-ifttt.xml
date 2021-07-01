@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Alþingi</description>
     <pubDate>Tue, 6 Apr 2021 16:58:10 +0200</pubDate>
     <item>
+      <title>Opinion Poll by MMR, 4–14 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-06-14-MMR.html</link>
+      <description><![CDATA[Voting intentions for the Alþingi<br/>Opinion poll by MMR, 4–14 June 2021<br/>Details on https://filipvanlaenen.github.io/icelandic_polls/2021-06-14-MMR.html<br/><img src="https://filipvanlaenen.github.io/icelandic_polls/2021-06-14-MMR.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-06-14-MMR.png" length="283687" type="image/png"/>
+      <pubDate>Thu, 1 Jul 2021 12:45:00 +0200</pubDate>
+      <dc:date>2021-07-01T12:45:00.016404+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by MMR, 25 May–1 June 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2021-06-01-MMR.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Alþingi<br/>32 seats needed for a majority<br/>Opinion poll by MMR, 25 May–1 June 2021<br/>Details on https://filipvanlaenen.github.io/icelandic_polls/2021-06-01-MMR.html<br/><img src="https://filipvanlaenen.github.io/icelandic_polls/2021-06-01-MMR-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-02-28-Gallup.png" length="253718" type="image/png"/>
       <pubDate>Fri, 12 Mar 2021 17:51:20 +0100</pubDate>
       <dc:date>2021-03-12T17:51:20.283385+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by MMR, 12–18 February 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-02-18-MMR.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Alþingi<br/>32 seats needed for a majority<br/>Opinion poll by MMR, 12–18 February 2021<br/>Details on https://filipvanlaenen.github.io/icelandic_polls/2021-02-18-MMR.html<br/><img src="https://filipvanlaenen.github.io/icelandic_polls/2021-02-18-MMR-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-02-18-MMR-seating-plan.png" length="445940" type="image/png"/>
-      <pubDate>Sat, 27 Feb 2021 20:38:30 +0100</pubDate>
-      <dc:date>2021-02-27T20:38:30.941154+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by MMR, 12–18 February 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-02-18-MMR.html#seats</link>
-      <description><![CDATA[Seat projections for the Alþingi<br/>32 seats needed for a majority<br/>Opinion poll by MMR, 12–18 February 2021<br/>Details on https://filipvanlaenen.github.io/icelandic_polls/2021-02-18-MMR.html<br/><img src="https://filipvanlaenen.github.io/icelandic_polls/2021-02-18-MMR-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-02-18-MMR-seats.png" length="221343" type="image/png"/>
-      <pubDate>Sat, 27 Feb 2021 20:38:30 +0100</pubDate>
-      <dc:date>2021-02-27T20:38:30.941154+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by MMR, 12–18 February 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-02-18-MMR.html</link>
-      <description><![CDATA[Voting intentions for the Alþingi<br/>Opinion poll by MMR, 12–18 February 2021<br/>Details on https://filipvanlaenen.github.io/icelandic_polls/2021-02-18-MMR.html<br/><img src="https://filipvanlaenen.github.io/icelandic_polls/2021-02-18-MMR.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-02-18-MMR.png" length="304838" type="image/png"/>
-      <pubDate>Sat, 27 Feb 2021 20:38:30 +0100</pubDate>
-      <dc:date>2021-02-27T20:38:30.941154+01:00</dc:date>
     </item>
   </channel>
 </rss>
