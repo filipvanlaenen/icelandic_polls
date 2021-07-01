@@ -10,7 +10,8 @@ Last result: **6.7%** (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.0% | 9.9–12.2% | 9.6–12.5% | 9.4–12.9% | 8.8–13.6% |
+| N/A | [Poll Average](average.html) | 9.6% | 7.2–11.5% | 6.8–11.9% | 6.5–12.1% | 6.0–12.6% |
+| [4–14 June 2021](2021-06-14-MMR.html) | MMR | 7.8% | 6.8–9.0% | 6.5–9.4% | 6.3–9.7% | 5.8–10.3% |
 | [25 May–1 June 2021](2021-06-01-MMR.html) | MMR | 11.0% | 9.8–12.5% | 9.5–12.8% | 9.2–13.2% | 8.7–13.9% |
 | [1–31 May 2021](2021-05-31-Gallup.html) | Gallup | 10.9% | 10.0–11.9% | 9.8–12.1% | 9.6–12.4% | 9.1–12.8% |
 | [7–12 May 2021](2021-05-12-MMR.html) | MMR | 10.6% | 9.4–12.0% | 9.1–12.4% | 8.8–12.7% | 8.3–13.4% |
@@ -121,15 +122,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0% | 100% | Last Result |
-| 7.5–8.5% | 0.2% | 100% |  |
-| 8.5–9.5% | 4% | 99.8% |  |
-| 9.5–10.5% | 26% | 96% |  |
-| 10.5–11.5% | 44% | 70% | Median |
-| 11.5–12.5% | 21% | 26% |  |
-| 12.5–13.5% | 4% | 5% |  |
-| 13.5–14.5% | 0.5% | 0.6% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 4.5–5.5% | 0.1% | 100% |  |
+| 5.5–6.5% | 3% | 99.9% |  |
+| 6.5–7.5% | 15% | 97% | Last Result |
+| 7.5–8.5% | 21% | 82% |  |
+| 8.5–9.5% | 11% | 61% |  |
+| 9.5–10.5% | 16% | 50% | Median |
+| 10.5–11.5% | 25% | 35% |  |
+| 11.5–12.5% | 9% | 9% |  |
+| 12.5–13.5% | 0.7% | 0.7% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -140,7 +142,8 @@ Last result: **4** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
+| N/A | [Poll Average](average.html) | 6 | 4–7 | 4–8 | 4–8 | 4–8 |
+| [4–14 June 2021](2021-06-14-MMR.html) | MMR | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [25 May–1 June 2021](2021-06-01-MMR.html) | MMR | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | [1–31 May 2021](2021-05-31-Gallup.html) | Gallup | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [7–12 May 2021](2021-05-12-MMR.html) | MMR | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
@@ -253,13 +256,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0% | 100% | Last Result |
-| 5 | 0.6% | 100% |  |
-| 6 | 19% | 99.4% |  |
-| 7 | 58% | 81% | Median |
-| 8 | 20% | 23% |  |
-| 9 | 3% | 3% |  |
-| 10 | 0.1% | 0.1% |  |
-| 11 | 0% | 0% |  |
+| 3 | 0.2% | 100% |  |
+| 4 | 13% | 99.8% | Last Result |
+| 5 | 22% | 87% |  |
+| 6 | 24% | 65% | Median |
+| 7 | 36% | 41% |  |
+| 8 | 5% | 5% |  |
+| 9 | 0.4% | 0.4% |  |
+| 10 | 0% | 0% |  |
 
 
