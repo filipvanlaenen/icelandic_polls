@@ -34,7 +34,7 @@ Last result: **10.7%** (General Election of 28 October 2017)
 | [30 September–1 November 2020](2020-11-01-Gallup.html) | Gallup | 7.7% | 7.3–8.2% | 7.2–8.3% | 7.1–8.4% | 6.9–8.7% |
 | [23–28 October 2020](2020-10-28-MMR.html) | MMR | 10.2% | 9.0–11.6% | 8.7–11.9% | 8.4–12.3% | 7.9–13.0% |
 | [1–30 September 2020](2020-09-30-Gallup.html) | Gallup | 6.7% | 6.3–7.2% | 6.2–7.3% | 6.1–7.4% | 5.9–7.7% |
-| [24–28 September 2020](2020-09-28-Maskína.html) | Maskína | 7.8% | N/A | N/A | N/A | N/A |
+| [24–28 September 2020](2020-09-28-Maskína.html) | Maskína | 7.8% | 6.8–9.1% | 6.5–9.5% | 6.2–9.8% | 5.8–10.5% |
 | [10–23 September 2020](2020-09-23-MMR.html) | MMR | 8.3% | 7.6–9.2% | 7.4–9.4% | 7.2–9.6% | 6.9–10.0% |
 | [26 August–2 September 2020](2020-09-02-MMR.html) | MMR | 8.9% | 7.8–10.2% | 7.5–10.6% | 7.3–10.9% | 6.8–11.6% |
 | [4–31 August 2020](2020-08-31-Gallup.html) | Gallup | 7.9% | 7.4–8.4% | 7.3–8.6% | 7.2–8.7% | 7.0–8.9% |
@@ -149,7 +149,7 @@ Last result: **8** seats (General Election of 28 October 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 5–8 | 5–9 | 4–9 | 4–10 |
 | [1–30 June 2021](2021-06-30-Maskína.html) | Maskína | 8 | 7–9 | 7–10 | 6–10 | 6–10 |
-| [1–29 June 2021](2021-06-29-Gallup.html) | Gallup | 8 | 8 | 7–8 | 6–8 | 6–8 |
+| [1–29 June 2021](2021-06-29-Gallup.html) | Gallup | 8 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [4–14 June 2021](2021-06-14-MMR.html) | MMR | 6 | 5–7 | 4–8 | 4–8 | 4–8 |
 | [25 May–1 June 2021](2021-06-01-MMR.html) | MMR | 8 | 8–10 | 8–11 | 8–11 | 7–12 |
 | [1–31 May 2021](2021-05-31-Gallup.html) | Gallup | 8 | 6–8 | 6–8 | 6–8 | 5–8 |
@@ -171,7 +171,7 @@ Last result: **8** seats (General Election of 28 October 2017)
 | [30 September–1 November 2020](2020-11-01-Gallup.html) | Gallup | 5 | 5 | 5 | 5 | 4–6 |
 | [23–28 October 2020](2020-10-28-MMR.html) | MMR | 7 | 6–8 | 6–8 | 5–9 | 5–10 |
 | [1–30 September 2020](2020-09-30-Gallup.html) | Gallup | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [24–28 September 2020](2020-09-28-Maskína.html) | Maskína |  |  |  |  |  |
+| [24–28 September 2020](2020-09-28-Maskína.html) | Maskína | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [10–23 September 2020](2020-09-23-MMR.html) | MMR | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [26 August–2 September 2020](2020-09-02-MMR.html) | MMR | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
 | [4–31 August 2020](2020-08-31-Gallup.html) | Gallup | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -266,9 +266,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 3% | 100% |  |
 | 5 | 12% | 97% |  |
-| 6 | 14% | 85% |  |
-| 7 | 10% | 71% |  |
-| 8 | 54% | 61% | Last Result, Median |
+| 6 | 15% | 85% |  |
+| 7 | 12% | 70% |  |
+| 8 | 50% | 58% | Last Result, Median |
 | 9 | 5% | 8% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0.1% | 0.1% |  |

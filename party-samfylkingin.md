@@ -34,7 +34,7 @@ Last result: **12.1%** (General Election of 28 October 2017)
 | [30 September–1 November 2020](2020-11-01-Gallup.html) | Gallup | 15.8% | 15.3–16.5% | 15.1–16.6% | 15.0–16.8% | 14.7–17.1% |
 | [23–28 October 2020](2020-10-28-MMR.html) | MMR | 15.2% | 13.8–16.8% | 13.4–17.3% | 13.1–17.7% | 12.4–18.5% |
 | [1–30 September 2020](2020-09-30-Gallup.html) | Gallup | 14.9% | 14.3–15.6% | 14.1–15.8% | 14.0–15.9% | 13.7–16.2% |
-| [24–28 September 2020](2020-09-28-Maskína.html) | Maskína | 17.9% | N/A | N/A | N/A | N/A |
+| [24–28 September 2020](2020-09-28-Maskína.html) | Maskína | 17.9% | 16.3–19.6% | 15.9–20.1% | 15.5–20.5% | 14.7–21.4% |
 | [10–23 September 2020](2020-09-23-MMR.html) | MMR | 12.8% | 11.9–13.8% | 11.7–14.1% | 11.4–14.3% | 11.0–14.8% |
 | [26 August–2 September 2020](2020-09-02-MMR.html) | MMR | 14.9% | 13.4–16.4% | 13.0–16.9% | 12.7–17.3% | 12.1–18.1% |
 | [4–31 August 2020](2020-08-31-Gallup.html) | Gallup | 14.7% | 14.1–15.4% | 13.9–15.5% | 13.7–15.7% | 13.4–16.0% |
@@ -170,7 +170,7 @@ Last result: **7** seats (General Election of 28 October 2017)
 | [30 September–1 November 2020](2020-11-01-Gallup.html) | Gallup | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
 | [23–28 October 2020](2020-10-28-MMR.html) | MMR | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [1–30 September 2020](2020-09-30-Gallup.html) | Gallup | 10 | 10–11 | 10–11 | 10–11 | 9–11 |
-| [24–28 September 2020](2020-09-28-Maskína.html) | Maskína |  |  |  |  |  |
+| [24–28 September 2020](2020-09-28-Maskína.html) | Maskína | 13 | 11–13 | 11–13 | 10–14 | 10–14 |
 | [10–23 September 2020](2020-09-23-MMR.html) | MMR | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [26 August–2 September 2020](2020-09-02-MMR.html) | MMR | 10 | 9–12 | 9–12 | 8–12 | 8–12 |
 | [4–31 August 2020](2020-08-31-Gallup.html) | Gallup | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
@@ -263,9 +263,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.7% | 100% |  |
-| 6 | 38% | 99.3% |  |
-| 7 | 23% | 62% | Last Result, Median |
+| 5 | 0.6% | 100% |  |
+| 6 | 34% | 99.4% |  |
+| 7 | 26% | 65% | Last Result, Median |
 | 8 | 23% | 39% |  |
 | 9 | 14% | 16% |  |
 | 10 | 2% | 2% |  |
