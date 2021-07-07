@@ -10,7 +10,8 @@ Last result: **12.1%** (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.0% | 9.6–13.2% | 9.4–13.7% | 9.2–14.2% | 8.9–15.0% |
+| N/A | [Poll Average](average.html) | 10.6% | 9.6–13.1% | 9.4–13.6% | 9.2–14.1% | 8.9–15.0% |
+| [24 June–6 July 2021](2021-07-06-MMR.html) | MMR | 10.6% | 9.8–11.5% | 9.5–11.8% | 9.3–12.0% | 8.9–12.5% |
 | [1–30 June 2021](2021-06-30-Maskína.html) | Maskína | 12.4% | 11.1–13.9% | 10.7–14.4% | 10.4–14.8% | 9.8–15.5% |
 | [1–29 June 2021](2021-06-29-Gallup.html) | Gallup | 9.9% | 9.3–10.5% | 9.2–10.7% | 9.0–10.8% | 8.8–11.1% |
 | [4–14 June 2021](2021-06-14-MMR.html) | MMR | 11.2% | 10.0–12.6% | 9.7–13.0% | 9.4–13.3% | 8.8–14.0% |
@@ -125,15 +126,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 8% | 99.9% |  |
-| 9.5–10.5% | 31% | 92% |  |
-| 10.5–11.5% | 21% | 60% | Median |
-| 11.5–12.5% | 20% | 39% | Last Result |
-| 12.5–13.5% | 13% | 19% |  |
-| 13.5–14.5% | 5% | 6% |  |
-| 14.5–15.5% | 1.1% | 1.2% |  |
+| 8.5–9.5% | 9% | 99.9% |  |
+| 9.5–10.5% | 38% | 91% |  |
+| 10.5–11.5% | 23% | 53% | Median |
+| 11.5–12.5% | 14% | 29% | Last Result |
+| 12.5–13.5% | 10% | 16% |  |
+| 13.5–14.5% | 4% | 6% |  |
+| 14.5–15.5% | 1.0% | 1.2% |  |
 | 15.5–16.5% | 0.1% | 0.2% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
@@ -147,6 +147,7 @@ Last result: **7** seats (General Election of 28 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
+| [24 June–6 July 2021](2021-07-06-MMR.html) | MMR | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [1–30 June 2021](2021-06-30-Maskína.html) | Maskína | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [1–29 June 2021](2021-06-29-Gallup.html) | Gallup | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [4–14 June 2021](2021-06-14-MMR.html) | MMR | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
@@ -263,12 +264,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.6% | 100% |  |
-| 6 | 34% | 99.4% |  |
-| 7 | 26% | 65% | Last Result, Median |
-| 8 | 23% | 39% |  |
-| 9 | 14% | 16% |  |
-| 10 | 2% | 2% |  |
+| 5 | 0.8% | 100% |  |
+| 6 | 41% | 99.2% |  |
+| 7 | 25% | 58% | Last Result, Median |
+| 8 | 19% | 33% |  |
+| 9 | 12% | 14% |  |
+| 10 | 1.4% | 2% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
