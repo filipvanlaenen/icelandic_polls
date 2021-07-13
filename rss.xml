@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Wed, 07 Jul 2021 18:39:13 +0200</pubDate>
+    <pubDate>Tue, 13 Jul 2021 19:12:58 +0200</pubDate>
     <item>
       <title>Opinion Poll by MMR, 24 June–6 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2021-07-06-MMR.html#seats</link>
@@ -1626,8 +1626,8 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-07-31-Gallup.png"
         length="273605"
         type="image/png"/>
-      <pubDate>Mon, 31 May 2021 21:16:11 +0200</pubDate>
-      <dc:date>2021-05-31T21:16:11.764366+02:00</dc:date>
+      <pubDate>Tue, 13 Jul 2021 19:12:58 +0200</pubDate>
+      <dc:date>2021-07-13T19:12:58.887328+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Zenter, 24–26 July 2019 – Seat Projections for the Parties</title>
@@ -3189,6 +3189,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2021-07-07T18:39:13.826251+02:00</dc:date>
+    <dc:date>2021-07-13T19:12:58.887328+02:00</dc:date>
   </channel>
 </rss>
