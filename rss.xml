@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Tue, 13 Jul 2021 19:12:58 +0200</pubDate>
+    <pubDate>Thu, 15 Jul 2021 10:56:53 +0200</pubDate>
     <item>
       <title>Opinion Poll by MMR, 24 June–6 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2021-07-06-MMR.html#seats</link>
@@ -730,14 +730,34 @@
       <dc:date>2020-10-18T18:25:58.486077+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Maskína, 24–28 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2020-09-28-Maskína.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 13–17 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 5–8 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 10–13 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 1–5 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 4–6 seats&lt;/li&gt;&lt;li&gt;Píratar: 8–12 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–4 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 7–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2020-09-28-Maskína-seats.png"
+        length="227076"
+        type="image/png"/>
+      <pubDate>Thu, 15 Jul 2021 10:56:53 +0200</pubDate>
+      <dc:date>2021-07-15T10:56:53.615689+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Maskína, 24–28 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2020-09-28-Maskína.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2020-09-28-Maskína-coalitions-seats.png"
+        length="552479"
+        type="image/png"/>
+      <pubDate>Thu, 15 Jul 2021 10:56:53 +0200</pubDate>
+      <dc:date>2021-07-15T10:56:53.615689+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Maskína, 24–28 September 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2020-09-28-Maskína.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 20.1–25.6%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 8.5–12.5%&lt;/li&gt;&lt;li&gt;Samfylkingin: 15.5–20.5%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 4.5–7.7%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 6.2–9.8%&lt;/li&gt;&lt;li&gt;Píratar: 13.4–18.3%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 4.1–7.2%&lt;/li&gt;&lt;li&gt;Viðreisn: 11.9–16.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2020-09-28-Maskína.png"
         length="276420"
         type="image/png"/>
-      <pubDate>Sun, 04 Jul 2021 23:30:38 +0200</pubDate>
-      <dc:date>2021-07-04T23:30:38.896102+02:00</dc:date>
+      <pubDate>Thu, 15 Jul 2021 10:56:53 +0200</pubDate>
+      <dc:date>2021-07-15T10:56:53.615689+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MMR, 10–23 September 2020 – Seat Projections for the Parties</title>
@@ -1620,14 +1640,34 @@
       <dc:date>2020-08-12T21:34:55.663527+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Gallup, 1–31 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-07-31-Gallup.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 13–16 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 7–9 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 8–10 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 7–10 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 5–6 seats&lt;/li&gt;&lt;li&gt;Píratar: 7–10 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 7–9 seats&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-07-31-Gallup-seats.png"
+        length="215818"
+        type="image/png"/>
+      <pubDate>Tue, 13 Jul 2021 19:40:58 +0200</pubDate>
+      <dc:date>2021-07-13T19:40:58.063395+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 1–31 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2019-07-31-Gallup.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-07-31-Gallup-coalitions-seats.png"
+        length="488711"
+        type="image/png"/>
+      <pubDate>Tue, 13 Jul 2021 19:40:58 +0200</pubDate>
+      <dc:date>2021-07-13T19:40:58.063395+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Gallup, 1–31 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2019-07-31-Gallup.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 19.9–23.6%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 10.7–13.6%&lt;/li&gt;&lt;li&gt;Samfylkingin: 12.3–15.4%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 10.8–13.7%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 7.4–9.9%&lt;/li&gt;&lt;li&gt;Píratar: 11.3–14.3%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 2.9–4.7%&lt;/li&gt;&lt;li&gt;Viðreisn: 10.8–13.8%&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 2.5–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2019-07-31-Gallup.png"
         length="273605"
         type="image/png"/>
-      <pubDate>Tue, 13 Jul 2021 19:12:58 +0200</pubDate>
-      <dc:date>2021-07-13T19:12:58.887328+02:00</dc:date>
+      <pubDate>Tue, 13 Jul 2021 19:40:58 +0200</pubDate>
+      <dc:date>2021-07-13T19:40:58.063395+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Zenter, 24–26 July 2019 – Seat Projections for the Parties</title>
@@ -3189,6 +3229,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2021-07-13T19:12:58.887328+02:00</dc:date>
+    <dc:date>2021-07-15T10:56:53.615689+02:00</dc:date>
   </channel>
 </rss>
