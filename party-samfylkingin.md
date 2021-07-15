@@ -171,7 +171,7 @@ Last result: **7** seats (General Election of 28 October 2017)
 | [30 September–1 November 2020](2020-11-01-Gallup.html) | Gallup | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
 | [23–28 October 2020](2020-10-28-MMR.html) | MMR | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [1–30 September 2020](2020-09-30-Gallup.html) | Gallup | 10 | 10–11 | 10–11 | 10–11 | 9–11 |
-| [24–28 September 2020](2020-09-28-Maskína.html) | Maskína | 13 | 11–13 | 11–13 | 10–14 | 10–14 |
+| [24–28 September 2020](2020-09-28-Maskína.html) | Maskína | 13 | 11–13 | 10–13 | 10–13 | 9–14 |
 | [10–23 September 2020](2020-09-23-MMR.html) | MMR | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [26 August–2 September 2020](2020-09-02-MMR.html) | MMR | 10 | 9–12 | 9–12 | 8–12 | 8–12 |
 | [4–31 August 2020](2020-08-31-Gallup.html) | Gallup | 10 | 10–11 | 9–11 | 9–11 | 9–11 |

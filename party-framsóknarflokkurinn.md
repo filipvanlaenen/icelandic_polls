@@ -170,7 +170,7 @@ Last result: **8** seats (General Election of 28 October 2017)
 | [30 September–1 November 2020](2020-11-01-Gallup.html) | Gallup | 5 | 5 | 5 | 5 | 4–6 |
 | [23–28 October 2020](2020-10-28-MMR.html) | MMR | 7 | 6–8 | 6–8 | 5–9 | 5–10 |
 | [1–30 September 2020](2020-09-30-Gallup.html) | Gallup | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [24–28 September 2020](2020-09-28-Maskína.html) | Maskína | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
+| [24–28 September 2020](2020-09-28-Maskína.html) | Maskína | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [10–23 September 2020](2020-09-23-MMR.html) | MMR | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [26 August–2 September 2020](2020-09-02-MMR.html) | MMR | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
 | [4–31 August 2020](2020-08-31-Gallup.html) | Gallup | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -201,7 +201,7 @@ Last result: **8** seats (General Election of 28 October 2017)
 | [9–16 September 2019](2019-09-16-MMR.html) | MMR | 8 | 7–9 | 7–10 | 7–10 | 6–10 |
 | [29 July–1 September 2019](2019-09-01-Gallup.html) | Gallup | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [12–19 August 2019](2019-08-19-MMR.html) | MMR | 7 | 6–8 | 6–8 | 6–9 | 5–10 |
-| [1–31 July 2019](2019-07-31-Gallup.html) | Gallup | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [1–31 July 2019](2019-07-31-Gallup.html) | Gallup | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [24–26 July 2019](2019-07-26-Zenter.html) | Zenter | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | [4–17 July 2019](2019-07-17-MMR.html) | MMR | 6 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [31 May–30 June 2019](2019-06-30-Gallup.html) | Gallup | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
