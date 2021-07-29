@@ -8,7 +8,67 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Thu, 15 Jul 2021 10:56:53 +0200</pubDate>
+    <pubDate>Thu, 29 Jul 2021 13:35:03 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Maskína for Bylgjan, Stöð 2 and Vísir, 1–31 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-07-31-Maskína.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 13–16 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 8–11 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 8–11 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 0–4 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 5–9 seats&lt;/li&gt;&lt;li&gt;Píratar: 7–10 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–3 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 7–10 seats&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-07-31-Maskína-seats.png"
+        length="240740"
+        type="image/png"/>
+      <pubDate>Thu, 29 Jul 2021 12:57:53 +0200</pubDate>
+      <dc:date>2021-07-29T12:57:53.354918+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Maskína for Bylgjan, Stöð 2 and Vísir, 1–31 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-07-31-Maskína.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-07-31-Maskína-coalitions-seats.png"
+        length="597368"
+        type="image/png"/>
+      <pubDate>Thu, 29 Jul 2021 12:57:53 +0200</pubDate>
+      <dc:date>2021-07-29T12:57:53.354918+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Maskína for Bylgjan, Stöð 2 and Vísir, 1–31 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-07-31-Maskína.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 18.4–23.7%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 12.0–16.6%&lt;/li&gt;&lt;li&gt;Samfylkingin: 11.5–16.1%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 4.1–7.2%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 8.1–12.1%&lt;/li&gt;&lt;li&gt;Píratar: 10.7–15.1%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 3.1–5.7%&lt;/li&gt;&lt;li&gt;Viðreisn: 10.3–14.6%&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 4.8–8.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-07-31-Maskína.png"
+        length="314573"
+        type="image/png"/>
+      <pubDate>Thu, 29 Jul 2021 12:57:53 +0200</pubDate>
+      <dc:date>2021-07-29T12:57:53.354918+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prósent for Fréttablaðið, 15–23 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-07-23-Prósent.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 15–18 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 6–9 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 7–9 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 1–4 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 6–8 seats&lt;/li&gt;&lt;li&gt;Píratar: 8–10 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–3 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 5–7 seats&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-07-23-Prósent-seats.png"
+        length="238018"
+        type="image/png"/>
+      <pubDate>Thu, 29 Jul 2021 13:35:03 +0200</pubDate>
+      <dc:date>2021-07-29T13:35:03.180024+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prósent for Fréttablaðið, 15–23 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-07-23-Prósent.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-07-23-Prósent-coalitions-seats.png"
+        length="538339"
+        type="image/png"/>
+      <pubDate>Thu, 29 Jul 2021 13:35:03 +0200</pubDate>
+      <dc:date>2021-07-29T13:35:03.180024+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prósent for Fréttablaðið, 15–23 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-07-23-Prósent.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 22.0–25.3%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 10.7–13.2%&lt;/li&gt;&lt;li&gt;Samfylkingin: 11.4–13.9%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 4.8–6.6%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 9.5–11.9%&lt;/li&gt;&lt;li&gt;Píratar: 12.1–14.7%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 4.2–5.9%&lt;/li&gt;&lt;li&gt;Viðreisn: 9.0–11.3%&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 5.3–7.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-07-23-Prósent.png"
+        length="270568"
+        type="image/png"/>
+      <pubDate>Thu, 29 Jul 2021 13:35:03 +0200</pubDate>
+      <dc:date>2021-07-29T13:35:03.180024+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MMR, 24 June–6 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2021-07-06-MMR.html#seats</link>
@@ -3229,6 +3289,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2021-07-15T10:56:53.615689+02:00</dc:date>
+    <dc:date>2021-07-29T13:35:03.180024+02:00</dc:date>
   </channel>
 </rss>
