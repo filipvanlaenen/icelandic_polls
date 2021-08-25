@@ -205,7 +205,7 @@ Last result: **6** seats (General Election of 28 October 2017)
 | [21–25 October 2019](2019-10-25-MMR.html) | MMR | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [10–14 October 2019](2019-10-14-Zenter.html) | Zenter | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [30 September–9 October 2019](2019-10-09-MMR.html) | MMR | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| [1–30 September 2019](2019-09-30-Gallup.html) | Gallup | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
+| [1–30 September 2019](2019-09-30-Gallup.html) | Gallup | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [9–16 September 2019](2019-09-16-MMR.html) | MMR | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | [29 July–1 September 2019](2019-09-01-Gallup.html) | Gallup | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [12–19 August 2019](2019-08-19-MMR.html) | MMR | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
