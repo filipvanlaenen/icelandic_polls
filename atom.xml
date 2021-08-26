@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/icelandic_polls</id>
   <title>All Registered Polls for the Alþingi</title>
-  <updated>2021-08-23T17:13:02.582123+02:00</updated>
+  <updated>2021-08-26T19:03:48.791674+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sjálfstæðisflokkurinn: 20.6–26.3%, 14–19 seats</li><li>Vinstrihreyfingin – grænt framboð: 12.0–16.8%, 7–11 seats</li><li>Samfylkingin: 10.9–15.5%, 7–10 seats</li><li>Miðflokkurinn: 3.8–6.8%, 0–4 seats</li><li>Framsóknarflokkurinn: 10.5–15.1%, 8–11 seats</li><li>Píratar: 8.0–12.1%, 5–8 seats</li><li>Flokkur fólksins: 3.1–5.9%, 0–3 seats</li><li>Viðreisn: 8.8–13.0%, 5–8 seats</li><li>Sósíalistaflokkur Íslands: 5.4–8.9%, 3–6 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/icelandic_polls/2021-08-23-Maskína.html</id>
+    <link href="https://filipvanlaenen.github.io/icelandic_polls/2021-08-23-Maskína.html"/>
+    <title>Opinion Poll by Maskína for Bylgjan, Stöð 2 and Vísir, 13–23 August 2021</title>
+    <updated>2021-08-26T19:03:48.791674+02:00</updated>
+    <dc:date>2021-08-26T19:03:48.791674+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sjálfstæðisflokkurinn: 23.5–25.6%, 16–18 seats</li><li>Vinstrihreyfingin – grænt framboð: 13.3–15.0%, 9–10 seats</li><li>Samfylkingin: 10.5–12.0%, 7–8 seats</li><li>Miðflokkurinn: 6.1–7.3%, 4–5 seats</li><li>Framsóknarflokkurinn: 9.7–11.2%, 6–8 seats</li><li>Píratar: 11.8–13.4%, 8–9 seats</li><li>Flokkur fólksins: 3.6–4.6%, 0 seats</li><li>Viðreisn: 8.4–9.8%, 5–6 seats</li><li>Sósíalistaflokkur Íslands: 6.1–7.3%, 4–5 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/icelandic_polls/2021-08-15-Gallup.html</id>
@@ -903,5 +911,5 @@
     <updated>2018-03-06T13:52:40.577453+01:00</updated>
     <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
   </entry>
-  <dc:date>2021-08-23T17:13:02.582123+02:00</dc:date>
+  <dc:date>2021-08-26T19:03:48.791674+02:00</dc:date>
 </feed>
