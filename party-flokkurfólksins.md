@@ -10,7 +10,8 @@ Last result: **6.9%** (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.8–5.3% | 3.6–5.6% | 3.4–5.8% | 3.0–6.1% |
+| N/A | [Poll Average](average.html) | 4.2% | 3.7–4.9% | 3.5–5.3% | 3.3–5.6% | 2.9–6.2% |
+| [13–23 August 2021](2021-08-23-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 4.3% | 3.5–5.3% | 3.3–5.6% | 3.1–5.9% | 2.7–6.4% |
 | [29 July–15 August 2021](2021-08-15-Gallup.html) | Gallup | 4.1% | 3.8–4.5% | 3.7–4.5% | 3.6–4.6% | 3.5–4.8% |
 | [1–31 July 2021](2021-07-31-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 4.2% | 3.5–5.2% | 3.2–5.5% | 3.1–5.7% | 2.7–6.3% |
 | [30 June–28 July 2021](2021-07-28-Gallup.html) | Gallup | 4.0% | 3.6–4.4% | 3.5–4.6% | 3.4–4.7% | 3.2–4.9% |
@@ -130,11 +131,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 5% | 100% |  |
-| 3.5–4.5% | 54% | 95% | Median |
-| 4.5–5.5% | 37% | 42% |  |
-| 5.5–6.5% | 5% | 5% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 6% | 99.9% |  |
+| 3.5–4.5% | 73% | 93% | Median |
+| 4.5–5.5% | 18% | 21% |  |
+| 5.5–6.5% | 3% | 3% |  |
 | 6.5–7.5% | 0.1% | 0.1% | Last Result |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -147,7 +148,8 @@ Last result: **4** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| [13–23 August 2021](2021-08-23-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [29 July–15 August 2021](2021-08-15-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [1–31 July 2021](2021-07-31-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [30 June–28 July 2021](2021-07-28-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
@@ -269,10 +271,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 78% | 100% | Median |
-| 1 | 0% | 22% |  |
-| 2 | 0% | 22% |  |
-| 3 | 21% | 22% |  |
+| 0 | 93% | 100% | Median |
+| 1 | 0% | 7% |  |
+| 2 | 0% | 7% |  |
+| 3 | 6% | 7% |  |
 | 4 | 0.7% | 0.7% | Last Result |
 | 5 | 0% | 0% |  |
 
