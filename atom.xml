@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/icelandic_polls</id>
   <title>All Registered Polls for the Alþingi</title>
-  <updated>2021-08-26T19:03:48.791674+02:00</updated>
+  <updated>2021-09-01T18:10:12.57512+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sjálfstæðisflokkurinn: 22.5–26.0%, 14–19 seats</li><li>Vinstrihreyfingin – grænt framboð: 11.0–13.7%, 7–9 seats</li><li>Samfylkingin: 10.2–12.8%, 6–8 seats</li><li>Miðflokkurinn: 6.0–8.1%, 4–5 seats</li><li>Framsóknarflokkurinn: 8.6–11.0%, 5–8 seats</li><li>Píratar: 9.7–12.2%, 6–8 seats</li><li>Flokkur fólksins: 4.1–5.9%, 0–3 seats</li><li>Viðreisn: 9.4–11.9%, 6–8 seats</li><li>Sósíalistaflokkur Íslands: 7.1–9.4%, 4–6 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/icelandic_polls/2021-08-29-Gallup.html</id>
+    <link href="https://filipvanlaenen.github.io/icelandic_polls/2021-08-29-Gallup.html"/>
+    <title>Opinion Poll by Gallup, 29 August 2021</title>
+    <updated>2021-08-31T22:40:02.926317+02:00</updated>
+    <dc:date>2021-08-31T22:40:02.926317+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sjálfstæðisflokkurinn: 21.2–26.7%, 14–19 seats</li><li>Vinstrihreyfingin – grænt framboð: 9.0–13.1%, 5–9 seats</li><li>Samfylkingin: 8.7–12.7%, 5–8 seats</li><li>Miðflokkurinn: 4.8–7.9%, 1–5 seats</li><li>Framsóknarflokkurinn: 10.5–14.8%, 7–12 seats</li><li>Píratar: 8.7–12.7%, 5–8 seats</li><li>Flokkur fólksins: 3.8–6.7%, 0–4 seats</li><li>Viðreisn: 8.6–12.6%, 5–8 seats</li><li>Sósíalistaflokkur Íslands: 7.0–10.7%, 4–7 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/icelandic_polls/2021-08-24-MMR.html</id>
+    <link href="https://filipvanlaenen.github.io/icelandic_polls/2021-08-24-MMR.html"/>
+    <title>Opinion Poll by MMR, 24 August 2021</title>
+    <updated>2021-09-01T18:10:12.57512+02:00</updated>
+    <dc:date>2021-09-01T18:10:12.57512+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sjálfstæðisflokkurinn: 20.6–26.3%, 14–19 seats</li><li>Vinstrihreyfingin – grænt framboð: 12.0–16.8%, 7–11 seats</li><li>Samfylkingin: 10.9–15.5%, 7–10 seats</li><li>Miðflokkurinn: 3.8–6.8%, 0–4 seats</li><li>Framsóknarflokkurinn: 10.5–15.1%, 8–11 seats</li><li>Píratar: 8.0–12.1%, 5–8 seats</li><li>Flokkur fólksins: 3.1–5.9%, 0–3 seats</li><li>Viðreisn: 8.8–13.0%, 5–8 seats</li><li>Sósíalistaflokkur Íslands: 5.4–8.9%, 3–6 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/icelandic_polls/2021-08-23-Maskína.html</id>
@@ -911,5 +927,5 @@
     <updated>2018-03-06T13:52:40.577453+01:00</updated>
     <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
   </entry>
-  <dc:date>2021-08-26T19:03:48.791674+02:00</dc:date>
+  <dc:date>2021-09-01T18:10:12.57512+02:00</dc:date>
 </feed>
