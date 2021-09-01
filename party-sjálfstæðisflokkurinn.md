@@ -10,7 +10,9 @@ Last result: **25.2%** (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.2% | 22.2–25.2% | 21.5–25.6% | 21.0–25.9% | 20.1–26.9% |
+| N/A | [Poll Average](average.html) | 23.9% | 22.1–25.5% | 21.6–25.9% | 21.1–26.4% | 20.2–27.3% |
+| [29 August 2021](2021-08-29-Gallup.html) | Gallup | 24.2% | 23.1–25.4% | 22.8–25.7% | 22.5–26.0% | 22.0–26.5% |
+| [24 August 2021](2021-08-24-MMR.html) | MMR | 23.8% | 22.1–25.7% | 21.6–26.3% | 21.2–26.7% | 20.4–27.6% |
 | [13–23 August 2021](2021-08-23-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 23.3% | 21.5–25.3% | 21.0–25.8% | 20.6–26.3% | 19.7–27.3% |
 | [29 July–15 August 2021](2021-08-15-Gallup.html) | Gallup | 24.5% | 23.8–25.2% | 23.6–25.4% | 23.5–25.6% | 23.1–25.9% |
 | [1–31 July 2021](2021-07-31-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 20.9% | 19.2–22.8% | 18.8–23.3% | 18.4–23.7% | 17.6–24.6% |
@@ -132,16 +134,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.2% | 100% |  |
-| 19.5–20.5% | 1.0% | 99.8% |  |
-| 20.5–21.5% | 4% | 98.8% |  |
-| 21.5–22.5% | 9% | 95% |  |
-| 22.5–23.5% | 15% | 86% |  |
-| 23.5–24.5% | 37% | 71% | Median |
-| 24.5–25.5% | 29% | 34% | Last Result |
-| 25.5–26.5% | 4% | 5% |  |
-| 26.5–27.5% | 0.7% | 0.9% |  |
-| 27.5–28.5% | 0.1% | 0.2% |  |
+| 18.5–19.5% | 0.1% | 100% |  |
+| 19.5–20.5% | 0.9% | 99.9% |  |
+| 20.5–21.5% | 4% | 99.0% |  |
+| 21.5–22.5% | 11% | 95% |  |
+| 22.5–23.5% | 23% | 84% |  |
+| 23.5–24.5% | 31% | 61% | Median |
+| 24.5–25.5% | 20% | 29% | Last Result |
+| 25.5–26.5% | 7% | 9% |  |
+| 26.5–27.5% | 2% | 2% |  |
+| 27.5–28.5% | 0.3% | 0.3% |  |
 | 28.5–29.5% | 0% | 0% |  |
 
 
@@ -153,7 +155,9 @@ Last result: **16** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
+| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–19 | 13–19 |
+| [29 August 2021](2021-08-29-Gallup.html) | Gallup | 16 | 15–19 | 15–19 | 14–19 | 14–19 |
+| [24 August 2021](2021-08-24-MMR.html) | MMR | 17 | 15–19 | 14–19 | 14–19 | 13–19 |
 | [13–23 August 2021](2021-08-23-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 16 | 14–18 | 14–18 | 14–19 | 13–19 |
 | [29 July–15 August 2021](2021-08-15-Gallup.html) | Gallup | 16 | 16–17 | 16–18 | 16–18 | 15–19 |
 | [1–31 July 2021](2021-07-31-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 15 | 13–15 | 13–16 | 13–16 | 12–17 |
@@ -277,13 +281,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 1.1% | 100% |  |
-| 14 | 7% | 98.9% |  |
-| 15 | 16% | 92% |  |
-| 16 | 40% | 76% | Last Result, Median |
-| 17 | 28% | 36% |  |
-| 18 | 6% | 9% |  |
-| 19 | 2% | 2% |  |
-| 20 | 0% | 0.1% |  |
+| 14 | 9% | 98.9% |  |
+| 15 | 23% | 90% |  |
+| 16 | 26% | 67% | Last Result, Median |
+| 17 | 16% | 41% |  |
+| 18 | 15% | 25% |  |
+| 19 | 9% | 10% |  |
+| 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
 
