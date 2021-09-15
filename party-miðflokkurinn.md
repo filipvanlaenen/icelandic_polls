@@ -10,7 +10,9 @@ Last result: **10.9%** (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.3% | 4.7–7.4% | 4.4–7.7% | 4.1–7.9% | 3.7–8.4% |
+| N/A | [Poll Average](average.html) | 6.3% | 4.7–7.9% | 4.4–8.1% | 4.1–8.3% | 3.7–8.7% |
+| [30 August–12 September 2021](2021-09-12-Gallup.html) | Gallup | 7.6% | 7.0–8.2% | 6.8–8.4% | 6.7–8.6% | 6.4–8.9% |
+| [8–10 September 2021](2021-09-10-MMR.html) | MMR | 6.0% | 5.1–7.2% | 4.9–7.5% | 4.7–7.8% | 4.3–8.4% |
 | [29 August 2021](2021-08-29-Gallup.html) | Gallup | 7.0% | 6.3–7.7% | 6.2–7.9% | 6.0–8.1% | 5.7–8.5% |
 | [24 August 2021](2021-08-24-MMR.html) | MMR | 6.2% | 5.2–7.3% | 5.0–7.6% | 4.8–7.9% | 4.4–8.5% |
 | [13–23 August 2021](2021-08-23-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 5.1% | 4.2–6.2% | 4.0–6.6% | 3.8–6.8% | 3.4–7.4% |
@@ -136,11 +138,11 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.3% | 100% |  |
 | 3.5–4.5% | 7% | 99.7% |  |
-| 4.5–5.5% | 22% | 93% |  |
-| 5.5–6.5% | 31% | 71% | Median |
-| 6.5–7.5% | 32% | 40% |  |
-| 7.5–8.5% | 7% | 7% |  |
-| 8.5–9.5% | 0.2% | 0.2% |  |
+| 4.5–5.5% | 23% | 93% |  |
+| 5.5–6.5% | 25% | 69% | Median |
+| 6.5–7.5% | 24% | 44% |  |
+| 7.5–8.5% | 19% | 20% |  |
+| 8.5–9.5% | 1.1% | 1.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% | Last Result |
 
@@ -153,7 +155,9 @@ Last result: **7** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 1–4 | 1–5 | 1–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 4 | 1–5 | 1–5 | 1–5 | 0–6 |
+| [30 August–12 September 2021](2021-09-12-Gallup.html) | Gallup | 5 | 5 | 4–6 | 4–6 | 4–6 |
+| [8–10 September 2021](2021-09-10-MMR.html) | MMR | 4 | 3–4 | 1–4 | 1–5 | 1–5 |
 | [29 August 2021](2021-08-29-Gallup.html) | Gallup | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [24 August 2021](2021-08-24-MMR.html) | MMR | 4 | 3–4 | 1–5 | 1–5 | 1–6 |
 | [13–23 August 2021](2021-08-23-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 3 | 1–3 | 1–4 | 0–4 | 0–4 |
@@ -280,11 +284,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.9% | 100% |  |
 | 1 | 17% | 99.1% |  |
-| 2 | 0% | 82% |  |
-| 3 | 27% | 82% |  |
-| 4 | 46% | 56% | Median |
-| 5 | 9% | 10% |  |
-| 6 | 0.2% | 0.2% |  |
+| 2 | 0.1% | 82% |  |
+| 3 | 29% | 82% |  |
+| 4 | 21% | 53% | Median |
+| 5 | 30% | 32% |  |
+| 6 | 2% | 2% |  |
 | 7 | 0% | 0% | Last Result |
 
 
