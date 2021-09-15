@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/icelandic_polls</id>
   <title>All Registered Polls for the Alþingi</title>
-  <updated>2021-09-01T18:10:12.57512+02:00</updated>
+  <updated>2021-09-15T18:51:33.225925+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sjálfstæðisflokkurinn: 19.7–25.1%, 13–18 seats</li><li>Vinstrihreyfingin – grænt framboð: 8.7–12.7%, 5–9 seats</li><li>Samfylkingin: 9.7–13.9%, 6–9 seats</li><li>Miðflokkurinn: 4.7–7.8%, 1–5 seats</li><li>Framsóknarflokkurinn: 12.8–17.4%, 9–14 seats</li><li>Píratar: 8.1–12.0%, 5–8 seats</li><li>Flokkur fólksins: 3.7–6.6%, 0–4 seats</li><li>Viðreisn: 10.2–14.5%, 6–9 seats</li><li>Sósíalistaflokkur Íslands: 5.3–8.5%, 3–5 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/icelandic_polls/2021-09-10-MMR.html</id>
+    <link href="https://filipvanlaenen.github.io/icelandic_polls/2021-09-10-MMR.html"/>
+    <title>Opinion Poll by MMR, 8–10 September 2021</title>
+    <updated>2021-09-15T18:51:33.225925+02:00</updated>
+    <dc:date>2021-09-15T18:51:33.225925+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sjálfstæðisflokkurinn: 22.5–26.0%, 14–19 seats</li><li>Vinstrihreyfingin – grænt framboð: 11.0–13.7%, 7–9 seats</li><li>Samfylkingin: 10.2–12.8%, 6–8 seats</li><li>Miðflokkurinn: 6.0–8.1%, 4–5 seats</li><li>Framsóknarflokkurinn: 8.6–11.0%, 5–8 seats</li><li>Píratar: 9.7–12.2%, 6–8 seats</li><li>Flokkur fólksins: 4.1–5.9%, 0–3 seats</li><li>Viðreisn: 9.4–11.9%, 6–8 seats</li><li>Sósíalistaflokkur Íslands: 7.1–9.4%, 4–6 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/icelandic_polls/2021-08-29-Gallup.html</id>
@@ -927,5 +935,5 @@
     <updated>2018-03-06T13:52:40.577453+01:00</updated>
     <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
   </entry>
-  <dc:date>2021-09-01T18:10:12.57512+02:00</dc:date>
+  <dc:date>2021-09-15T18:51:33.225925+02:00</dc:date>
 </feed>
