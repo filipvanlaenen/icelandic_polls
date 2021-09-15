@@ -8,7 +8,47 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Wed, 01 Sep 2021 18:10:12 +0200</pubDate>
+    <pubDate>Wed, 15 Sep 2021 18:51:33 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Gallup, 30 August–12 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-09-12-Gallup.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 20.5–23.5%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 10.7–13.0%&lt;/li&gt;&lt;li&gt;Samfylkingin: 9.9–12.2%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 6.7–8.6%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 11.7–14.1%&lt;/li&gt;&lt;li&gt;Píratar: 9.9–12.2%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 4.2–5.7%&lt;/li&gt;&lt;li&gt;Viðreisn: 8.9–11.0%&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 6.9–8.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-09-12-Gallup.png"
+        length="266730"
+        type="image/png"/>
+      <pubDate>Wed, 15 Sep 2021 07:08:22 +0200</pubDate>
+      <dc:date>2021-09-15T07:08:22.938475+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MMR, 8–10 September 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-09-10-MMR.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 13–18 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 5–9 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 6–9 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 1–5 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 9–14 seats&lt;/li&gt;&lt;li&gt;Píratar: 5–8 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–4 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 6–9 seats&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-09-10-MMR-seats.png"
+        length="232849"
+        type="image/png"/>
+      <pubDate>Wed, 15 Sep 2021 18:51:33 +0200</pubDate>
+      <dc:date>2021-09-15T18:51:33.225925+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MMR, 8–10 September 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-09-10-MMR.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-09-10-MMR-coalitions-seats.png"
+        length="610346"
+        type="image/png"/>
+      <pubDate>Wed, 15 Sep 2021 18:51:33 +0200</pubDate>
+      <dc:date>2021-09-15T18:51:33.225925+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MMR, 8–10 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-09-10-MMR.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 19.7–25.1%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 8.7–12.7%&lt;/li&gt;&lt;li&gt;Samfylkingin: 9.7–13.9%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 4.7–7.8%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 12.8–17.4%&lt;/li&gt;&lt;li&gt;Píratar: 8.1–12.0%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 3.7–6.6%&lt;/li&gt;&lt;li&gt;Viðreisn: 10.2–14.5%&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 5.3–8.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-09-10-MMR.png"
+        length="308255"
+        type="image/png"/>
+      <pubDate>Wed, 15 Sep 2021 18:51:33 +0200</pubDate>
+      <dc:date>2021-09-15T18:51:33.225925+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Gallup, 29 August 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2021-08-29-Gallup.html#seats</link>
@@ -3459,6 +3499,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2021-09-01T18:10:12.57512+02:00</dc:date>
+    <dc:date>2021-09-15T18:51:33.225925+02:00</dc:date>
   </channel>
 </rss>
