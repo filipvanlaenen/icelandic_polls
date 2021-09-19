@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Sat, 18 Sep 2021 15:28:55 +0200</pubDate>
+    <pubDate>Sun, 19 Sep 2021 09:52:01 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by MMR for Morgunblaðið, 15–17 September 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-09-17-MMR.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 12–15 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 6–10 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 7–10 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 0–3 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 8–11 seats&lt;/li&gt;&lt;li&gt;Píratar: 6–9 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–4 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 6–8 seats&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 4–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-09-17-MMR-seats.png"
+        length="236404"
+        type="image/png"/>
+      <pubDate>Sun, 19 Sep 2021 09:52:01 +0200</pubDate>
+      <dc:date>2021-09-19T09:52:01.857891+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MMR for Morgunblaðið, 15–17 September 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-09-17-MMR.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-09-17-MMR-coalitions-seats.png"
+        length="549240"
+        type="image/png"/>
+      <pubDate>Sun, 19 Sep 2021 09:52:01 +0200</pubDate>
+      <dc:date>2021-09-19T09:52:01.857891+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MMR for Morgunblaðið, 15–17 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-09-17-MMR.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 18.2–22.6%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 10.4–14.0%&lt;/li&gt;&lt;li&gt;Samfylkingin: 11.2–14.9%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 3.6–5.9%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 11.0–14.7%&lt;/li&gt;&lt;li&gt;Píratar: 10.1–13.7%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 4.4–7.0%&lt;/li&gt;&lt;li&gt;Viðreisn: 9.1–12.5%&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 7.2–10.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-09-17-MMR.png"
+        length="297755"
+        type="image/png"/>
+      <pubDate>Sun, 19 Sep 2021 09:52:01 +0200</pubDate>
+      <dc:date>2021-09-19T09:52:01.857891+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Prósent for Fréttablaðið, 13–16 September 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2021-09-16-Prósent.html#seats</link>
@@ -3609,6 +3639,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2021-09-18T15:28:55.587556+02:00</dc:date>
+    <dc:date>2021-09-19T09:52:01.857891+02:00</dc:date>
   </channel>
 </rss>
