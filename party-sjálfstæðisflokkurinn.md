@@ -10,7 +10,10 @@ Last result: **25.2%** (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.2% | 19.7–22.6% | 19.3–22.9% | 18.8–23.2% | 18.1–23.8% |
+| N/A | [Poll Average](average.html) | 21.0% | 19.6–22.5% | 19.1–23.1% | 18.6–23.6% | 17.8–24.7% |
+| [21–22 September 2021](2021-09-22-MMR.html) | MMR <br> Morgunblaðið | 21.8% | 20.1–23.6% | 19.6–24.1% | 19.2–24.6% | 18.4–25.5% |
+| [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 20.1% | 18.7–21.6% | 18.3–22.0% | 18.0–22.4% | 17.3–23.1% |
+| [13–19 September 2021](2021-09-19-Gallup.html) | Gallup <br> RÚV | 21.2% | 20.4–22.1% | 20.1–22.3% | 19.9–22.5% | 19.6–22.9% |
 | [15–17 September 2021](2021-09-17-MMR.html) | MMR <br> Morgunblaðið | 20.3% | 18.9–21.8% | 18.5–22.2% | 18.2–22.6% | 17.5–23.3% |
 | [13–16 September 2021](2021-09-16-Prósent.html) | Prósent <br> Fréttablaðið | 21.3% | 20.0–22.7% | 19.6–23.1% | 19.3–23.4% | 18.7–24.1% |
 | [8–13 September 2021](2021-09-13-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 21.0% | 20.1–21.9% | 19.8–22.2% | 19.6–22.5% | 19.2–22.9% |
@@ -140,16 +143,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 1.3% | 99.9% |  |
-| 18.5–19.5% | 6% | 98.5% |  |
-| 19.5–20.5% | 20% | 92% |  |
-| 20.5–21.5% | 35% | 73% | Median |
-| 21.5–22.5% | 28% | 38% |  |
-| 22.5–23.5% | 9% | 10% |  |
-| 23.5–24.5% | 1.1% | 1.1% |  |
-| 24.5–25.5% | 0.1% | 0.1% | Last Result |
-| 25.5–26.5% | 0% | 0% |  |
+| 16.5–17.5% | 0.2% | 100% |  |
+| 17.5–18.5% | 2% | 99.8% |  |
+| 18.5–19.5% | 7% | 98% |  |
+| 19.5–20.5% | 21% | 91% |  |
+| 20.5–21.5% | 39% | 69% | Median |
+| 21.5–22.5% | 21% | 30% |  |
+| 22.5–23.5% | 6% | 9% |  |
+| 23.5–24.5% | 2% | 3% |  |
+| 24.5–25.5% | 0.5% | 0.7% | Last Result |
+| 25.5–26.5% | 0.1% | 0.1% |  |
+| 26.5–27.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -160,7 +164,10 @@ Last result: **16** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
+| N/A | [Poll Average](average.html) | 14 | 13–15 | 13–15 | 13–16 | 12–18 |
+| [21–22 September 2021](2021-09-22-MMR.html) | MMR <br> Morgunblaðið | 14 | 13–15 | 13–16 | 13–17 | 13–18 |
+| [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 14 | 13–15 | 13–15 | 12–15 | 11–16 |
+| [13–19 September 2021](2021-09-19-Gallup.html) | Gallup <br> RÚV | 14 | 13–14 | 13–14 | 13–15 | 13–15 |
 | [15–17 September 2021](2021-09-17-MMR.html) | MMR <br> Morgunblaðið | 13 | 13–15 | 12–15 | 12–15 | 11–16 |
 | [13–16 September 2021](2021-09-16-Prósent.html) | Prósent <br> Fréttablaðið | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [8–13 September 2021](2021-09-13-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
@@ -291,14 +298,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.2% | 100% |  |
-| 12 | 2% | 99.8% |  |
-| 13 | 32% | 98% |  |
-| 14 | 36% | 66% | Median |
-| 15 | 25% | 31% |  |
-| 16 | 5% | 6% | Last Result |
-| 17 | 0.6% | 0.7% |  |
-| 18 | 0.1% | 0.1% |  |
+| 11 | 0.5% | 100% |  |
+| 12 | 0.8% | 99.5% |  |
+| 13 | 27% | 98.7% |  |
+| 14 | 48% | 72% | Median |
+| 15 | 21% | 24% |  |
+| 16 | 2% | 3% | Last Result |
+| 17 | 0.6% | 1.1% |  |
+| 18 | 0.5% | 0.5% |  |
 | 19 | 0% | 0% |  |
 
 
