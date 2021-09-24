@@ -164,7 +164,7 @@ Last result: **7** seats (General Election of 28 October 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 1–4 | 1–4 | 1–5 | 0–5 |
 | [21–22 September 2021](2021-09-22-MMR.html) | MMR <br> Morgunblaðið | 1 | 1–3 | 0–3 | 0–3 | 0–4 |
-| [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 4 | 4 | 3–5 | 3–5 | 3–5 |
+| [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [13–19 September 2021](2021-09-19-Gallup.html) | Gallup <br> RÚV | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [15–17 September 2021](2021-09-17-MMR.html) | MMR <br> Morgunblaðið | 1 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [13–16 September 2021](2021-09-16-Prósent.html) | Prósent <br> Fréttablaðið | 4 | 3–4 | 3–4 | 1–5 | 1–5 |
@@ -296,12 +296,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.3% | 100% |  |
-| 1 | 20% | 98.7% |  |
+| 0 | 2% | 100% |  |
+| 1 | 20% | 98% |  |
 | 2 | 0.2% | 78% |  |
-| 3 | 32% | 78% | Median |
-| 4 | 43% | 46% |  |
-| 5 | 2% | 3% |  |
+| 3 | 34% | 78% | Median |
+| 4 | 40% | 44% |  |
+| 5 | 4% | 4% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% | Last Result |
 
