@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Thu, 23 Sep 2021 19:33:17 +0200</pubDate>
+    <pubDate>Thu, 23 Sep 2021 20:44:26 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by MMR for Morgunblaðið, 21–22 September 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-09-22-MMR.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 13–17 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 5–9 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 7–10 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 0–3 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 8–13 seats&lt;/li&gt;&lt;li&gt;Píratar: 5–8 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 3–6 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 5–8 seats&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-09-22-MMR-seats.png"
+        length="251693"
+        type="image/png"/>
+      <pubDate>Thu, 23 Sep 2021 20:00:36 +0200</pubDate>
+      <dc:date>2021-09-23T20:00:36.283506+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MMR for Morgunblaðið, 21–22 September 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-09-22-MMR.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-09-22-MMR-coalitions-seats.png"
+        length="570842"
+        type="image/png"/>
+      <pubDate>Thu, 23 Sep 2021 20:00:36 +0200</pubDate>
+      <dc:date>2021-09-23T20:00:36.283506+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MMR for Morgunblaðið, 21–22 September 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2021-09-22-MMR.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-09-22-MMR.png"
         length="313977"
         type="image/png"/>
-      <pubDate>Thu, 23 Sep 2021 19:33:17 +0200</pubDate>
-      <dc:date>2021-09-23T19:33:17.709308+02:00</dc:date>
+      <pubDate>Thu, 23 Sep 2021 20:00:36 +0200</pubDate>
+      <dc:date>2021-09-23T20:00:36.283506+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prósent for Fréttablaðið, 17–21 September 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-09-21-Prósent.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 12–15 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 5–8 seats&lt;/li&gt;&lt;li&gt;Samfylkingin: 8–11 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 3–5 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 7–11 seats&lt;/li&gt;&lt;li&gt;Píratar: 7–10 seats&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 0–4 seats&lt;/li&gt;&lt;li&gt;Viðreisn: 5–7 seats&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-09-21-Prósent-seats.png"
+        length="243840"
+        type="image/png"/>
+      <pubDate>Thu, 23 Sep 2021 20:44:26 +0200</pubDate>
+      <dc:date>2021-09-23T20:44:26.32371+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prósent for Fréttablaðið, 17–21 September 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-09-21-Prósent.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-09-21-Prósent-coalitions-seats.png"
+        length="510173"
+        type="image/png"/>
+      <pubDate>Thu, 23 Sep 2021 20:44:26 +0200</pubDate>
+      <dc:date>2021-09-23T20:44:26.32371+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prósent for Fréttablaðið, 17–21 September 2021 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-09-21-Prósent.png"
         length="298711"
         type="image/png"/>
-      <pubDate>Thu, 23 Sep 2021 19:11:59 +0200</pubDate>
-      <dc:date>2021-09-23T19:11:59.753227+02:00</dc:date>
+      <pubDate>Thu, 23 Sep 2021 20:44:26 +0200</pubDate>
+      <dc:date>2021-09-23T20:44:26.32371+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Gallup for RÚV, 13–19 September 2021 – Seat Projections for the Parties</title>
@@ -3689,6 +3729,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2021-09-23T19:33:17.709308+02:00</dc:date>
+    <dc:date>2021-09-23T20:44:26.32371+02:00</dc:date>
   </channel>
 </rss>
