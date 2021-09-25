@@ -10,10 +10,10 @@ Last result: **25.2%** (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.0% | 19.2–22.0% | 18.7–22.2% | 18.3–22.4% | 17.6–22.9% |
+| N/A | [Poll Average](average.html) | 21.9% | 19.8–24.0% | 19.2–24.4% | 18.7–24.8% | 17.9–25.8% |
 | [22–24 September 2021](2021-09-24-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 21.4% | 20.7–22.1% | 20.5–22.3% | 20.4–22.5% | 20.1–22.8% |
-| [24 September 2021](2021-09-24-Gallup.html) | Gallup <br> RÚV | 23.4% | N/A | N/A | N/A | N/A |
-| [22–23 September 2021](2021-09-23-MMR.html) | MMR <br> Morgunblaðið | 22.9% | N/A | N/A | N/A | N/A |
+| [24 September 2021](2021-09-24-Gallup.html) | Gallup <br> RÚV | 23.4% | 22.6–24.2% | 22.4–24.4% | 22.2–24.6% | 21.9–25.0% |
+| [22–23 September 2021](2021-09-23-MMR.html) | MMR <br> Morgunblaðið | 22.9% | 21.1–24.7% | 20.7–25.2% | 20.2–25.7% | 19.4–26.6% |
 | [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 20.6% | N/A | N/A | N/A | N/A |
 | [21–22 September 2021](2021-09-22-MMR.html) | MMR <br> Morgunblaðið | 21.8% | 20.1–23.6% | 19.6–24.1% | 19.2–24.6% | 18.4–25.5% |
 | [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 20.1% | 18.7–21.6% | 18.3–22.0% | 18.0–22.4% | 17.3–23.1% |
@@ -147,15 +147,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.4% | 100% |  |
-| 17.5–18.5% | 3% | 99.5% |  |
-| 18.5–19.5% | 12% | 96% |  |
-| 19.5–20.5% | 19% | 84% |  |
-| 20.5–21.5% | 40% | 65% | Median |
-| 21.5–22.5% | 23% | 25% |  |
-| 22.5–23.5% | 2% | 2% |  |
-| 23.5–24.5% | 0.1% | 0.1% |  |
-| 24.5–25.5% | 0% | 0% | Last Result |
+| 16.5–17.5% | 0.2% | 100% |  |
+| 17.5–18.5% | 2% | 99.8% |  |
+| 18.5–19.5% | 6% | 98% |  |
+| 19.5–20.5% | 11% | 92% |  |
+| 20.5–21.5% | 23% | 82% |  |
+| 21.5–22.5% | 20% | 58% | Median |
+| 22.5–23.5% | 21% | 39% |  |
+| 23.5–24.5% | 14% | 18% |  |
+| 24.5–25.5% | 3% | 4% | Last Result |
+| 25.5–26.5% | 0.7% | 0.8% |  |
+| 26.5–27.5% | 0.1% | 0.1% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -166,10 +169,10 @@ Last result: **16** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 13–14 | 13–14 | 13–15 | 12–16 |
-| [22–24 September 2021](2021-09-24-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 13 | 13–14 | 13–14 | 13–14 | 13–15 |
-| [24 September 2021](2021-09-24-Gallup.html) | Gallup <br> RÚV |  |  |  |  |  |
-| [22–23 September 2021](2021-09-23-MMR.html) | MMR <br> Morgunblaðið |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 14 | 13–17 | 13–18 | 13–19 | 12–19 |
+| [22–24 September 2021](2021-09-24-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 14 | 13–14 | 13–14 | 13–15 | 13–15 |
+| [24 September 2021](2021-09-24-Gallup.html) | Gallup <br> RÚV | 17 | 15–18 | 15–18 | 14–18 | 14–18 |
+| [22–23 September 2021](2021-09-23-MMR.html) | MMR <br> Morgunblaðið | 15 | 14–18 | 13–19 | 13–19 | 13–19 |
 | [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir |  |  |  |  |  |
 | [21–22 September 2021](2021-09-22-MMR.html) | MMR <br> Morgunblaðið | 14 | 13–16 | 13–16 | 13–17 | 12–18 |
 | [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 13 | 13–14 | 13–15 | 12–15 | 12–16 |
@@ -304,13 +307,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.2% | 100% |  |
-| 12 | 2% | 99.8% |  |
-| 13 | 59% | 98% | Median |
-| 14 | 35% | 39% |  |
-| 15 | 4% | 5% |  |
-| 16 | 0.5% | 0.5% | Last Result |
-| 17 | 0.1% | 0.1% |  |
-| 18 | 0% | 0% |  |
+| 11 | 0.1% | 100% |  |
+| 12 | 0.9% | 99.9% |  |
+| 13 | 25% | 99.0% |  |
+| 14 | 33% | 74% | Median |
+| 15 | 10% | 41% |  |
+| 16 | 9% | 30% | Last Result |
+| 17 | 14% | 22% |  |
+| 18 | 5% | 8% |  |
+| 19 | 3% | 3% |  |
+| 20 | 0% | 0% |  |
 
 
