@@ -14,7 +14,7 @@ Last result: **10.9%** (General Election of 28 October 2017)
 | [22–24 September 2021](2021-09-24-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 5.5% | 5.1–5.9% | 5.0–6.0% | 4.9–6.1% | 4.8–6.3% |
 | [24 September 2021](2021-09-24-Gallup.html) | Gallup <br> RÚV | 6.8% | 6.4–7.3% | 6.2–7.4% | 6.1–7.5% | 5.9–7.8% |
 | [22–23 September 2021](2021-09-23-MMR.html) | MMR <br> Morgunblaðið | 5.8% | 4.9–7.0% | 4.7–7.3% | 4.5–7.5% | 4.1–8.1% |
-| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 7.1% | N/A | N/A | N/A | N/A |
+| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 7.1% | 6.1–8.3% | 5.8–8.6% | 5.5–8.9% | 5.1–9.6% |
 | [21–22 September 2021](2021-09-22-MMR.html) | MMR <br> Morgunblaðið | 4.7% | 3.9–5.8% | 3.7–6.1% | 3.5–6.3% | 3.2–6.8% |
 | [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 6.6% | 5.8–7.6% | 5.6–7.9% | 5.4–8.2% | 5.0–8.7% |
 | [13–19 September 2021](2021-09-19-Gallup.html) | Gallup <br> RÚV | 6.2% | 5.7–6.7% | 5.6–6.9% | 5.5–7.0% | 5.3–7.3% |
@@ -169,7 +169,7 @@ Last result: **7** seats (General Election of 28 October 2017)
 | [22–24 September 2021](2021-09-24-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 3 | 3 | 3 | 1–3 | 1–4 |
 | [24 September 2021](2021-09-24-Gallup.html) | Gallup <br> RÚV | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [22–23 September 2021](2021-09-23-MMR.html) | MMR <br> Morgunblaðið | 3 | 1–4 | 1–4 | 1–4 | 1–5 |
-| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir |  |  |  |  |  |
+| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | [21–22 September 2021](2021-09-22-MMR.html) | MMR <br> Morgunblaðið | 1 | 1–3 | 0–3 | 0–3 | 0–4 |
 | [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [13–19 September 2021](2021-09-19-Gallup.html) | Gallup <br> RÚV | 4 | 3–4 | 3–4 | 3–4 | 3–4 |

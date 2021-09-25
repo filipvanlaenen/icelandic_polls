@@ -14,7 +14,7 @@ Last result: **6.7%** (General Election of 28 October 2017)
 | [22–24 September 2021](2021-09-24-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 10.1% | 9.6–10.6% | 9.5–10.8% | 9.3–10.9% | 9.1–11.1% |
 | [24 September 2021](2021-09-24-Gallup.html) | Gallup <br> RÚV | 9.2% | 8.7–9.7% | 8.5–9.9% | 8.4–10.0% | 8.2–10.3% |
 | [22–23 September 2021](2021-09-23-MMR.html) | MMR <br> Morgunblaðið | 12.0% | 10.7–13.5% | 10.3–13.9% | 10.0–14.3% | 9.4–15.0% |
-| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 11.4% | N/A | N/A | N/A | N/A |
+| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 11.4% | 10.1–12.9% | 9.7–13.3% | 9.4–13.7% | 8.9–14.4% |
 | [21–22 September 2021](2021-09-22-MMR.html) | MMR <br> Morgunblaðið | 10.1% | 8.9–11.5% | 8.6–11.9% | 8.3–12.3% | 7.8–13.0% |
 | [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 9.3% | 8.3–10.4% | 8.0–10.7% | 7.8–11.0% | 7.3–11.6% |
 | [13–19 September 2021](2021-09-19-Gallup.html) | Gallup <br> RÚV | 10.2% | 9.6–10.9% | 9.4–11.0% | 9.3–11.2% | 9.0–11.5% |
@@ -171,7 +171,7 @@ Last result: **4** seats (General Election of 28 October 2017)
 | [22–24 September 2021](2021-09-24-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [24 September 2021](2021-09-24-Gallup.html) | Gallup <br> RÚV | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [22–23 September 2021](2021-09-23-MMR.html) | MMR <br> Morgunblaðið | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
-| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir |  |  |  |  |  |
+| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [21–22 September 2021](2021-09-22-MMR.html) | MMR <br> Morgunblaðið | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [13–19 September 2021](2021-09-19-Gallup.html) | Gallup <br> RÚV | 6 | 6–7 | 6–7 | 6–7 | 5–7 |

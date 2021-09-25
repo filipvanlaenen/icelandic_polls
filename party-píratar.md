@@ -14,7 +14,7 @@ Last result: **9.2%** (General Election of 28 October 2017)
 | [22–24 September 2021](2021-09-24-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 10.2% | 9.7–10.7% | 9.6–10.9% | 9.4–11.0% | 9.2–11.2% |
 | [24 September 2021](2021-09-24-Gallup.html) | Gallup <br> RÚV | 8.8% | 8.3–9.3% | 8.2–9.5% | 8.0–9.6% | 7.8–9.9% |
 | [22–23 September 2021](2021-09-23-MMR.html) | MMR <br> Morgunblaðið | 9.9% | 8.7–11.3% | 8.4–11.7% | 8.1–12.0% | 7.6–12.7% |
-| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 11.3% | N/A | N/A | N/A | N/A |
+| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 11.3% | 10.0–12.7% | 9.6–13.2% | 9.3–13.5% | 8.8–14.3% |
 | [21–22 September 2021](2021-09-22-MMR.html) | MMR <br> Morgunblaðið | 10.7% | 9.4–12.1% | 9.1–12.5% | 8.8–12.8% | 8.3–13.6% |
 | [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 13.1% | 12.0–14.4% | 11.6–14.8% | 11.4–15.1% | 10.8–15.7% |
 | [13–19 September 2021](2021-09-19-Gallup.html) | Gallup <br> RÚV | 11.5% | 10.9–12.2% | 10.7–12.4% | 10.5–12.5% | 10.2–12.9% |
@@ -172,7 +172,7 @@ Last result: **6** seats (General Election of 28 October 2017)
 | [22–24 September 2021](2021-09-24-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [24 September 2021](2021-09-24-Gallup.html) | Gallup <br> RÚV | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [22–23 September 2021](2021-09-23-MMR.html) | MMR <br> Morgunblaðið | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
-| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir |  |  |  |  |  |
+| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [21–22 September 2021](2021-09-22-MMR.html) | MMR <br> Morgunblaðið | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
 | [13–19 September 2021](2021-09-19-Gallup.html) | Gallup <br> RÚV | 7 | 7–8 | 7–8 | 6–8 | 6–8 |

@@ -14,7 +14,7 @@ Last result: **10.7%** (General Election of 28 October 2017)
 | [22–24 September 2021](2021-09-24-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 15.4% | 14.8–16.0% | 14.6–16.2% | 14.5–16.4% | 14.2–16.6% |
 | [24 September 2021](2021-09-24-Gallup.html) | Gallup <br> RÚV | 14.9% | 14.3–15.6% | 14.1–15.8% | 13.9–15.9% | 13.6–16.3% |
 | [22–23 September 2021](2021-09-23-MMR.html) | MMR <br> Morgunblaðið | 16.4% | 14.9–18.0% | 14.5–18.5% | 14.1–18.9% | 13.4–19.7% |
-| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 13.4% | N/A | N/A | N/A | N/A |
+| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 13.4% | 12.0–15.0% | 11.7–15.5% | 11.3–15.8% | 10.7–16.6% |
 | [21–22 September 2021](2021-09-22-MMR.html) | MMR <br> Morgunblaðið | 14.3% | 12.9–15.9% | 12.5–16.3% | 12.2–16.7% | 11.5–17.5% |
 | [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 12.2% | 11.1–13.5% | 10.8–13.9% | 10.5–14.2% | 10.0–14.8% |
 | [13–19 September 2021](2021-09-19-Gallup.html) | Gallup <br> RÚV | 13.2% | 12.5–13.9% | 12.3–14.1% | 12.2–14.3% | 11.9–14.7% |
@@ -173,7 +173,7 @@ Last result: **8** seats (General Election of 28 October 2017)
 | [22–24 September 2021](2021-09-24-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 12 | 12 | 12 | 11–13 | 11–13 |
 | [24 September 2021](2021-09-24-Gallup.html) | Gallup <br> RÚV | 11 | 11–12 | 11–12 | 10–12 | 9–12 |
 | [22–23 September 2021](2021-09-23-MMR.html) | MMR <br> Morgunblaðið | 12 | 11–14 | 11–15 | 10–15 | 10–16 |
-| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir |  |  |  |  |  |
+| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 9 | 8–11 | 8–12 | 8–12 | 8–12 |
 | [21–22 September 2021](2021-09-22-MMR.html) | MMR <br> Morgunblaðið | 11 | 9–12 | 9–12 | 8–13 | 8–13 |
 | [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [13–19 September 2021](2021-09-19-Gallup.html) | Gallup <br> RÚV | 9 | 9–10 | 9–10 | 8–11 | 8–11 |

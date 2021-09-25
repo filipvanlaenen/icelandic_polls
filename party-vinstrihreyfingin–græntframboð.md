@@ -14,7 +14,7 @@ Last result: **16.9%** (General Election of 28 October 2017)
 | [22–24 September 2021](2021-09-24-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 10.5% | 10.0–11.0% | 9.9–11.2% | 9.7–11.3% | 9.5–11.6% |
 | [24 September 2021](2021-09-24-Gallup.html) | Gallup <br> RÚV | 12.0% | 11.4–12.6% | 11.2–12.8% | 11.1–12.9% | 10.8–13.2% |
 | [22–23 September 2021](2021-09-23-MMR.html) | MMR <br> Morgunblaðið | 9.7% | 8.5–11.0% | 8.2–11.4% | 7.9–11.8% | 7.4–12.5% |
-| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 11.5% | N/A | N/A | N/A | N/A |
+| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 11.5% | 10.2–13.0% | 9.8–13.4% | 9.5–13.8% | 9.0–14.5% |
 | [21–22 September 2021](2021-09-22-MMR.html) | MMR <br> Morgunblaðið | 11.0% | 9.8–12.4% | 9.4–12.8% | 9.1–13.2% | 8.6–13.9% |
 | [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 10.7% | 9.7–11.9% | 9.4–12.3% | 9.1–12.6% | 8.6–13.2% |
 | [13–19 September 2021](2021-09-19-Gallup.html) | Gallup <br> RÚV | 10.2% | 9.6–10.9% | 9.4–11.0% | 9.3–11.2% | 9.0–11.5% |
@@ -172,7 +172,7 @@ Last result: **11** seats (General Election of 28 October 2017)
 | [22–24 September 2021](2021-09-24-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [24 September 2021](2021-09-24-Gallup.html) | Gallup <br> RÚV | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [22–23 September 2021](2021-09-23-MMR.html) | MMR <br> Morgunblaðið | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
-| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir |  |  |  |  |  |
+| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 8 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [21–22 September 2021](2021-09-22-MMR.html) | MMR <br> Morgunblaðið | 7 | 6–8 | 6–8 | 5–9 | 5–10 |
 | [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [13–19 September 2021](2021-09-19-Gallup.html) | Gallup <br> RÚV | 6 | 6–7 | 6–7 | 6–7 | 6–7 |

@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 28 October 2017)
 | [22–24 September 2021](2021-09-24-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 6.1% | 5.7–6.5% | 5.6–6.6% | 5.5–6.7% | 5.3–7.0% |
 | [24 September 2021](2021-09-24-Gallup.html) | Gallup <br> RÚV | 5.3% | 4.9–5.7% | 4.8–5.9% | 4.7–6.0% | 4.5–6.2% |
 | [22–23 September 2021](2021-09-23-MMR.html) | MMR <br> Morgunblaðið | 5.1% | 4.2–6.1% | 4.0–6.4% | 3.8–6.7% | 3.4–7.2% |
-| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 6.6% | N/A | N/A | N/A | N/A |
+| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 6.6% | 5.6–7.8% | 5.4–8.1% | 5.1–8.4% | 4.7–9.1% |
 | [21–22 September 2021](2021-09-22-MMR.html) | MMR <br> Morgunblaðið | 6.1% | 5.2–7.2% | 4.9–7.5% | 4.7–7.8% | 4.3–8.4% |
 | [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 6.9% | 6.0–7.9% | 5.8–8.2% | 5.6–8.4% | 5.2–8.9% |
 | [13–19 September 2021](2021-09-19-Gallup.html) | Gallup <br> RÚV | 7.3% | 6.8–7.9% | 6.6–8.0% | 6.5–8.2% | 6.3–8.4% |
@@ -171,7 +171,7 @@ Last result: **0** seats (General Election of 28 October 2017)
 | [22–24 September 2021](2021-09-24-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [24 September 2021](2021-09-24-Gallup.html) | Gallup <br> RÚV | 3 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [22–23 September 2021](2021-09-23-MMR.html) | MMR <br> Morgunblaðið | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir |  |  |  |  |  |
+| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 4 | 3–5 | 3–5 | 0–5 | 0–6 |
 | [21–22 September 2021](2021-09-22-MMR.html) | MMR <br> Morgunblaðið | 4 | 3–4 | 0–4 | 0–5 | 0–5 |
 | [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [13–19 September 2021](2021-09-19-Gallup.html) | Gallup <br> RÚV | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
