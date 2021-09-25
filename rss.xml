@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Alþingi</title>
     <link>https://filipvanlaenen.github.io/icelandic_polls</link>
     <description>All Registered Polls for the Alþingi</description>
-    <pubDate>Thu, 23 Sep 2021 20:44:26 +0200</pubDate>
+    <pubDate>Sat, 25 Sep 2021 00:19:07 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Maskína for Bylgjan, Stöð 2 and Vísir, 22–24 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-09-24-Maskína.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sjálfstæðisflokkurinn: 20.4–22.5%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð: 9.7–11.3%&lt;/li&gt;&lt;li&gt;Samfylkingin: 12.9–14.7%&lt;/li&gt;&lt;li&gt;Miðflokkurinn: 4.9–6.1%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn: 14.5–16.4%&lt;/li&gt;&lt;li&gt;Píratar: 9.4–11.0%&lt;/li&gt;&lt;li&gt;Flokkur fólksins: 5.6–6.8%&lt;/li&gt;&lt;li&gt;Viðreisn: 9.3–10.9%&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands: 5.5–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-09-24-Maskína.png"
+        length="259558"
+        type="image/png"/>
+      <pubDate>Sat, 25 Sep 2021 00:19:07 +0200</pubDate>
+      <dc:date>2021-09-25T00:19:07.322708+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MMR for Morgunblaðið, 21–22 September 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2021-09-22-MMR.html#seats</link>
@@ -3729,6 +3739,6 @@
       <pubDate>Tue, 06 Mar 2018 13:52:40 +0100</pubDate>
       <dc:date>2018-03-06T13:52:40.577453+01:00</dc:date>
     </item>
-    <dc:date>2021-09-23T20:44:26.32371+02:00</dc:date>
+    <dc:date>2021-09-25T00:19:07.322708+02:00</dc:date>
   </channel>
 </rss>
