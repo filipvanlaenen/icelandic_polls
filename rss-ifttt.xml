@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Alþingi</description>
     <pubDate>Tue, 6 Apr 2021 16:58:10 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Maskína for Bylgjan, Stöð 2 and Vísir, 22–24 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-09-24-Maskína.html</link>
+      <description><![CDATA[Voting intentions for the Alþingi<br/>Opinion poll by Maskína for Bylgjan, Stöð 2 and Vísir, 22–24 September 2021<br/>Details on https://filipvanlaenen.github.io/icelandic_polls/2021-09-24-Maskína.html<br/><img src="https://filipvanlaenen.github.io/icelandic_polls/2021-09-24-Maskína.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-09-24-Maskína.png" length="259558" type="image/png"/>
+      <pubDate>Sat, 25 Sep 2021 00:19:07 +0200</pubDate>
+      <dc:date>2021-09-25T00:19:07.322708+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by MMR for Morgunblaðið, 21–22 September 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/icelandic_polls/2021-09-22-MMR.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Alþingi<br/>32 seats needed for a majority<br/>Opinion poll by MMR for Morgunblaðið, 21–22 September 2021<br/>Details on https://filipvanlaenen.github.io/icelandic_polls/2021-09-22-MMR.html<br/><img src="https://filipvanlaenen.github.io/icelandic_polls/2021-09-22-MMR-seating-plan.png"/>]]></description>
@@ -244,30 +252,6 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-08-29-Gallup.png" length="268929" type="image/png"/>
       <pubDate>Tue, 31 Aug 2021 22:40:02 +0200</pubDate>
       <dc:date>2021-08-31T22:40:02.926317+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by MMR, 24 August 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-08-24-MMR.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Alþingi<br/>32 seats needed for a majority<br/>Opinion poll by MMR, 24 August 2021<br/>Details on https://filipvanlaenen.github.io/icelandic_polls/2021-08-24-MMR.html<br/><img src="https://filipvanlaenen.github.io/icelandic_polls/2021-08-24-MMR-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-08-24-MMR-seating-plan.png" length="457097" type="image/png"/>
-      <pubDate>Wed, 1 Sep 2021 18:10:12 +0200</pubDate>
-      <dc:date>2021-09-01T18:10:12.57512+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by MMR, 24 August 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-08-24-MMR.html#seats</link>
-      <description><![CDATA[Seat projections for the Alþingi<br/>32 seats needed for a majority<br/>Opinion poll by MMR, 24 August 2021<br/>Details on https://filipvanlaenen.github.io/icelandic_polls/2021-08-24-MMR.html<br/><img src="https://filipvanlaenen.github.io/icelandic_polls/2021-08-24-MMR-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-08-24-MMR-seats.png" length="248964" type="image/png"/>
-      <pubDate>Wed, 1 Sep 2021 18:10:12 +0200</pubDate>
-      <dc:date>2021-09-01T18:10:12.57512+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by MMR, 24 August 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/icelandic_polls/2021-08-24-MMR.html</link>
-      <description><![CDATA[Voting intentions for the Alþingi<br/>Opinion poll by MMR, 24 August 2021<br/>Details on https://filipvanlaenen.github.io/icelandic_polls/2021-08-24-MMR.html<br/><img src="https://filipvanlaenen.github.io/icelandic_polls/2021-08-24-MMR.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/icelandic_polls/2021-08-24-MMR.png" length="299592" type="image/png"/>
-      <pubDate>Wed, 1 Sep 2021 18:10:12 +0200</pubDate>
-      <dc:date>2021-09-01T18:10:12.57512+02:00</dc:date>
     </item>
   </channel>
 </rss>
