@@ -10,7 +10,11 @@ Last result: **12.1%** (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.1% | 12.4–15.5% | 12.1–15.9% | 11.9–16.3% | 11.5–17.0% |
+| N/A | [Poll Average](average.html) | 14.1% | 13.3–15.6% | 13.1–16.1% | 12.9–16.5% | 12.5–17.2% |
+| [22–24 September 2021](2021-09-24-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 13.8% | 13.2–14.4% | 13.1–14.6% | 12.9–14.7% | 12.7–15.0% |
+| [24 September 2021](2021-09-24-Gallup.html) | Gallup <br> RÚV | 12.6% | N/A | N/A | N/A | N/A |
+| [22–23 September 2021](2021-09-23-MMR.html) | MMR <br> Morgunblaðið | 11.5% | N/A | N/A | N/A | N/A |
+| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 11.7% | N/A | N/A | N/A | N/A |
 | [21–22 September 2021](2021-09-22-MMR.html) | MMR <br> Morgunblaðið | 13.9% | 12.5–15.4% | 12.1–15.9% | 11.8–16.3% | 11.1–17.0% |
 | [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 14.7% | 13.5–16.1% | 13.2–16.5% | 12.9–16.8% | 12.3–17.5% |
 | [13–19 September 2021](2021-09-19-Gallup.html) | Gallup <br> RÚV | 12.7% | 12.0–13.4% | 11.8–13.6% | 11.7–13.8% | 11.4–14.1% |
@@ -142,15 +146,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.7% | 100% |  |
-| 11.5–12.5% | 12% | 99.3% | Last Result |
-| 12.5–13.5% | 24% | 87% |  |
-| 13.5–14.5% | 28% | 63% | Median |
-| 14.5–15.5% | 26% | 35% |  |
-| 15.5–16.5% | 8% | 9% |  |
-| 16.5–17.5% | 1.3% | 1.4% |  |
-| 17.5–18.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.6% | 100% | Last Result |
+| 12.5–13.5% | 19% | 99.4% |  |
+| 13.5–14.5% | 49% | 80% | Median |
+| 14.5–15.5% | 20% | 31% |  |
+| 15.5–16.5% | 9% | 11% |  |
+| 16.5–17.5% | 2% | 2% |  |
+| 17.5–18.5% | 0.2% | 0.2% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
 
@@ -162,7 +165,11 @@ Last result: **7** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
+| [22–24 September 2021](2021-09-24-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
+| [24 September 2021](2021-09-24-Gallup.html) | Gallup <br> RÚV |  |  |  |  |  |
+| [22–23 September 2021](2021-09-23-MMR.html) | MMR <br> Morgunblaðið |  |  |  |  |  |
+| [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir |  |  |  |  |  |
 | [21–22 September 2021](2021-09-22-MMR.html) | MMR <br> Morgunblaðið | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 10 | 9–10 | 8–11 | 8–11 | 8–12 |
 | [13–19 September 2021](2021-09-19-Gallup.html) | Gallup <br> RÚV | 8 | 8 | 7–9 | 7–9 | 7–9 |
@@ -296,12 +303,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.1% | 100% |  |
-| 7 | 3% | 99.9% | Last Result |
-| 8 | 32% | 97% |  |
-| 9 | 31% | 65% | Median |
-| 10 | 30% | 34% |  |
-| 11 | 3% | 4% |  |
+| 7 | 0.1% | 100% | Last Result |
+| 8 | 12% | 99.9% |  |
+| 9 | 43% | 88% | Median |
+| 10 | 40% | 45% |  |
+| 11 | 5% | 5% |  |
 | 12 | 0.3% | 0.3% |  |
 | 13 | 0% | 0% |  |
 
