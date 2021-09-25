@@ -169,10 +169,10 @@ Last result: **16** seats (General Election of 28 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–17 | 13–18 | 13–19 | 12–19 |
+| N/A | [Poll Average](average.html) | 14 | 13–17 | 13–18 | 13–18 | 12–19 |
 | [22–24 September 2021](2021-09-24-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir | 14 | 13–14 | 13–14 | 13–15 | 13–15 |
 | [24 September 2021](2021-09-24-Gallup.html) | Gallup <br> RÚV | 17 | 15–18 | 15–18 | 14–18 | 14–18 |
-| [22–23 September 2021](2021-09-23-MMR.html) | MMR <br> Morgunblaðið | 15 | 14–18 | 13–19 | 13–19 | 13–19 |
+| [22–23 September 2021](2021-09-23-MMR.html) | MMR <br> Morgunblaðið | 15 | 13–18 | 13–19 | 13–19 | 13–19 |
 | [15–22 September 2021](2021-09-22-Maskína.html) | Maskína <br> Bylgjan, Stöð 2 and Vísir |  |  |  |  |  |
 | [21–22 September 2021](2021-09-22-MMR.html) | MMR <br> Morgunblaðið | 14 | 13–16 | 13–16 | 13–17 | 12–18 |
 | [17–21 September 2021](2021-09-21-Prósent.html) | Prósent <br> Fréttablaðið | 13 | 13–14 | 13–15 | 12–15 | 12–16 |
@@ -309,13 +309,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.1% | 100% |  |
 | 12 | 0.9% | 99.9% |  |
-| 13 | 25% | 99.0% |  |
-| 14 | 33% | 74% | Median |
-| 15 | 10% | 41% |  |
+| 13 | 26% | 99.0% |  |
+| 14 | 29% | 73% | Median |
+| 15 | 14% | 44% |  |
 | 16 | 9% | 30% | Last Result |
-| 17 | 14% | 22% |  |
-| 18 | 5% | 8% |  |
-| 19 | 3% | 3% |  |
+| 17 | 13% | 21% |  |
+| 18 | 6% | 7% |  |
+| 19 | 2% | 2% |  |
 | 20 | 0% | 0% |  |
 
 
